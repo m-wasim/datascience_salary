@@ -1,0 +1,1201 @@
+Type,bedroom,bathroom,furnishing,Carpet Area (ft²),Maintenance (Monthly),facing,Total floor,state,Rent
+Apartments,2,2,Semi-Furnished,700,4000,North-East,6,"Andheri East, Mumbai, Maharashtra","₹ 42,000"
+Apartments,1,2,Furnished,399,999,East,4,"Andheri East, Mumbai, Maharashtra","₹ 20,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,1,1,Furnished,550,5500,North-East,3,"Chikhali, Pune, Maharashtra","₹ 5,500"
+Apartments,2,2,Semi-Furnished,800,1000,East,4,"Model Colony, Nashik, Maharashtra","₹ 15,000"
+Apartments,3,3,Furnished,1800,2000,East,5,"Serene Meadows, Nashik, Maharashtra","₹ 31,000"
+Apartments,3,2,Unfurnished,1300,1000,East,4,"Tidke Nagar, Nashik, Maharashtra","₹ 13,000"
+Apartments,3,3,Furnished,1300,1000,East,6,"Govind Nagar, Nashik, Maharashtra","₹ 16,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,1,1,Unfurnished,400,0,East,9,"Hadapsar, Pune, Maharashtra","₹ 9,000"
+Apartments,1,1,Unfurnished,550,0,East,5,"Kharadi, Pune, Maharashtra","₹ 9,500"
+Apartments,1,1,Unfurnished,550,0,East,5,"Magarpatta City, Pune, Maharashtra","₹ 8,000"
+Apartments,3,3,Semi-Furnished,1200,0,East,12,"Kharadi, Pune, Maharashtra","₹ 22,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,1,1,Unfurnished,455,0000,East,7,"Ulwe, Navi Mumbai, Maharashtra","₹ 7,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,1,2,Unfurnished,500,4500,East,14,"Marol, Mumbai, Maharashtra","₹ 30,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,1,1,Unfurnished,280,0,East,24,"Dadar West, Mumbai, Maharashtra","₹ 16,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Furnished,900,1000,East,8,"Jehan Circle, Nashik, Maharashtra","₹ 25,000"
+Houses & Villas,4,4,Furnished,3000,0,East,1,"Gangapur, Nashik, Maharashtra","₹ 50,000"
+Apartments,1,1,Unfurnished,670,700,North-East,4,"Tetavli, Thane, Maharashtra","₹ 8,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,1,Unfurnished,500,0,Sainandan society,2,"Dhanakwadi, Pune, Maharashtra","₹ 7,500"
+Apartments,1,1,Semi-Furnished,400,0,East,11,"Hadapsar, Pune, Maharashtra","₹ 8,000"
+Apartments,2,2,Unfurnished,900,000,North-East,13,"Ulwe, Navi Mumbai, Maharashtra","₹ 11,000"
+Apartments,2,2,Unfurnished,870,000,North-East,13,"Ulwe, Navi Mumbai, Maharashtra","₹ 12,000"
+Apartments,2,2,Semi-Furnished,998,0,Aanushree Residency,11,"Ashoka Marg, Nashik, Maharashtra","₹ 13,000"
+Apartments,2,2,Furnished,800,0,East,11,"Kharadi, Pune, Maharashtra","₹ 25,000"
+Apartments,2,2,Semi-Furnished,800,0,North-East,7,"Dombivli, Thane, Maharashtra","₹ 15,000"
+Apartments,1,1,Unfurnished,250,0,North,1,"Thankar Pada Kalyan, Thane, Maharashtra","₹ 5,000"
+Builder Floors,2,2,Unfurnished,535,0,North-East,19,"Mira Road East, Mumbai, Maharashtra","₹ 14,000"
+Apartments,2,2,Semi-Furnished,790,0,North-East,3,"Aundh, Pune, Maharashtra","₹ 22,000"
+Apartments,2,1,Semi-Furnished,450,1000,North,4,"Pimpri Chinchwad, Pune, Maharashtra","₹ 11,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,1,1,Unfurnished,425,1,North-West,4,"Nalasopara West, Mumbai, Maharashtra","₹ 3,499"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,1,1,Unfurnished,450,0,East,5,"Viman Nagar, Pune, Maharashtra","₹ 15,000"
+Apartments,1,1,Semi-Furnished,667,875,East,7,"Kopar Khairane, Navi Mumbai, Maharashtra","₹ 20,000"
+Apartments,2,2,Unfurnished,850,0,East,5,"Viman Nagar, Pune, Maharashtra","₹ 22,000"
+Apartments,2,2,Semi-Furnished,850,5,Shagun,2,"Katraj Kondhwa Road, Pune, Maharashtra","₹ 16,500"
+Apartments,1,1,Semi-Furnished,800,000,East,4,"Shatabdi Chowk, Nagpur, Maharashtra","₹ 7,200"
+Apartments,1,1,Semi-Furnished,480,0,North-West,4,"Virar East, Mumbai, Maharashtra","₹ 5,000"
+Apartments,1,1,Semi-Furnished,480,3000,East,7,"Pimple Saudagar, Pune, Maharashtra","₹ 15,000"
+Apartments,2,2,Unfurnished,750,12,Ayaan Society,7,"Wagholi Ubale Nagar, Pune, Maharashtra","₹ 22,000"
+Builder Floors,1,1,Semi-Furnished,600,0,East,3,"Sangam Theatre Chowk, Nagpur, Maharashtra","₹ 6,000"
+Apartments,1,1,Unfurnished,540,708,North-East,4,"Nalasopara East, Mumbai, Maharashtra","₹ 7,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,1,1,Furnished,215,00,East,7,"Hinjewadi, Pune, Maharashtra","₹ 7,400"
+Houses & Villas,1,1,Semi-Furnished,580,100,East,1,"Satguru Colony, Kolhapur, Maharashtra","₹ 4,500"
+Apartments,1,2,Semi-Furnished,500,1600,East,4,"Dombivli, Thane, Maharashtra","₹ 15,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,3,3,Furnished,1300,2000,West,10,"Govind Nagar, Nashik, Maharashtra","₹ 22,000"
+Apartments,1,1,Semi-Furnished,55,0,East,7,"Kothrud, Pune, Maharashtra","₹ 14,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Semi-Furnished,1001,0,East,9,"Keshav Nagar, Pune, Maharashtra","₹ 20,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Builder Floors,1,1,Unfurnished,0000,0,West,9,"Patliputra, Mumbai, Maharashtra","₹ 6,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,1,1,Unfurnished,300,0,East,2,"Airport Road, Pune, Maharashtra","₹ 6,500"
+Apartments,1,2,Unfurnished,425,17,Silicon park,3,"Malad West, Mumbai, Maharashtra","₹ 22,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Semi-Furnished,715,0,North-East,19,"Thana, Maharashtra, India","₹ 17,000"
+Apartments,2,2,Furnished,750,0,North,6,"Ulwe, Navi Mumbai, Maharashtra","₹ 18,000"
+Apartments,2,2,Unfurnished,600,0,West,19,"Dahisar East, Mumbai, Maharashtra","₹ 17,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,1,1,Furnished,450,9,Palm court,4,"Malad West, Mumbai, Maharashtra","₹ 32,000"
+Apartments,2,2,Unfurnished,650,17,Grace luxriya,7,"Malad West, Mumbai, Maharashtra","₹ 40,000"
+Apartments,1,1,Semi-Furnished,450,7,On request,4,"Ulwe, Navi Mumbai, Maharashtra","₹ 7,500"
+Apartments,1,1,Semi-Furnished,336,4,Yac Nagar,4,"Andheri East, Mumbai, Maharashtra","₹ 18,000"
+Builder Floors,1,2,Unfurnished,500,820,North,4,"Karjat, Raigad District, Maharashtra","₹ 7,000"
+Houses & Villas,2,1,Unfurnished,800,0,South,1,"Savedi North, Ahmadnagar, Maharashtra","₹ 7,000"
+Houses & Villas,2,1,Unfurnished,250,00,South-East,3,"Moshi, Pune, Maharashtra","₹ 5,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,1,1,Unfurnished,435,00,East,4,"Taloja Panchanand, Navi Mumbai, Maharashtra","₹ 5,500"
+Apartments,2,2,Semi-Furnished,900,1000,East,4,"Govind Nagar, Nashik, Maharashtra","₹ 14,000"
+Apartments,1,1,Unfurnished,420,0,West,7,"Taloja Panchanand, Navi Mumbai, Maharashtra","₹ 6,000"
+Apartments,1,1,Unfurnished,No,4,Chitamani residency,1,"Keshav Nagar, Pune, Maharashtra","₹ 5,000"
+Apartments,1,1,Semi-Furnished,560,500,South,3,"Yashwant Nagar, Talegaon Dabhade, Maharashtra","₹ 6,000"
+Apartments,1,1,Semi-Furnished,400,0,wellington mews,4,"Koregaon park, Pune, Maharashtra","₹ 21,000"
+Apartments,2,1,Furnished,299,20,"Sagar avenue, Krishna Regency",10,"Santacruz East, Mumbai, Maharashtra","₹ 32,500"
+Apartments,2,1,Semi-Furnished,650,600,West,4,"Sadashiv Peth, Pune, Maharashtra","₹ 20,000"
+Apartments,2,2,Unfurnished,673,00,North-West,12,"Taloja Panchanand, Navi Mumbai, Maharashtra","₹ 9,000"
+Builder Floors,1,1,Unfurnished,660,400,East,3,"OM Colony, Dehu Cantt, Maharashtra","₹ 11,000"
+Apartments,1,1,Unfurnished,500,4,Shree Samarth krupa estate agency,0,"Vishnu nagar Dombivli west, Thane, Maharashtra","₹ 5,00,000"
+Apartments,2,2,Semi-Furnished,980,1500,East,13,"Ambegaon, Pune, Maharashtra","₹ 15,000"
+Apartments,3,3,Furnished,2000,1000,East,2,"Savrkar Chowk, Nashik, Maharashtra","₹ 28,000"
+Apartments,1,1,Unfurnished,350,3,Abc,2,"Dange Chowk Road, Pune, Maharashtra","₹ 7,500"
+Apartments,2,2,Semi-Furnished,800,935,Mira Society,1,"Guru Nanak Nagar, Pune, Maharashtra","₹ 22,000"
+Apartments,2,2,Furnished,1250,0,West,13,"Kurla West, Mumbai, Maharashtra","₹ 60,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,1,1,Unfurnished,800,8000,East,1,"Ramna Nagar, Nagpur, Maharashtra","₹ 8,000"
+Apartments,1,1,Semi-Furnished,640,1500,Sai vaibhav,6,"Pimple Saudagar, Pune, Maharashtra","₹ 15,000"
+Apartments,1,1,Unfurnished,500,250,East,4,"Gangotri Nagar, Pune, Maharashtra","₹ 8,000"
+Houses & Villas,1,1,Unfurnished,25,200,East,0,"Ushma Nagar, Mumbai, Maharashtra","₹ 6,000"
+Apartments,1,2,Semi-Furnished,450,0,North,18,"Jogeshwari West, Mumbai, Maharashtra","₹ 31,000"
+Apartments,2,2,Semi-Furnished,880,0,West,19,"Jogeshwari West, Mumbai, Maharashtra","₹ 41,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,3,2,Furnished,1000,15,"Common Wealth , Bund Garden road",6,"Bund Garden, Pune, Maharashtra","₹ 30,000"
+Apartments,1,1,Unfurnished,460,00,North,7,"Umesh Nagar, Thane, Maharashtra","₹ 8,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,1,1,Semi-Furnished,510,0,East,7,"Airoli, Navi Mumbai, Maharashtra","₹ 16,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Semi-Furnished,850,0,East,7,"Airoli, Navi Mumbai, Maharashtra","₹ 20,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Semi-Furnished,850,0,East,22,"Airoli, Navi Mumbai, Maharashtra","₹ 35,000"
+Apartments,3,3,Semi-Furnished,1250,0,North,22,"Airoli, Navi Mumbai, Maharashtra","₹ 41,000"
+Apartments,1,1,Furnished,520,500,North-East,4,"Bhawani Peth, Pune, Maharashtra","₹ 13,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,1,1,Semi-Furnished,575,0,East,3,"Shaniwar Peth, Pune, Maharashtra","₹ 16,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,1,1,Unfurnished,465,0,East,5,"Nanded City, Pune, Maharashtra","₹ 7,500"
+Apartments,1,2,Semi-Furnished,650,0,North-East,7,"Taloja, Navi Mumbai, Maharashtra","₹ 10,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,1,1,Unfurnished,485,000,East,4,"Kopar Khairane, Navi Mumbai, Maharashtra","₹ 14,000"
+Apartments,1,1,Furnished,600,500,East,3,"Vasai West, Mumbai, Maharashtra","₹ 13,000"
+Apartments,1,1,Unfurnished,299,10,Pushpanjali Housing Society & Sameer CHS,1,"Andheri West, Mumbai, Maharashtra","₹ 30,000"
+Apartments,1,1,Unfurnished,269,1,North-East,23,"Malad West, Mumbai, Maharashtra","₹ 14,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Unfurnished,667,2000,North-West,4,"Taloja Panchanand, Navi Mumbai, Maharashtra","₹ 9,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Builder Floors,1,1,Semi-Furnished,225,0,East,8,"Prabhadevi, Mumbai, Maharashtra","₹ 15,000"
+Apartments,1,2,Unfurnished,600,0,East,12,"Wagholi, Pune, Maharashtra","₹ 2,125"
+Apartments,2,2,Unfurnished,750,300,North,4,"Keshav Nagar, Pune, Maharashtra","₹ 4,000"
+Apartments,2,2,Unfurnished,850,0,East,7,"Ulwe, Navi Mumbai, Maharashtra","₹ 11,500"
+Apartments,3,3,Semi-Furnished,1000,0,East,10,"Ulwe, Navi Mumbai, Maharashtra","₹ 21,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Semi-Furnished,950,0,West,11,"Wagholi, Pune, Maharashtra","₹ 12,000"
+Apartments,2,2,Furnished,680,0,East,4,"Vashi, Navi Mumbai, Maharashtra","₹ 29,000"
+Apartments,2,2,Furnished,1200,100,West,6,"Andheri West, Mumbai, Maharashtra","₹ 12,000"
+Apartments,2,2,Semi-Furnished,800,0,East,4,"Dhanori, Pune, Maharashtra","₹ 3,200"
+Apartments,2,2,Furnished,750,0,South-West,5,"Vashi, Navi Mumbai, Maharashtra","₹ 35,000"
+Houses & Villas,1,2,Semi-Furnished,900,0,East,2,"Gorewada Road, Nagpur, Maharashtra","₹ 5,500"
+Apartments,2,2,Unfurnished,721,0000,West,13,"Ulwe, Navi Mumbai, Maharashtra","₹ 11,000"
+Apartments,1,1,Unfurnished,550,14000,West,4,"Mira Road, Mumbai, Maharashtra","₹ 14,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Builder Floors,1,1,Unfurnished,275,350,North,4,"Shailesh Nagar, Thane, Maharashtra","₹ 5,000"
+Apartments,2,2,Furnished,2200,0,East,5,"Sadar Bazaar, Nagpur, Maharashtra","₹ 14,000"
+Apartments,3,3,Semi-Furnished,1400,0,South-West,13,"Vashi, Navi Mumbai, Maharashtra","₹ 42,000"
+Apartments,2,2,Unfurnished,700,7,The kings realty,0,"Kausa, Thane, Maharashtra","₹ 16,000"
+Apartments,3,3,Semi-Furnished,1200,0,East,6,"Sadar Bazaar, Nagpur, Maharashtra","₹ 10,000"
+Apartments,2,2,Semi-Furnished,750,0,East,5,"Vashi, Navi Mumbai, Maharashtra","₹ 35,000"
+Apartments,1,2,Unfurnished,600,0,East,12,"Wagholi, Pune, Maharashtra","₹ 2,300"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,1,Unfurnished,460,0,North-East,14,"Kutak Bandhan, Navi Mumbai, Maharashtra","₹ 4,250"
+Apartments,2,2,Furnished,700,1200,East,4,"Vitthal Nagar, Dehu, Maharashtra","₹ 12,500"
+Houses & Villas,3,3,Unfurnished,1400,1,North-East,2,"Vashi, Navi Mumbai, Maharashtra","₹ 42,000"
+Apartments,2,2,Furnished,700,1,West,3,"Vashi, Navi Mumbai, Maharashtra","₹ 27,000"
+Apartments,1,1,Semi-Furnished,512,0,East,3,"Dombivli, Thane, Maharashtra","₹ 12,000"
+Apartments,1,1,Unfurnished,450,0,North-East,4,"Dombivli, Thane, Maharashtra","₹ 8,000"
+Apartments,1,2,Semi-Furnished,500,00,North,18,"Dombivli East, Mumbai, Maharashtra","₹ 7,000"
+Apartments,2,2,Unfurnished,7500,000,East,13,"Ulwe, Navi Mumbai, Maharashtra","₹ 13,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Semi-Furnished,680,1,North-West,13,"Vashi, Navi Mumbai, Maharashtra","₹ 34,000"
+Apartments,1,2,Unfurnished,375,0,East,24,"Kandivali West, Mumbai, Maharashtra","₹ 23,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,1,1,Unfurnished,350,0,East,3,"Kothrud, Pune, Maharashtra","₹ 8,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,1,1,Semi-Furnished,450,0,East,7,"Malad West, Mumbai, Maharashtra","₹ 20,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,1,1,Unfurnished,650,0,East,11,"Chikhali, Pune, Maharashtra","₹ 10,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,1,Unfurnished,615,600,East,4,"Amravati Mahanagar, Amravati, Maharashtra","₹ 10,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,1,Unfurnished,800,0,West,6,"Narhe, Pune, Maharashtra","₹ 1,900"
+Apartments,2,2,Semi-Furnished,800,5,Mmm,1,"Manish Nagar, Nagpur, Maharashtra","₹ 7,500"
+Builder Floors,1,1,Furnished,100,3,ravi bhawan,2,"Shankar Nagar, Nagpur, Maharashtra","₹ 5,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,3,Semi-Furnished,900,00,North-East,6,"Kopar Khairane, Navi Mumbai, Maharashtra","₹ 16,500"
+Apartments,2,2,Semi-Furnished,800,0,East,27,"Kharadi, Pune, Maharashtra","₹ 25,000"
+Apartments,1,2,Unfurnished,450,0,North,7,"Ulwe, Navi Mumbai, Maharashtra","₹ 7,500"
+Apartments,1,1,Semi-Furnished,475,1000,North,4,"Marol, Mumbai, Maharashtra","₹ 28,000"
+Apartments,2,1,Unfurnished,650,0,West,3,"Sanpada, Navi Mumbai, Maharashtra","₹ 23,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,1,1,Unfurnished,800,4,Rent,1,"Mumbra, Thane, Maharashtra","₹ 5,000"
+Apartments,2,2,Furnished,610,2000,East,10,"Lohegaon, Pune, Maharashtra","₹ 16,000"
+Apartments,1,1,Unfurnished,450,7000,West,7,"Ulwe, Navi Mumbai, Maharashtra","₹ 7,000"
+Apartments,2,2,Unfurnished,550,500,East,7,"Bopkhel, Pune, Maharashtra","₹ 12,000"
+Apartments,2,2,Semi-Furnished,1000,7,Bhoomi Sagar,7,"Kamothe, Navi Mumbai, Maharashtra","₹ 3,000"
+Apartments,2,2,Unfurnished,585,00,West,7,"Kausa, Thane, Maharashtra","₹ 14,000"
+Houses & Villas,1,1,Furnished,180,200,East,2,"Sutarwadi, Pune, Maharashtra","₹ 6,200"
+Apartments,2,2,Semi-Furnished,650,0,East,4,"Goregaon East, Mumbai, Maharashtra","₹ 35,000"
+Apartments,2,2,Semi-Furnished,800,500,East,3,"Nashik Road, Nashik, Maharashtra","₹ 8,000"
+Builder Floors,1,2,Unfurnished,1100,0,West,0,"Dhadi Wal Layout, Nagpur, Maharashtra","₹ 7,000"
+Apartments,1,1,Unfurnished,560,750,South,4,"Dr Babasaheb Ambedkar Chowk, Lonavala, Maharashtra","₹ 7,800"
+Apartments,1,1,Furnished,500,1000,North-East,15,"Taloja Panchanand, Navi Mumbai, Maharashtra","₹ 4,00,000"
+Apartments,1,1,Semi-Furnished,380,000,East,7,"Nalasopara West, Mumbai, Maharashtra","₹ 4,500"
+Apartments,2,1,Unfurnished,811,5,Shree Bhekrai Developer,2,"Bhekrai Nagar, Pune, Maharashtra","₹ 10,000"
+Apartments,1,1,Unfurnished,480,00,East,2,"Wadgaon Sheri, Pune, Maharashtra","₹ 10,000"
+Houses & Villas,1,1,Unfurnished,200,00,East,2,"Katraj, Pune, Maharashtra","₹ 3,800"
+Apartments,4,3,Semi-Furnished,1500,0,East,3,"Rasta Peth, Pune, Maharashtra","₹ 30,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Semi-Furnished,1100,1000,North-East,6,"Camp Area, Amravati, Maharashtra","₹ 10,000"
+Houses & Villas,1,1,Unfurnished,150,7000,North-West,1,"Goregaon West, Mumbai, Maharashtra","₹ 7,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Builder Floors,3,3,Semi-Furnished,1000,450,North-East,3,"Wadar Colony, Chiplun, Maharashtra","₹ 30,00,000"
+Apartments,1,2,Semi-Furnished,550,00,East,6,"Andheri East, Mumbai, Maharashtra","₹ 12,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Furnished,750,00,East,07,"Andheri East, Mumbai, Maharashtra","₹ 6,500"
+Houses & Villas,3,3,Semi-Furnished,1400,0,North-East,2,"Jaripatka, Nagpur, Maharashtra","₹ 16,500"
+Builder Floors,1,1,Furnished,175,250,South,3,"Bajaj Nagar, Waluj MIDC, Maharashtra","₹ 3,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Unfurnished,700,1000,East,4,"Besa, Nagpur, Maharashtra","₹ 9,000"
+Apartments,1,1,Furnished,635,0,East,6,"Kharadi, Pune, Maharashtra","₹ 15,000"
+Apartments,2,2,Unfurnished,500,3000,East,22,"Mira Road, Mumbai, Maharashtra","₹ 16,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,1,1,Unfurnished,600,500,North-East,5,"Kothrud, Pune, Maharashtra","₹ 14,000"
+Apartments,1,1,Semi-Furnished,580,100,East,3,"Viman Nagar Road, Pune, Maharashtra","₹ 8,000"
+Apartments,2,2,Unfurnished,800,0,South-East,12,"Somatne, Pune, Maharashtra","₹ 7,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,1,1,Semi-Furnished,350,670,North-East,3,"Kalher, Thane, Maharashtra","₹ 6,500"
+Houses & Villas,2,1,Unfurnished,1000,8000,North-West,0,"Arvi, Latur, Maharashtra","₹ 8,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,1,1,Unfurnished,600,00,East,3,"Datawadi, Nagpur, Maharashtra","₹ 5,500"
+Houses & Villas,4+,4+,Furnished,2400,0,West,1,"Goregaon West, Mumbai, Maharashtra","₹ 1,20,000"
+Apartments,1,1,Semi-Furnished,650,200,South,3,"Pimple Gurav, Pune, Maharashtra","₹ 10,500"
+Apartments,2,1,Semi-Furnished,825,600,East,3,"Yerwada, Pune, Maharashtra","₹ 16,500"
+Apartments,1,1,Furnished,450,0,North-East,4,"Dombivli East, Mumbai, Maharashtra","₹ 10,500"
+Apartments,2,2,Unfurnished,650,100,West,3,"Manjari Road Village, Pune, Maharashtra","₹ 8,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Furnished,360,600,East,2,"Ghansoli, Navi Mumbai, Maharashtra","₹ 13,500"
+Apartments,2,1,Furnished,299,20,"Sagar avenue, Krishna Regency",10,"Santacruz East, Mumbai, Maharashtra","₹ 32,500"
+Apartments,2,2,Semi-Furnished,750,0,East,11,"Hinjewadi Rajiv Gandhi Infotech Park Phase 1, Pune, Maharashtra","₹ 5,500"
+Builder Floors,1,1,Unfurnished,400,0,East,3,"Mahaveer Nagar, Pune, Maharashtra","₹ 9,000"
+Apartments,1,1,Furnished,240,7,Csr complex,3,"Kandivali West, Mumbai, Maharashtra","₹ 13,000"
+Apartments,1,1,Semi-Furnished,400,6,Jankalyan Nagar,1,"Kandivali West, Mumbai, Maharashtra","₹ 18,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,3,3,Semi-Furnished,1500,2600,East,13,"Edappally, Kochi, Kerala","₹ 15,000"
+Houses & Villas,2,2,Semi-Furnished,800,00,East,2,"Kazhakoottam, Thiruvananthapuram, Kerala","₹ 10,000"
+Apartments,3,3,Semi-Furnished,100,0,East,17,"Kakkanad, Kochi, Kerala","₹ 18,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,2,Semi-Furnished,900,0,East,1,"Kakkanad, Kochi, Kerala","₹ 6,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,1,1,Semi-Furnished,500,0,East,2,"CSEZ, Kochi, Kerala","₹ 7,250"
+Houses & Villas,3,3,Semi-Furnished,1,0,East,2,"Kakkanad, Kochi, Kerala","₹ 14,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,1,1,Furnished,560,0,Asm,3,"Kadavanthra, Kochi, Kerala","₹ 11,000"
+Houses & Villas,2,2,Furnished,850,10000,East,2,"Ponekkara, Kochi, Kerala","₹ 15,00,000"
+Houses & Villas,3,3,Unfurnished,200,15000,West,2,"Thirumala, Thiruvananthapuram, Kerala","₹ 12,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,3,Semi-Furnished,1500,0,East,1,"Keralapuram, Kollam, Kerala","₹ 8,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,3,3,Semi-Furnished,1,2000,East,12,"Kakkanad, Kochi, Kerala","₹ 11,000"
+Apartments,3,3,Unfurnished,Yes,5,Xa 7012149479 / 9349584897,1,"Mundamveli, Kochi, Kerala","₹ 12,000"
+Houses & Villas,3,3,Unfurnished,2000,100,West,2,"East Hill, Kozhikode, Kerala","₹ 30,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Furnished,120,3000,Kent mahel,19,"Info Park Industrial Area, Kochi, Kerala","₹ 15,000"
+Apartments,2,2,Semi-Furnished,100,1500,A star realtors,11,"Info Park Industrial Area, Kochi, Kerala","₹ 10,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,1,1,Semi-Furnished,350,0,West,3,"Kakkanad, Kochi, Kerala","₹ 8,000"
+Houses & Villas,1,1,Semi-Furnished,350,100,West,3,"Kakkanad, Kochi, Kerala","₹ 8,000"
+Apartments,3,3,Furnished,1540,2500,All type of Rental flat in City,23,"Palarivattom, Kochi, Kerala","₹ 21,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,3,Unfurnished,000,000,East,1,"Veliya Lukal, Thrissur, Kerala","₹ 10,500"
+Apartments,1,1,Builder,Yes,2,SK APARTMENT,2,"Mekkara, Thrippunithura, Kerala","₹ 7,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,3,3,Semi-Furnished,1500,0,West,15,"Kakkanad, Kochi, Kerala","₹ 13,250"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,1,1,Semi-Furnished,600,0,Asm,3,"Kadavanthara, Kochi, Kerala","₹ 10,000"
+Apartments,2,2,Furnished,1020,21,All type of Rental flat in Kochi,16,"Palarivattom, Kochi, Kerala","₹ 20,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Unfurnished,1000,0,East,2,"Polayattudu, Kollam, Kerala","₹ 8,000"
+Houses & Villas,3,2,Unfurnished,600,2,for Rent,1,"Manvila, Thiruvananthapuram, Kerala","₹ 25,000"
+Houses & Villas,3,3,Semi-Furnished,750,0,North,1,"Vazhakkala, Kochi, Kerala","₹ 14,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Furnished,1000,2,Sara homes,2,"Chandralayam, Mattannur, Kerala","₹ 15,000"
+Apartments,3,3,Furnished,2200,2500,North,4,"Panampilly Nagar, Kochi, Kerala","₹ 35,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,3,3,Furnished,1250,2000,Jos Alukkas Imperial Towers,12,"Kuttanellur, Thrissur, Kerala","₹ 20,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Furnished,950,4000,South,25,"Kakkanad, Kochi, Kerala","₹ 13,500"
+Houses & Villas,4,3,Semi-Furnished,2000,0,North-East,2,"Calicut Beach, Kozhikode, Kerala","₹ 8,500"
+Apartments,2,2,Unfurnished,1110,1000,South,3,"Edappally, Kochi, Kerala","₹ 13,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,1,Unfurnished,600,0,East,3,"Vyttila, Kochi, Kerala","₹ 7,500"
+Apartments,3,3,Furnished,1620,2500,North-East,21,"Thondayad, Kozhikode, Kerala","₹ 20,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,3,3,Unfurnished,1550,2500,East,15,"Kakkanad, Kochi, Kerala","₹ 15,000"
+Apartments,1,1,Semi-Furnished,600,1700,Windsor court,11,"Ernakulam, Kochi, Kerala","₹ 13,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,1,2,Semi-Furnished,10,1,North,3,"Aranmula, Kozhenchery, Kerala","₹ 2,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,3,3,Semi-Furnished,915,14,Green Valley,5,"Pullanivila, Thiruvananthapuram, Kerala","₹ 15,000"
+Apartments,3,3,Furnished,228,40000,A star realtors,19,"Kakkanad, Kochi, Kerala","₹ 27,000"
+Apartments,3,3,Furnished,1412,3000,Apartment for Rent,17,"Kakkanad, Kochi, Kerala","₹ 21,000"
+Houses & Villas,2,2,Semi-Furnished,1700,1000,East,1,"Vazhayila, Thiruvananthapuram, Kerala","₹ 9,000"
+Apartments,3,3,Furnished,2000,3000,East,10,"Pulinchode Junction, Aluva, Kerala","₹ 30,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,2,Semi-Furnished,1200,2,House,1,"Palarivattom, Kochi, Kerala","₹ 13,000"
+Apartments,2,2,Furnished,1000,3500,East,14,"Kaloor, Kochi, Kerala","₹ 19,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,2,Unfurnished,1000,0,East,2,"Sasthamangalam, Thiruvananthapuram, Kerala","₹ 12,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,3,2,Semi-Furnished,1100,0,Independent house for rent in Uliyil town,0,"Talap, Kannur, Kerala","₹ 10,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,4,4,Furnished,2700,2,S&S builders,2,"Paippad, Changanacheri, Kerala","₹ 1,00,00,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,1,Semi-Furnished,1,2,"വീട് ഒട്ടിക്ക് (minnamcode,peyad P O)",2,"Peyad, Thiruvananthapuram, Kerala","₹ 3,00,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Furnished,1200,0,North,3,"Angadipuram, Perinthalmanna, Kerala","₹ 13,000"
+Apartments,2,2,Semi-Furnished,1000,11000,North,2,"Kamaleswaram, Thiruvananthapuram, Kerala","₹ 11,000"
+Apartments,3,4,Semi-Furnished,1320,400,East,3,"Kakkanad, Kochi, Kerala","₹ 14,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Semi-Furnished,100,100,East,3,"Kakkanad, Kochi, Kerala","₹ 9,000"
+Apartments,1,1,Semi-Furnished,100,100,East,2,"Kakkanad, Kochi, Kerala","₹ 7,000"
+Houses & Villas,2,2,Semi-Furnished,1000,100,East,2,"Kakkanad, Kochi, Kerala","₹ 9,000"
+Apartments,2,2,Semi-Furnished,100,100,East,2,"Kakkanad, Kochi, Kerala","₹ 8,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Semi-Furnished,600,500,North,2,"Karumom, Thiruvananthapuram, Kerala","₹ 8,500"
+Apartments,2,2,Semi-Furnished,500,500,West,3,"Ernad, Manjeri, Kerala","₹ 9,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,4,3,Furnished,0,0,East,2,"Pettah, Thiruvananthapuram, Kerala","₹ 18,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,1,1,Semi-Furnished,300,100,East,2,"Edappally, Kochi, Kerala","₹ 6,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,1,1,Furnished,175,3,Rtu,3,"Kadavanthara, Kochi, Kerala","₹ 6,000"
+Apartments,2,2,Semi-Furnished,100,100,East,2,"Kakkanad, Kochi, Kerala","₹ 10,000"
+Apartments,1,1,Semi-Furnished,100,100,East,2,"Kakkanad, Kochi, Kerala","₹ 5,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,3,2,Furnished,1100,2000,East,4,"Kakkanad, Kochi, Kerala","₹ 1,60,006"
+Houses & Villas,2,2,Semi-Furnished,1000,0,East,2,"Kathrikadavu, Kochi, Kerala","₹ 10,500"
+Houses & Villas,2,2,Semi-Furnished,950,0,West,2,"Kathrikadavu, Kochi, Kerala","₹ 9,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,3,2,Unfurnished,850,100,East,1,"Nit, Kozhikode, Kerala","₹ 10,000"
+Houses & Villas,4,4,Unfurnished,1700,500,North,2,"Kuttikattur, Kozhikode, Kerala","₹ 15,000"
+Houses & Villas,2,1,Semi-Furnished,750,2,Nil,2,"Manuti, Thrissur, Kerala","₹ 5,00,000"
+Apartments,1,1,Furnished,600,4,Asm,2,"Edapally, Kochi, Kerala","₹ 17,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Semi-Furnished,1400,3,KANNOTH APPARTMENT,1,"Kalamassery, Kochi, Kerala","₹ 10,000"
+Apartments,2,2,Semi-Furnished,450,3,Thavakal,1,"Vazhakkala, Kochi, Kerala","₹ 10,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,3,3,Semi-Furnished,1750,3000,East,11,"Paravur Junction, Aluva, Kerala","₹ 20,000"
+Apartments,2,2,Unfurnished,600,0,East,1,"Vytila, Kochi, Kerala","₹ 10,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,3,3,Semi-Furnished,120,1,Need house for rent,1,"Irumalapady, Eramalloor, Kerala","₹ 5,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,3,3,Furnished,1100,4000,South-East,19,"Kakkanad, Kochi, Kerala","₹ 18,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,3,2,Unfurnished,1200,1,East,2,"Ambalamukku, Thiruvananthapuram, Kerala","₹ 15,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Builder Floors,1,1,Semi-Furnished,350,100,South-East,3,"Kakkanad, Kochi, Kerala","₹ 7,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Furnished,1150,2200,West,14,"Naikkanal, Thrissur, Kerala","₹ 17,500"
+Houses & Villas,2,2,Semi-Furnished,100,100,East,1,"Kakkanad, Kochi, Kerala","₹ 10,000"
+Apartments,2,2,Furnished,850,00,East,3,"Chembukabu, Thrissur, Kerala","₹ 17,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,2,Semi-Furnished,100,100,East,2,"Kakkanad, Kochi, Kerala","₹ 10,000"
+Houses & Villas,4,4,Furnished,1000,6,East,2,"Karikkakam, Thiruvananthapuram, Kerala","₹ 40,000"
+Houses & Villas,2,1,Unfurnished,600,0,South,2,"Kakkanad, Kochi, Kerala","₹ 8,000"
+Houses & Villas,2,2,Semi-Furnished,100,100,East,2,"Kakkanad, Kochi, Kerala","₹ 11,000"
+Houses & Villas,2,2,Furnished,1000,0,West,3,"Kakkanad, Kochi, Kerala","₹ 10,000"
+Apartments,2,1,Semi-Furnished,1200,6500,South,1,"Kizhakkambalam, Kunnathunad, Kerala","₹ 6,500"
+Apartments,2,2,Furnished,100,100,East,2,"Kakkanad, Kochi, Kerala","₹ 12,000"
+Houses & Villas,2,2,Semi-Furnished,1100,0,East,2,"Kakkanad, Kochi, Kerala","₹ 10,000"
+Apartments,2,2,Semi-Furnished,100,100,East,2,"Kakkanad, Kochi, Kerala","₹ 9,000"
+Houses & Villas,3,2,Unfurnished,1200,5000,North-West,1,"TKS Puram, Kodungallur, Kerala","₹ 5,000"
+Apartments,2,2,Semi-Furnished,100,100,East,2,"Kakkanad, Kochi, Kerala","₹ 10,500"
+Houses & Villas,1,1,Semi-Furnished,800,5000,Perumanoor,2,"Vandavthoor, Kottayam, Kerala","₹ 5,000"
+Apartments,3,3,Unfurnished,1350,4,Meridian Saj,2,"Vennala, Kochi, Kerala","₹ 17,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,3,3,Semi-Furnished,1500,3500,East,20,"Kaloor, Kochi, Kerala","₹ 15,000"
+Houses & Villas,2,2,Semi-Furnished,800,2,Life solutions,1,"Palarivattom, Kochi, Kerala","₹ 12,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,3,Semi-Furnished,1000,15000,West,2,"Calicut Civil Station, Kozhikode, Kerala","₹ 15,000"
+Houses & Villas,2,2,Unfurnished,900,0,East,2,"Palarivattom, Kochi, Kerala","₹ 12,000"
+Apartments,2,2,Semi-Furnished,900,0,North,2,"Durga Nagar, Palakkad, Kerala","₹ 6,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,2,Unfurnished,1200,0,North,2,"Palarivattom, Kochi, Kerala","₹ 12,500"
+Houses & Villas,1,1,Unfurnished,600,2,Life solutions,1,"Kaloor, Kochi, Kerala","₹ 8,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,4+,4,Semi-Furnished,2000,2,Dona9895156219,2,"Nedumbassery, Kochi, Kerala","₹ 20,000"
+Houses & Villas,2,2,Furnished,1200,2,Owner 9895156219,2,"Edayappuram, Aluva, Kerala","₹ 9,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,1,Semi-Furnished,953,0,East,2,"Vazhakkala, Kochi, Kerala","₹ 9,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,2,Semi-Furnished,750,0,Sneha Apartment Complex,0,"Kaliyikkavila, Parassala, Kerala","₹ 6,000"
+Apartments,2,2,Semi-Furnished,720,1000,East,3,"Padamugal, Kochi, Kerala","₹ 13,000"
+Apartments,3,3,Furnished,2200,2500,North,4,"Panampilly Nagar, Kochi, Kerala","₹ 35,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,1,Semi-Furnished,953,0,East,2,"Vazhakkala, Kochi, Kerala","₹ 9,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,3,2,Semi-Furnished,800,9744114886,East,3,"Vandavthoor, Kottayam, Kerala","₹ 14,000"
+Houses & Villas,3,2,Semi-Furnished,2500,12000,North-West,1,"Puthenpaalam, Thiruvananthapuram, Kerala","₹ 12,000"
+Houses & Villas,3,3,Semi-Furnished,2000,2,dona9️⃣8️⃣9️⃣5️⃣1️⃣5️⃣6️⃣2️⃣1️⃣9️⃣,2,"Nedumbassery, Kochi, Kerala","₹ 13,000"
+Builder Floors,1,1,Unfurnished,100,1,East,15,"Kazhakkoottam-Menamkulam, Thiruvananthapuram, Kerala","₹ 6,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,4+,Unfurnished,500,500,East,2,"Kesavadasapuram, Thiruvananthapuram, Kerala","₹ 14,000"
+Apartments,2,2,Semi-Furnished,1145,3000,East,12,"Panayappilly, Kochi, Kerala","₹ 22,000"
+Apartments,2,2,Semi-Furnished,900,3,Life solutions.,1,"Palarivattom, Kochi, Kerala","₹ 14,000"
+Apartments,3,3,Semi-Furnished,1300,2000,East,3,"Kaloor, Kochi, Kerala","₹ 18,000"
+Houses & Villas,3,2,Semi-Furnished,1750,0,East,1,"Pandikudy, Kochi, Kerala","₹ 20,000"
+Houses & Villas,3,3,Unfurnished,1100,0,North,2,"Thrikkakara, Kochi, Kerala","₹ 13,000"
+Apartments,3,3,Semi-Furnished,1400,5,Life solutions,2,"Kaloor, Kochi, Kerala","₹ 20,000"
+Houses & Villas,2,2,Semi-Furnished,1800,0,East,2,"Durga Nagar, Palakkad, Kerala","₹ 11,000"
+Apartments,3,3,Semi-Furnished,915,14,Green Valley,5,"Pullanivila, Thiruvananthapuram, Kerala","₹ 15,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,3,2,Unfurnished,1000,1,East,2,"Pazhakutty, Nedumangad, Kerala","₹ 8,000"
+Houses & Villas,4,3,Unfurnished,2000,100,East,2,"Eranhipalam, Kozhikode, Kerala","₹ 30,000"
+Houses & Villas,3,3,Semi-Furnished,1200,2,Life solutions,1,"Palarivattom, Kochi, Kerala","₹ 15,000"
+Houses & Villas,2,2,Unfurnished,1000,2,Life solutions,1,"Kaloor, Kochi, Kerala","₹ 13,000"
+Houses & Villas,3,3,Semi-Furnished,1759,7000,East,2,"Anjchuvilakk, Thrissur, Kerala","₹ 7,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,3,2,Unfurnished,1300,3,Apartments,3,"North Paravoor, Paravur, Kerala","₹ 10,000"
+Houses & Villas,2,2,Semi-Furnished,1450,12500,East,2,"Poojappura, Thiruvananthapuram, Kerala","₹ 12,500"
+Apartments,1,1,Unfurnished,450,0,East,3,"Koorkenchery, Thrissur, Kerala","₹ 8,000"
+Apartments,2,2,Unfurnished,800,0,South-East,2,"Kakkanad, Kochi, Kerala","₹ 10,500"
+Apartments,1,2,Furnished,450,1500,East,19,"Info Park Industrial Area, Kochi, Kerala","₹ 11,500"
+Apartments,3,3,Furnished,120,3000,A star realtors,17,"Info Park Industrial Area, Kochi, Kerala","₹ 20,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,3,3,Furnished,1700,3000,East,17,"Kakkanad, Kochi, Kerala","₹ 24,000"
+Houses & Villas,2,2,Furnished,1000,100,North-East,3,"Edapally, Kochi, Kerala","₹ 4,00,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,4+,4+,Semi-Furnished,1000,2000,My Dream,2,"Chacka, Thiruvananthapuram, Kerala","₹ 55,000"
+Apartments,3,2,Semi-Furnished,1205,3000,Tower of Faith,19,"Kakkanad, Kochi, Kerala","₹ 13,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Furnished,530,2000,A star realtors,11,"Kakkanad, Kochi, Kerala","₹ 20,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Builder Floors,1,1,Furnished,310,300,East,5,"Sector 37, Noida, Uttar Pradesh","₹ 5,999"
+Apartments,2,2,Semi-Furnished,910,500,North-East,5,"Sector 53, Noida, Uttar Pradesh","₹ 8,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Unfurnished,700,3700,North,2,"Ahirwan, Kanpur, Uttar Pradesh","₹ 3,700"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Builder Floors,2,1,Semi-Furnished,50,1000,East,4,"Ashok Nagar, Kanpur, Uttar Pradesh","₹ 25,000"
+Apartments,2,2,Furnished,850,1000,Bahadur vihar,13,"Amar Shaheed Path, Lucknow, Uttar Pradesh","₹ 12,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Builder Floors,1,1,Semi-Furnished,640,300,North-West,6,"Shahberi, Noida, Uttar Pradesh","₹ 5,700"
+Houses & Villas,2,2,Unfurnished,1350,1,House for rent,1,"F Munshi Nagar, Bareilly, Uttar Pradesh","₹ 8,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,1,2,Unfurnished,100,100,East,3,"Dadri Road, Noida, Uttar Pradesh","₹ 8,000"
+Apartments,2,2,Unfurnished,0,1500,North-East,0,"Lanka, Varanasi, Uttar Pradesh","₹ 14,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,3,4,Semi-Furnished,1500,3500,North-East,14,"Raj Nagar Extension, Ghaziabad, Uttar Pradesh","₹ 15,000"
+Apartments,2,1,Furnished,500,3,Private,2,"Gomti Nagar, Lucknow, Uttar Pradesh","₹ 10,000"
+Houses & Villas,2,1,Semi-Furnished,410,500,North-East,4,"Sanjay Colony, Ghaziabad, Uttar Pradesh","₹ 8,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,1,Unfurnished,0,0,North-East,0,"Lanka, Varanasi, Uttar Pradesh","₹ 10,000"
+Houses & Villas,1,1,Semi-Furnished,800,0,South,3,"Sector 11, Lucknow, Uttar Pradesh","₹ 10,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,1,Semi-Furnished,650,2,Ram janki nagar,1,"Mirzapur Near Ram Janki Nagar, Gorakhpur, Uttar Pradesh","₹ 10,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,3,1,Unfurnished,800,0,North,2,"Nirala Nagar, Lucknow, Uttar Pradesh","₹ 10,000"
+Houses & Villas,3,3,Semi-Furnished,2000,0,East,1,"Khurram Nagar, Lucknow, Uttar Pradesh","₹ 20,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,1,Furnished,1200,0,North,2,"Rajarshi Nagar Colony, Bharuhana, Uttar Pradesh","₹ 5,000"
+Builder Floors,1,1,Unfurnished,700,500,North-West,4,"Vaishali Extension Sector 6, Ghaziabad, Uttar Pradesh","₹ 7,500"
+Houses & Villas,3,1,Furnished,1000,0,East,1,"Chaurahiya Gola, Gorakhpur, Uttar Pradesh","₹ 9,000"
+Houses & Villas,2,2,Unfurnished,950,0,South-East,1,"Pilibhit Bypass, Bareilly, Uttar Pradesh","₹ 6,500"
+Builder Floors,2,1,Furnished,1300,0,East,2,"Rajroop Pur, Allahabad, Uttar Pradesh","₹ 6,500"
+Apartments,2,2,Furnished,630,1500,North-East,14,"Raj Nagar Extension, Ghaziabad, Uttar Pradesh","₹ 12,000"
+Apartments,1,1,Semi-Furnished,510,500,North-East,5,"Sector 53, Noida, Uttar Pradesh","₹ 6,500"
+Houses & Villas,1,1,Furnished,500,0,North-East,2,"Sector 27, Noida, Uttar Pradesh","₹ 12,000"
+Apartments,2,2,Semi-Furnished,700,2625,North-East,15,"Sector 137, Noida, Uttar Pradesh","₹ 13,000"
+Houses & Villas,2,1,Unfurnished,600,0,North-East,3,"Ram Janki Dham Colony, Varanasi, Uttar Pradesh","₹ 8,000"
+Apartments,3,3,Semi-Furnished,1276,4705,North-East,15,"Sector 137, Noida, Uttar Pradesh","₹ 18,500"
+Houses & Villas,3,2,Semi-Furnished,1500,9000,West,2,"Khandari, Agra, Uttar Pradesh","₹ 9,000"
+Apartments,3,2,Semi-Furnished,1204,4440,North-East,15,"Sector 137, Noida, Uttar Pradesh","₹ 17,300"
+Apartments,3,2,Semi-Furnished,1204,4440,North-East,15,"Sector 137, Noida, Uttar Pradesh","₹ 17,500"
+Houses & Villas,1,1,Furnished,110,5200,West,1,"Govind Puri, Modinagar, Uttar Pradesh","₹ 5,200"
+Houses & Villas,2,1,Unfurnished,1280,0000,South,3,"Saroj Nagar, Aligarh, Uttar Pradesh","₹ 6,500"
+Apartments,3,2,Semi-Furnished,1036,3820,North-East,19,"Sector 137, Noida, Uttar Pradesh","₹ 15,200"
+Apartments,3,2,Semi-Furnished,1036,3820,North-East,19,"Sector 137, Noida, Uttar Pradesh","₹ 15,550"
+Houses & Villas,2,1,Furnished,750,1000,South-East,2,"Jaffarpur, Azamgarh, Uttar Pradesh","₹ 5,500"
+Apartments,3,2,Semi-Furnished,1036,3820,North-East,19,"Sector 137, Noida, Uttar Pradesh","₹ 15,500"
+Houses & Villas,4+,3,Semi-Furnished,1900,0000,North-West,1,"Mangal Panday Nagar, Meerut, Uttar Pradesh","₹ 20,000"
+Apartments,2,2,Semi-Furnished,700,2625,North-East,15,"Sector 137, Noida, Uttar Pradesh","₹ 12,999"
+Apartments,2,1,Semi-Furnished,900,500,West,2,"Laxmanpur, Sitapur, Uttar Pradesh","₹ 8,000"
+Builder Floors,1,1,Furnished,500,300,North-East,04,"Chiranjiv Vihar, Ghaziabad, Uttar Pradesh","₹ 5,000"
+Houses & Villas,2,2,Furnished,1250,250,East,3,"Sector 49, Noida, Uttar Pradesh","₹ 14,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,1,1,Unfurnished,450,0,North-West,12,"Sector 143, Noida, Uttar Pradesh","₹ 7,500"
+Builder Floors,1,1,Unfurnished,120,100,West,5,"Mamura, Noida, Uttar Pradesh","₹ 1,700"
+Houses & Villas,1,1,Furnished,300,00,North-East,1,"Subhash Chowk, Padrauna, Uttar Pradesh","₹ 3,300"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,3,2,Semi-Furnished,100,6000,North,1,"Rajroop Pur, Allahabad, Uttar Pradesh","₹ 6,000"
+Apartments,1,1,Furnished,450,0,South,12,"Sector 143, Noida, Uttar Pradesh","₹ 12,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,1,Furnished,700,5000,West,1,"Ahata Mirza Ali Khan, Lucknow, Uttar Pradesh","₹ 5,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Builder Floors,2,1,Unfurnished,800,0,West,1,"Railway Road, Muradnagar, Uttar Pradesh","₹ 5,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,2,Unfurnished,0,0,North-East,0,"Sundarpur, Varanasi, Uttar Pradesh","₹ 13,000"
+Apartments,2,2,Unfurnished,0,0,North-East,0,"Lanka, Varanasi, Uttar Pradesh","₹ 15,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Builder Floors,1,1,Furnished,250,200,West,2,"Sector 44, Noida, Uttar Pradesh","₹ 4,999"
+Apartments,2,2,Semi-Furnished,782,3500,East,22,"Sector 168, Noida, Uttar Pradesh","₹ 13,500"
+Houses & Villas,2,1,Semi-Furnished,1200,0,North,2,"Mahewa Patti Pashchim Uparhar, Allahabad, Uttar Pradesh","₹ 9,000"
+Houses & Villas,1,1,Furnished,120,2500,West,2,"Kaushalpuri Colony, Faizabad, Uttar Pradesh","₹ 2,500"
+Houses & Villas,1,1,Unfurnished,2000,0,East,2,"Naubasta, Kanpur, Uttar Pradesh","₹ 2,800"
+Apartments,1,1,Unfurnished,1,0,West,16,"Crossings Republik, Ghaziabad, Uttar Pradesh","₹ 2,500"
+Houses & Villas,2,1,Semi-Furnished,500,4000,North-West,3,"Mundera, Allahabad, Uttar Pradesh","₹ 4,000"
+Houses & Villas,2,1,Unfurnished,750,2,Buddheshwar Colony,1,"Rajajipuram, Lucknow, Uttar Pradesh","₹ 6,000"
+Houses & Villas,2,2,Semi-Furnished,100,0,East,3,"New Katra, Allahabad, Uttar Pradesh","₹ 1,750"
+Apartments,2,2,Furnished,1600,6500,West,2,"Barel, Barabanki, Uttar Pradesh","₹ 6,500"
+Houses & Villas,1,1,Furnished,100,3000,North-East,1,"Indira Nagar, Gorakhpur, Uttar Pradesh","₹ 1,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,1,1,Semi-Furnished,400,0,East,0,"Sundarpur, Varanasi, Uttar Pradesh","₹ 9,000"
+Apartments,2,1,Furnished,460,200,West,3,"Baraulikhalilabad, Lucknow, Uttar Pradesh","₹ 7,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,1,Semi-Furnished,1200,8000,South,1,"Padri Bazar, Gorakhpur, Uttar Pradesh","₹ 8,000"
+Apartments,2,2,Unfurnished,1100,0,East,0,"Sundarpur, Varanasi, Uttar Pradesh","₹ 16,000"
+Houses & Villas,2,2,Semi-Furnished,780,7500,East,2,"Gandhi Nagar Extension Post, Varanasi, Uttar Pradesh","₹ 7,500"
+Houses & Villas,1,1,Furnished,390,200,North-East,2,"Sector 127, Noida, Uttar Pradesh","₹ 7,500"
+Apartments,2,2,Semi-Furnished,1200,2000,East,14,"Sector 77, Noida, Uttar Pradesh","₹ 17,000"
+Houses & Villas,4,2,Furnished,1800,700,Appu Enclave,2,"Modi Puram, Meerut, Uttar Pradesh","₹ 12,000"
+Apartments,3,2,Unfurnished,0,1500,North-East,0,"Lanka, Varanasi, Uttar Pradesh","₹ 16,500"
+Houses & Villas,2,1,Unfurnished,0,0,North-East,0,"Suswahi, Varanasi, Uttar Pradesh","₹ 8,500"
+Apartments,2,2,Semi-Furnished,0,2,Alok properties,2,"Ravindrapuri, Varanasi, Uttar Pradesh","₹ 16,000"
+Apartments,3,2,Semi-Furnished,1250,0,East,4,"Sundarpur, Varanasi, Uttar Pradesh","₹ 22,000"
+Apartments,3,2,Unfurnished,1350,1500,East,4,"Sundarpur, Varanasi, Uttar Pradesh","₹ 18,000"
+Houses & Villas,2,1,Unfurnished,1260,0,East,2,"Sundarpur, Varanasi, Uttar Pradesh","₹ 12,500"
+Houses & Villas,3,3,Semi-Furnished,1450,5500,East,3,"Aliganj, Lucknow, Uttar Pradesh","₹ 5,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,2,Unfurnished,0,0,North-East,2,"Sundarpur, Varanasi, Uttar Pradesh","₹ 14,000"
+Apartments,2,2,Unfurnished,900,3000,East,15,"Sector 120, Noida, Uttar Pradesh","₹ 3,500"
+Apartments,2,2,Unfurnished,1125,0,East,0,"Sundarpur, Varanasi, Uttar Pradesh","₹ 16,000"
+Houses & Villas,2,1,Unfurnished,1200,0,East,2,"Sundarpur, Varanasi, Uttar Pradesh","₹ 11,500"
+Apartments,1,1,Furnished,700,2500,East,3,"Ravindrapuri, Varanasi, Uttar Pradesh","₹ 11,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Builder Floors,2,1,Semi-Furnished,500,0,North-West,3,"Khora, Noida, Uttar Pradesh","₹ 8,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,1,Unfurnished,612,1662,North-East,17,"Kasna, Greater Noida, Uttar Pradesh","₹ 7,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,3,3,Furnished,1700,2000,North,11,"Sigra, Varanasi, Uttar Pradesh","₹ 30,000"
+Builder Floors,3,2,Unfurnished,990,150,East,3,"Izzat Nagar, Bareilly, Uttar Pradesh","₹ 8,000"
+Apartments,2,2,Unfurnished,0,1500,North-East,0,"Kamachcha, Varanasi, Uttar Pradesh","₹ 12,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,3,2,Semi-Furnished,1100,3500,North-East,22,"Noida Extension, Noida, Uttar Pradesh","₹ 14,000"
+Houses & Villas,4,2,Semi-Furnished,1200,0,Independent house near baba kutiya,2,"Jankipuram, Lucknow, Uttar Pradesh","₹ 17,000"
+Builder Floors,3,3,Furnished,1800,3500,Ajnara Pride,11,"Vasundhara Sector 4, Ghaziabad, Uttar Pradesh","₹ 30,000"
+Houses & Villas,1,1,Furnished,200,0,North,3,"New Katra, Allahabad, Uttar Pradesh","₹ 4,500"
+Apartments,2,2,Unfurnished,980,1200,South-West,1,"Sector 63, Noida, Uttar Pradesh","₹ 13,000"
+Apartments,3,2,Semi-Furnished,1276,4705,North-East,15,"Sector 137, Noida, Uttar Pradesh","₹ 18,000"
+Houses & Villas,1,1,Unfurnished,60,1200,East,1,"Partapur, Meerut, Uttar Pradesh","₹ 1,200"
+Apartments,3,3,Semi-Furnished,1250,0,East,6,"Gomti Nagar, Lucknow, Uttar Pradesh","₹ 13,000"
+Apartments,2,1,Semi-Furnished,400,5000,Brij Bhooshan Maurya,3,"Shaheed Path, Lucknow, Uttar Pradesh","₹ 5,000"
+Apartments,2,2,Unfurnished,1100,1500,Ravi Properties Sunderpur,5,"Mahmurganj, Varanasi, Uttar Pradesh","₹ 16,000"
+Apartments,2,1,Unfurnished,1002,0,North-East,27,"ZETA II, Greater Noida, Uttar Pradesh","₹ 8,000"
+Apartments,3,2,Furnished,1250,5,Azad residency,2,"Lakhnawali, Greater Noida, Uttar Pradesh","₹ 10,000"
+Houses & Villas,2,1,Unfurnished,1000,2,Room for rent,1,"Mahamana Puri Colony, Varanasi, Uttar Pradesh","₹ 8,500"
+Apartments,3,2,Semi-Furnished,1036,3820,North-East,15,"Sector 137, Noida, Uttar Pradesh","₹ 14,500"
+Apartments,1,1,Unfurnished,1500,150,North,3,"Rustampur, Gorakhpur, Uttar Pradesh","₹ 4,600"
+Builder Floors,1,1,Semi-Furnished,550,00,Ashiyana home,5,"Noida Extension, Noida, Uttar Pradesh","₹ 5,500"
+Houses & Villas,2,2,Furnished,20,7000,East,1,"Kalandipuram, Allahabad, Uttar Pradesh","₹ 7,500"
+Apartments,1,1,Furnished,455,1335,North-East,28,"Sector 137, Noida, Uttar Pradesh","₹ 12,000"
+Apartments,2,2,Semi-Furnished,950,2500,North-East,15,"Sector 137, Noida, Uttar Pradesh","₹ 13,000"
+Apartments,1,1,Furnished,400,1100,North-East,20,"Sector 137, Noida, Uttar Pradesh","₹ 10,000"
+Apartments,2,2,Furnished,700,00,East,20,"Noida Extension, Noida, Uttar Pradesh","₹ 15,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,1,1,Furnished,475,1500,North-East,30,"Sector 168, Noida, Uttar Pradesh","₹ 14,000"
+Houses & Villas,1,1,Semi-Furnished,7005565310,1,LALIT SHARMA,1,"Kankarkhera, Meerut, Uttar Pradesh","₹ 3,800"
+Apartments,2,1,Unfurnished,1500,150,North,3,"Rustampur, Gorakhpur, Uttar Pradesh","₹ 6,000"
+Builder Floors,2,2,Furnished,800,00,East,05,"Noida Extension, Noida, Uttar Pradesh","₹ 12,500"
+Apartments,2,2,Furnished,0,1500,North-East,0,"Sundarpur, Varanasi, Uttar Pradesh","₹ 21,500"
+Apartments,4,3,Semi-Furnished,0,5000,North-East,0,"Lanka, Varanasi, Uttar Pradesh","₹ 23,000"
+Apartments,1,1,Furnished,310,250,East,3,"Sector 18, Noida, Uttar Pradesh","₹ 5,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,3,2,Semi-Furnished,1000,3000,North-East,16,"Sector 74, Noida, Uttar Pradesh","₹ 55,00,000"
+Apartments,1,1,Furnished,405,1500,South-West,30,"Sector 168, Noida, Uttar Pradesh","₹ 14,000"
+Apartments,2,2,Semi-Furnished,900,3000,North-East,15,"Sector 137, Noida, Uttar Pradesh","₹ 15,000"
+Houses & Villas,2,2,Furnished,1000,00,West,2,"Kathauta, Lucknow, Uttar Pradesh","₹ 18,000"
+Apartments,3,3,Furnished,1100,00,North-East,22,"Noida Extension, Noida, Uttar Pradesh","₹ 23,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,1,Unfurnished,550,0,East,2,"State Bank Colony, Bijnor, Uttar Pradesh","₹ 5,000"
+Apartments,3,2,Semi-Furnished,1150,00,East,21,"Noida Extension, Noida, Uttar Pradesh","₹ 15,000"
+Apartments,2,2,Semi-Furnished,711,2625,North-East,15,"Sector 137, Noida, Uttar Pradesh","₹ 13,000"
+Builder Floors,3,2,Semi-Furnished,900,00,East,5,"Noida Extension, Noida, Uttar Pradesh","₹ 8,000"
+Houses & Villas,4,2,Semi-Furnished,1350,2,LDA,1,"Gomti Nagar, Lucknow, Uttar Pradesh","₹ 10,000"
+Houses & Villas,2,1,Semi-Furnished,200,0,South-East,1,"Dharipur, Kanpur, Uttar Pradesh","₹ 6,500"
+Apartments,2,2,Semi-Furnished,850,0,East,22,"Noida Extension, Noida, Uttar Pradesh","₹ 10,000"
+Builder Floors,2,2,Unfurnished,790,0,East,5,"Noida Extension, Noida, Uttar Pradesh","₹ 6,450"
+Apartments,3,3,Semi-Furnished,1600,3000,North-East,12,"Gomti Nagar, Lucknow, Uttar Pradesh","₹ 16,000"
+Builder Floors,3,2,Semi-Furnished,1020,0,North-East,5,"Noida Extension, Noida, Uttar Pradesh","₹ 8,650"
+Apartments,2,2,Unfurnished,3200,200,South-East,3,"Kursi Road, Lucknow, Uttar Pradesh","₹ 7,500"
+Apartments,2,2,Unfurnished,1500,3,VDA COLONY PHASE-1 NEAR DR BHIM RAO AMBEDKAR HOCKEY STADIUM CHANDMARI,1,"VDA Colony, Varanasi, Uttar Pradesh","₹ 11,000"
+Apartments,3,3,Furnished,1300,1500,North-West,6,"Sector 104, Noida, Uttar Pradesh","₹ 25,000"
+Houses & Villas,2,1,Unfurnished,0,0,North-East,0,"Lanka, Varanasi, Uttar Pradesh","₹ 12,500"
+Apartments,2,2,Furnished,1062,1500,North,0,"Sundarpur, Varanasi, Uttar Pradesh","₹ 21,500"
+Apartments,3,2,Semi-Furnished,1150,00,East,25,"Noida Extension, Noida, Uttar Pradesh","₹ 15,000"
+Builder Floors,2,2,Unfurnished,928,0,East,5,"Noida Extension, Noida, Uttar Pradesh","₹ 6,350"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,1,Furnished,650,10000,South-East,3,"Moirabad, Allahabad, Uttar Pradesh","₹ 10,000"
+Apartments,1,1,Semi-Furnished,700,00,North-East,24,"Noida Extension, Noida, Uttar Pradesh","₹ 7,500"
+Builder Floors,2,2,Semi-Furnished,890,0,East,5,"Noida Extension, Noida, Uttar Pradesh","₹ 7,680"
+Houses & Villas,2,1,Semi-Furnished,500,0,East,3,"Chakiya, Allahabad, Uttar Pradesh","₹ 8,000"
+Builder Floors,1,1,Semi-Furnished,560,0,East,5,"Noida Extension, Noida, Uttar Pradesh","₹ 5,890"
+Apartments,1,1,Furnished,458,0,East,24,"Noida Extension, Noida, Uttar Pradesh","₹ 11,995"
+Apartments,1,1,Furnished,524,0,East,24,"Noida Extension, Noida, Uttar Pradesh","₹ 8,994"
+Apartments,2,2,Semi-Furnished,910,0,North-East,26,"Noida Extension, Noida, Uttar Pradesh","₹ 10,210"
+Apartments,2,2,Semi-Furnished,650,1000,West,4,"Chowk, Lucknow, Uttar Pradesh","₹ 12,000"
+Apartments,1,1,Furnished,45,100,East,2,"Pandeypur Colony, Varanasi, Uttar Pradesh","₹ 2,500"
+Builder Floors,1,1,Furnished,300,5,Neraj property,1,"Sector 14A, Noida, Uttar Pradesh","₹ 5,000"
+Apartments,1,1,Furnished,400,500,North-West,7,"Sector 104, Noida, Uttar Pradesh","₹ 12,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,1,1,Furnished,250,3000,North,2,"Mumfordganj, Allahabad, Uttar Pradesh","₹ 3,000"
+Houses & Villas,1,1,Furnished,1500,10000,East,1,"Diptiganj, Lucknow, Uttar Pradesh","₹ 10,000"
+Apartments,4+,4+,Furnished,3500,2000,East,2,"Husainabad Town, Dildarnagar Fatehpur Bazar, Uttar Pradesh","₹ 2,000"
+Builder Floors,1,1,Semi-Furnished,400,0,East,1,"Para, Lucknow, Uttar Pradesh","₹ 4,500"
+Builder Floors,2,2,Semi-Furnished,800,00,East,5,"Noida Extension, Noida, Uttar Pradesh","₹ 8,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,4+,4+,Furnished,300,0,East,2,"Sihari, Ghatampur, Uttar Pradesh","₹ 8,000"
+Apartments,2,2,Unfurnished,910,0,East,24,"Noida Extension, Noida, Uttar Pradesh","₹ 8,480"
+Apartments,2,2,Unfurnished,1000,1500,North-East,4,"Rum Asre Purwa, Lucknow, Uttar Pradesh","₹ 14,000"
+Apartments,2,2,Semi-Furnished,800,0,North-East,26,"Noida Extension, Noida, Uttar Pradesh","₹ 10,000"
+Apartments,2,2,Unfurnished,850,00,East,26,"Noida Extension, Noida, Uttar Pradesh","₹ 8,000"
+Houses & Villas,1,1,Semi-Furnished,300,0,East,1,"Ashiana, Lucknow, Uttar Pradesh","₹ 2,500"
+Houses & Villas,3,3,Furnished,1750,00,East,1,"Noida Extension, Noida, Uttar Pradesh","₹ 18,000"
+Houses & Villas,3,3,Furnished,1250,00,East,1,"Noida Extension, Noida, Uttar Pradesh","₹ 13,000"
+Builder Floors,2,2,Furnished,800,500,North-West,7,"Sector 104, Noida, Uttar Pradesh","₹ 18,000"
+Builder Floors,1,1,Furnished,520,400,East,8,"Sector 45, Noida, Uttar Pradesh","₹ 16,50,000"
+Houses & Villas,1,1,Furnished,390,200,North-East,2,"Sector 127, Noida, Uttar Pradesh","₹ 7,500"
+Houses & Villas,3,3,Furnished,1750,00,East,1,"Noida Extension, Noida, Uttar Pradesh","₹ 18,000"
+Houses & Villas,3,3,Furnished,1250,00,East,1,"Noida Extension, Noida, Uttar Pradesh","₹ 13,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Furnished,1800,2600,North-East,22,"Crossings Republik, Ghaziabad, Uttar Pradesh","₹ 6,500"
+Apartments,2,2,Unfurnished,750,0,North-East,25,"Noida Extension, Noida, Uttar Pradesh","₹ 8,000"
+Apartments,2,2,Semi-Furnished,1000,500,West,2,"Manas Nagar, Faizabad, Uttar Pradesh","₹ 15,000"
+Builder Floors,1,1,Semi-Furnished,575,500,East,3,"Vrindavan, Mathura, Uttar Pradesh","₹ 7,000"
+Houses & Villas,1,1,Semi-Furnished,0,3000,One room mate requirement Alpha 1 c block greater Noida,1,"Alpha I, Greater Noida, Uttar Pradesh","₹ 3,000"
+Apartments,2,2,Semi-Furnished,850,00,East,22,"Noida Extension, Noida, Uttar Pradesh","₹ 10,000"
+Houses & Villas,1,1,Semi-Furnished,600,3,RATAN GUPTA,3,"Gamma II Gr Noida, Greater Noida, Uttar Pradesh","₹ 6,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,1,Unfurnished,600,600,South-East,2,"Indira Nagar, Lucknow, Uttar Pradesh","₹ 8,000"
+Houses & Villas,1,2,Furnished,100,1,Ram thakur,1,"Khandipur, Kanpur, Uttar Pradesh","₹ 2,500"
+Houses & Villas,1,2,Unfurnished,700,2,1BHK FOR RENT,2,"BDA Colony Near Nagar, Bareilly, Uttar Pradesh","₹ 3,500"
+Apartments,3,3,Semi-Furnished,928,2500,North-East,12,"Vrindavan Yojna, Lucknow, Uttar Pradesh","₹ 15,000"
+Apartments,1,1,Furnished,305,100,North,2,"Sector 110, Noida, Uttar Pradesh","₹ 5,000"
+Apartments,2,2,Furnished,630,1500,North-East,14,"Raj Nagar Extension, Ghaziabad, Uttar Pradesh","₹ 12,000"
+Apartments,1,1,Furnished,610,600,East,9,"Vijay Nagar, Meerut, Uttar Pradesh","₹ 10,000"
+Apartments,2,2,Semi-Furnished,1100,2000,East,12,"Faizabad Road, Lucknow, Uttar Pradesh","₹ 11,000"
+Apartments,3,2,Unfurnished,00,2000,East,14,"Sector 121, Noida, Uttar Pradesh","₹ 4,700"
+Builder Floors,2,2,Semi-Furnished,950,1000,North-East,4,"Indirapuram, Ghaziabad, Uttar Pradesh","₹ 12,500"
+Builder Floors,2,2,Semi-Furnished,700,0,West,3,"Govindpuram, Ghaziabad, Uttar Pradesh","₹ 6,200"
+Houses & Villas,2,2,Semi-Furnished,800,6800,North-East,2,"Soyepur, Varanasi, Uttar Pradesh","₹ 6,800"
+Builder Floors,2,2,Semi-Furnished,800,500,North-East,4,"Sanjay Nagar, Ghaziabad, Uttar Pradesh","₹ 5,500"
+Houses & Villas,3,1,Furnished,2000,3,Janhvi Chauhan,1,"Kalyanpuri, Lucknow, Uttar Pradesh","₹ 9,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Semi-Furnished,0,500,North-East,0,"Ravindrapuri, Varanasi, Uttar Pradesh","₹ 16,500"
+Apartments,3,2,Semi-Furnished,1050,2626,South-West,19,"Shahpur Bamheta, Ghaziabad, Uttar Pradesh","₹ 5,500"
+Houses & Villas,1,1,Unfurnished,100,3500,North-East,1,"Begam Bagh, Aligarh, Uttar Pradesh","₹ 3,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Builder Floors,2,2,Semi-Furnished,850,1500,North-East,2,"Shahpur Bamheta, Ghaziabad, Uttar Pradesh","₹ 4,999"
+Apartments,1,1,Semi-Furnished,500,1000,North-East,6,"Sector 73, Noida, Uttar Pradesh","₹ 7,000"
+Builder Floors,2,2,Furnished,800,500,North-West,7,"Sector 104, Noida, Uttar Pradesh","₹ 18,000"
+Houses & Villas,3,1,Semi-Furnished,1100,0,South-East,2,"Koyla Nagar, Kanpur, Uttar Pradesh","₹ 5,000"
+Houses & Villas,2,1,Semi-Furnished,525,00,East,3,"Sector 45, Noida, Uttar Pradesh","₹ 8,000"
+Apartments,1,1,Furnished,400,500,North,3,"Sector 30, Noida, Uttar Pradesh","₹ 10,000"
+Houses & Villas,2,1,Furnished,1600,3,Dharmavati Bhavan,2,"Karmanbir Susuwahi, Varanasi, Uttar Pradesh","₹ 6,500"
+Houses & Villas,3,1,Semi-Furnished,945,0,West,1,"Karmchari Nagar, Bareilly, Uttar Pradesh","₹ 8,000"
+Houses & Villas,2,2,Furnished,1250,500,North-East,3,"Sharafabad, Noida, Uttar Pradesh","₹ 25,000"
+Apartments,1,1,Furnished,550,1100,North,13,"Platinum City Yeshwantpur, Bengaluru, Karnataka","₹ 15,500"
+Houses & Villas,1,1,Furnished,500,3000,East,1,"Jigani Industrial Area, Bengaluru, Karnataka","₹ 3,000"
+Builder Floors,2,2,Semi-Furnished,795,0,North,3,"Central Jail Road, Bengaluru, Karnataka","₹ 9,000"
+Houses & Villas,2,2,Semi-Furnished,200,6500,North,2,"Belthangadi, Beltangadi, Karnataka","₹ 6,500"
+Houses & Villas,1,1,Semi-Furnished,750,500,East,2,"Chikka Banaswadi, Bengaluru, Karnataka","₹ 11,500"
+Builder Floors,1,1,Semi-Furnished,100,200,North-East,3,"Vivekananda Badavane, Davanagere, Karnataka","₹ 1,500"
+Houses & Villas,2,1,Semi-Furnished,800,0,North-East,1,"Priyadarshini Colony, Hubballi, Karnataka","₹ 7,000"
+Builder Floors,2,1,Unfurnished,605,700,North-West,3,"Maple, Udupi, Karnataka","₹ 5,000"
+Houses & Villas,2,2,Semi-Furnished,1200,2,BALAJI ESTATE MYSORE,1,"Vijayanagar, Mysuru, Karnataka","₹ 7,000"
+Houses & Villas,2,1,Semi-Furnished,550,0,South,4,"Indira Nagar, Bengaluru, Karnataka","₹ 12,500"
+Apartments,2,2,Semi-Furnished,150,200,East,2,"Castelino Colony, Mangaluru, Karnataka","₹ 9,000"
+Houses & Villas,1,2,Furnished,40,2,Maruthi nilaya davalagiri lay out chitradurga,2,"Dhavelgere Layout, Chitradurga, Karnataka","₹ 8,000"
+Houses & Villas,1,1,Unfurnished,600,500,East,4,"Palace Guttanhalli, Bengaluru, Karnataka","₹ 7,000"
+Houses & Villas,1,1,Semi-Furnished,699,0,North,1,"Gacchinakatti Colony, Vijayapura, Karnataka","₹ 6,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,3,2,Semi-Furnished,1630,4000,East,21,"Manayata Tech Park, Bengaluru, Karnataka","₹ 25,00,000"
+Apartments,1,1,Furnished,1000,10000,North-East,4,"Bendoorwell, Mangaluru, Karnataka","₹ 10,000"
+Apartments,2,2,Unfurnished,1200,3500,North,5,"Nagawara Junction, Bengaluru, Karnataka","₹ 7,50,000"
+Apartments,1,1,Semi-Furnished,500,500,North-East,1,"Nagarbhavi, Bengaluru, Karnataka","₹ 10,000"
+Apartments,2,2,Furnished,1050,1500,North-West,4,"Kundalahalli, Bengaluru, Karnataka","₹ 18,000"
+Builder Floors,2,2,Furnished,975,2000,East,25,"Kulai, Mangaluru, Karnataka","₹ 16,000"
+Houses & Villas,2,1,Semi-Furnished,600,2000,East,3,"Chamrajpet, Bengaluru, Karnataka","₹ 4,00,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,1,2,Furnished,40,2,Davalagiri lay out 1 st cross,1,"Dhavelgere Layout, Chitradurga, Karnataka","₹ 8,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,1,Unfurnished,30,7000,East,2,"Nimishamba Layout, Mysuru, Karnataka","₹ 7,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,1,2,Unfurnished,900,0,North,2,"Sattur Dharwad, Sattur, Karnataka","₹ 7,500"
+Houses & Villas,2,2,Furnished,600,150,North,2,"Vijayanagar Stage 4, Mysuru, Karnataka","₹ 5,50,000"
+Builder Floors,2,2,Semi-Furnished,1000,9000,North,2,"Ram Nagar Near Nehru Nagar, Belagavi, Karnataka","₹ 9,000"
+Houses & Villas,2,2,Semi-Furnished,900,500,East,3,"Vijinapura, Bengaluru, Karnataka","₹ 13,000"
+Apartments,2,2,Semi-Furnished,900,3600,North,12,"Central Jail Road, Bengaluru, Karnataka","₹ 24,000"
+Apartments,2,2,Semi-Furnished,1100,2000,North,4,"Rajarajeshwari Nagar, Bengaluru, Karnataka","₹ 25,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,2,Unfurnished,1200,600,East,3,"Bagalur, Bengaluru, Karnataka","₹ 12,000"
+Houses & Villas,2,2,Unfurnished,750,0,Manjusha,1,"Kadri, Mangaluru, Karnataka","₹ 9,000"
+Builder Floors,1,1,Semi-Furnished,400,0,East,2,"Muniswamy Gowda Layout, Bengaluru, Karnataka","₹ 10,000"
+Apartments,2,2,Unfurnished,625,200,South,3,"Adayar, Mangaluru, Karnataka","₹ 10,000"
+Builder Floors,1,1,Unfurnished,450,0,North,2,"Attiguppe, Bengaluru, Karnataka","₹ 7,250"
+Apartments,2,2,Semi-Furnished,1100,2500,New Flat,2,"Rajarajeshwari Nagar, Bengaluru, Karnataka","₹ 18,000"
+Builder Floors,4+,3,Semi-Furnished,2800,0,North,3,"Basavanagudi, Bengaluru, Karnataka","₹ 60,000"
+Apartments,2,2,Semi-Furnished,1100,2000,North,4,"Rajarajeshwari Nagar, Bengaluru, Karnataka","₹ 18,000"
+Houses & Villas,2,1,Unfurnished,100,300,East,2,"Dombarahalli, Bengaluru, Karnataka","₹ 5,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Semi-Furnished,1039,2500,North,5,"Veerannapalya, Bengaluru, Karnataka","₹ 17,000"
+Apartments,2,2,Furnished,1260,2600,East,4,"Whitefield, Bengaluru, Karnataka","₹ 18,000"
+Apartments,2,2,Semi-Furnished,1000,1500,North,4,"Kallianpur, Udupi, Karnataka","₹ 7,500"
+Houses & Villas,2,1,Furnished,2400,9000,East,1,"Ajame Daraga, Vijayapura, Karnataka","₹ 9,000"
+Houses & Villas,1,1,Unfurnished,1300,200,South,2,"BT Layout, Davanagere, Karnataka","₹ 5,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,1,1,Semi-Furnished,650,300,North,3,"Nagavara, Bengaluru, Karnataka","₹ 9,999"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,3,Semi-Furnished,1100,0,East,1,"Ashok Nagar, Mangaluru, Karnataka","₹ 12,000"
+Houses & Villas,2,2,Semi-Furnished,720,300,East,4,"JP Nagar Phase 5, Bengaluru, Karnataka","₹ 15,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,2,Semi-Furnished,1000,2,M P Prakash Nagar.,1,"Krishna Nagar, Hosapete, Karnataka","₹ 12,000"
+Houses & Villas,1,1,Furnished,1000,500,North,4,"KR Puram, Bengaluru, Karnataka","₹ 7,500"
+Apartments,3,3,Furnished,30,2500,East,10,"Kankanady, Mangaluru, Karnataka","₹ 28,000"
+Apartments,3,3,Furnished,1225,3000,West,12,"Sarjapur Road, Bengaluru, Karnataka","₹ 30,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,1,1,Semi-Furnished,500,4,AVR,1,"Yelahanka New Town, Bengaluru, Karnataka","₹ 6,500"
+Houses & Villas,2,2,Semi-Furnished,1000,00,East,2,"Nandini Layout, Bengaluru, Karnataka","₹ 18,000"
+Apartments,2,2,Furnished,20,2000,North,10,"Hampankatta, Mangaluru, Karnataka","₹ 20,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,3,2,Semi-Furnished,1450,1500,East,5,"JP Nagar Phase 5, Bengaluru, Karnataka","₹ 25,000"
+Houses & Villas,3,3,Furnished,1750,1000,West,2,"Anekal, Bengaluru, Karnataka","₹ 15,000"
+Apartments,3,3,Semi-Furnished,25,1800,East,7,"Bejai, Mangaluru, Karnataka","₹ 18,000"
+Houses & Villas,2,Furnished,Owner,Yes,1,Sakunthala nilayam,0,"Maragondanahalli, Bengaluru, Karnataka","₹ 15,000"
+Houses & Villas,2,2,Semi-Furnished,1050,300,North-East,3,"Subbannaiah Palya, Bengaluru, Karnataka","₹ 12,500"
+Apartments,2,2,Semi-Furnished,20,1500,East,7,"Derebail, Mangaluru, Karnataka","₹ 13,000"
+Houses & Villas,2,1,Semi-Furnished,800,3,Neelanagaraju,1,"Karanataka bangalore nagarabhavi 2nd stage, Bengaluru, Karnataka","₹ 11,000"
+Houses & Villas,2,2,Furnished,1100,1000,North,5,"Akshaya Nagar, Bengaluru, Karnataka","₹ 12,000"
+Apartments,3,2,Semi-Furnished,1175,2800,East,4,"Medahalli, Bengaluru, Karnataka","₹ 17,500"
+Apartments,1,1,Semi-Furnished,600,1500,East,4,"Banashankari Stage 2, Bengaluru, Karnataka","₹ 13,000"
+Apartments,1,1,Semi-Furnished,750,500,East,4,"Jeevan Bima Nagar, Bengaluru, Karnataka","₹ 6,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,3,2,Semi-Furnished,1540,4900,South,8,"Kudlu, Bengaluru, Karnataka","₹ 20,000"
+Apartments,1,1,Semi-Furnished,1150,1500,North,12,"Whitefield, Bengaluru, Karnataka","₹ 15,000"
+Builder Floors,2,2,Furnished,00,000,West,0,"Vinobanagara, Shivamogga, Karnataka","₹ 5,00,000"
+Houses & Villas,2,1,Unfurnished,600,4500,South,1,"Subhash Nagar, Mandya, Karnataka","₹ 4,500"
+Houses & Villas,1,1,Furnished,150,100,North,1,"Valepura, Bengaluru, Karnataka","₹ 3,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,1,1,Semi-Furnished,1,1,Anand house,1,"Chikkalasandra, Bengaluru, Karnataka","₹ 7,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Semi-Furnished,850,1500,West,4,"Medahalli, Bengaluru, Karnataka","₹ 12,000"
+Apartments,2,2,Semi-Furnished,1100,1350,East,5,"Mallikatte Kadri, Mangaluru, Karnataka","₹ 13,000"
+Apartments,3,4,Semi-Furnished,1438,0,North-East,32,"Yelachenahalli, Bengaluru, Karnataka","₹ 40,000"
+Builder Floors,1,1,Furnished,300,0,North,3,"Hoodi, Bengaluru, Karnataka","₹ 6,500"
+Houses & Villas,2,2,Semi-Furnished,1000,2,Krishna in city layout,1,"Doddakammanahalli, Bengaluru, Karnataka","₹ 12,000"
+Builder Floors,1,1,Semi-Furnished,400,0,East,4,"Hongasandra, Bengaluru, Karnataka","₹ 7,200"
+Builder Floors,1,1,Unfurnished,200,4000,South,3,"Vijayanagar Railway Layout, Mysuru, Karnataka","₹ 4,000"
+Builder Floors,1,1,Semi-Furnished,550,0,North,3,"Hongasandra, Bengaluru, Karnataka","₹ 8,200"
+Houses & Villas,1,1,Semi-Furnished,950,0,East,3,"Battarahalli, Bengaluru, Karnataka","₹ 5,000"
+Apartments,1,1,Semi-Furnished,200,300,East,4,"Ittamadu, Bengaluru, Karnataka","₹ 5,500"
+Builder Floors,2,1,Semi-Furnished,600,0,South,3,"Jambu savari dinne, Bengaluru, Karnataka","₹ 11,000"
+Apartments,3,2,Semi-Furnished,1200,4500,North,26,"Thanisandra Main Road, Bengaluru, Karnataka","₹ 17,00,000"
+Houses & Villas,1,1,Unfurnished,520,0,North-East,1,"Devasandra Extension, Bengaluru, Karnataka","₹ 8,000"
+Builder Floors,1,1,Semi-Furnished,600,8500,East,3,"Arkavathy Layout, Bengaluru, Karnataka","₹ 8,500"
+Builder Floors,2,2,Semi-Furnished,900,0,East,3,"BTM Layout, Bengaluru, Karnataka","₹ 18,000"
+Apartments,2,2,Semi-Furnished,1300,2500,East,5,"Hulimavu, Bengaluru, Karnataka","₹ 13,00,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,1,1,Unfurnished,400,500,East,4,"Madiwala, Bengaluru, Karnataka","₹ 10,000"
+Apartments,3,2,Furnished,1300,750,North,12,"Bidaraguppe, Bengaluru, Karnataka","₹ 5,250"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,1,2,Semi-Furnished,650,500,North,2,"Banashankari, Bengaluru, Karnataka","₹ 7,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,2,Semi-Furnished,900,500,East,2,"Ramamurthy Nagar, Bengaluru, Karnataka","₹ 20,000"
+Apartments,3,2,Furnished,1075,3500,North-East,5,"Hadosiddapura, Bengaluru, Karnataka","₹ 21,500"
+Apartments,2,2,Semi-Furnished,1285,2000,East,3,"Varanasi, Bengaluru, Karnataka","₹ 15,000"
+Apartments,2,2,Semi-Furnished,800,1000,East,3,"Sampigehalli, Bengaluru, Karnataka","₹ 6,000"
+Houses & Villas,2,2,Semi-Furnished,900,1000,North,1,"Hoysala Nagar Hormavu, Bengaluru, Karnataka","₹ 12,000"
+Houses & Villas,2,1,Semi-Furnished,1000,10000,North,2,"Vijayanagar Stage 1, Mysuru, Karnataka","₹ 10,000"
+Houses & Villas,3,2,Semi-Furnished,1600,2000,South,2,"K R Puram, Bengaluru, Karnataka","₹ 18,000"
+Houses & Villas,2,2,Semi-Furnished,1350,0,North-East,3,"Mangammanapalya, Bengaluru, Karnataka","₹ 16,000"
+Builder Floors,1,1,Semi-Furnished,350,500,East,4,"Sri Sai Layout, Bengaluru, Karnataka","₹ 7,000"
+Apartments,1,1,Furnished,200,300,East,3,"Shanti Nagar B&C Colony, Bengaluru, Karnataka","₹ 10,000"
+Apartments,3,2,Semi-Furnished,1100,3000,East,3,"Marathahalli, Bengaluru, Karnataka","₹ 27,000"
+Apartments,1,1,Semi-Furnished,1200,1500,North-East,12,"Thokkottu, Ullal, Karnataka","₹ 10,000"
+Houses & Villas,2,1,Unfurnished,1200,0,East,1,"Vishvesvaraya Nagar, Kalaburagi, Karnataka","₹ 12,500"
+Apartments,2,2,Semi-Furnished,1000,2000,West,4,"Kadubeesanahalli, Bengaluru, Karnataka","₹ 19,000"
+Apartments,3,2,Semi-Furnished,900,1200,West,4,"Jalahalli West, Bengaluru, Karnataka","₹ 20,000"
+Apartments,3,3,Semi-Furnished,1500,5000,East,32,"Kanakapura Main Road, Bengaluru, Karnataka","₹ 35,000"
+Houses & Villas,2,2,Furnished,40,1000,North,2,"Nagadevanahalli, Bengaluru, Karnataka","₹ 11,000"
+Apartments,1,1,Semi-Furnished,1600,100,SIRI MANE,4,"Kudlu, Bengaluru, Karnataka","₹ 3,80,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,2,Furnished,750,500,West,2,"Jai Bharath Nagar, Bengaluru, Karnataka","₹ 16,000"
+Builder Floors,1,1,Semi-Furnished,500,250,East,3,"Whitefield, Bengaluru, Karnataka","₹ 9,000"
+Builder Floors,2,2,Semi-Furnished,300,50,North,2,"Hebbal Kempapura, Bengaluru, Karnataka","₹ 13,000"
+Builder Floors,1,1,Semi-Furnished,150,0,East,1,"Horamavu, Bengaluru, Karnataka","₹ 9,000"
+Builder Floors,2,1,Semi-Furnished,300,8000,East,3,"Channahalli, Bengaluru, Karnataka","₹ 8,000"
+Apartments,3,3,Semi-Furnished,901,12,Lotus County - Pinnacle,8,"Godesevadi, Belagavi, Karnataka","₹ 15,000"
+Apartments,2,2,Semi-Furnished,1275,1500,North-East,8,"Bejai, Mangaluru, Karnataka","₹ 15,000"
+Apartments,3,3,Semi-Furnished,1600,2000,West,12,"Urwa, Mangaluru, Karnataka","₹ 16,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,1,1,Semi-Furnished,900,2300,North,3,"Rajarajeshwari Nagar, Bengaluru, Karnataka","₹ 10,000"
+Apartments,2,2,Furnished,1000,1350,East,5,"Kapikad Bejai, Mangaluru, Karnataka","₹ 16,500"
+Houses & Villas,3,2,Semi-Furnished,300,0,North-East,1,"Derebail, Mangaluru, Karnataka","₹ 8,000"
+Apartments,3,3,Unfurnished,1010,1000,East,14,"Nelamangala, Bengaluru, Karnataka","₹ 13,000"
+Houses & Villas,2,2,Unfurnished,00,00,North,2,"Viswanatha Nagenahalli, Bengaluru, Karnataka","₹ 10,000"
+Apartments,2,1,Unfurnished,850,8000,North-West,2,"Shree Nagar, Belagavi, Karnataka","₹ 8,000"
+Builder Floors,1,1,Semi-Furnished,400,500,North,2,"Satyasaibaba Layout, Bengaluru, Karnataka","₹ 6,000"
+Houses & Villas,1,1,Semi-Furnished,600,4,Pooja Homes,1,"Varthur, Bengaluru, Karnataka","₹ 10,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Semi-Furnished,874,1000,East,14,"Nelamangala, Bengaluru, Karnataka","₹ 15,000"
+Houses & Villas,1,1,Semi-Furnished,45,3000,West,1,"Kote, Chikkamagaluru, Karnataka","₹ 15,000"
+Houses & Villas,1,1,Unfurnished,10,25,North-East,1,"Pattegarhpalya, Bengaluru, Karnataka","₹ 2,50,000"
+Houses & Villas,1,1,Semi-Furnished,900,500,East,3,"Abbigere, Bengaluru, Karnataka","₹ 5,500"
+Builder Floors,1,1,Unfurnished,500,4700,North,2,"MS Pallya, Bengaluru, Karnataka","₹ 4,700"
+Builder Floors,2,1,Furnished,10,15000,East,2,"Pooranapura Channappa Garden, Bengaluru, Karnataka","₹ 15,000"
+Builder Floors,2,2,Semi-Furnished,880,3,#16,3,"Yelachenahalli, Bengaluru, Karnataka","₹ 10,00,000"
+Apartments,2,2,Semi-Furnished,1000,2000,North,4,"Bilekahalli, Bengaluru, Karnataka","₹ 23,000"
+Apartments,2,2,Semi-Furnished,1300,10,Aditi grandeur,1,"JP Nagar Phase 3, Bengaluru, Karnataka","₹ 25,850"
+Apartments,3,3,Semi-Furnished,1300,4500,East,10,"Parappana Agrahara, Bengaluru, Karnataka","₹ 34,650"
+Apartments,2,2,Semi-Furnished,1300,2500,East,5,"JP Nagar, Bengaluru, Karnataka","₹ 1,64,50,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,2,Semi-Furnished,1100,1000,North-East,3,"Kalkere, Bengaluru, Karnataka","₹ 15,000"
+Apartments,2,2,Semi-Furnished,480,4,Akshaya Enclave,4,"Kundalahalli, Bengaluru, Karnataka","₹ 11,000"
+Apartments,2,2,Furnished,1650,3000,North,4,"Geddalahalli, Bengaluru, Karnataka","₹ 25,000"
+Houses & Villas,1,1,Semi-Furnished,450,0,North,1,"New Thippasandra, Bengaluru, Karnataka","₹ 9,500"
+Houses & Villas,1,1,Unfurnished,300,0,East,3,"Banashankari Stage 2, Bengaluru, Karnataka","₹ 4,00,000"
+Apartments,3,3,Furnished,1400,2000,Divya Jyothi Emeralds,4,"Sarjapur Road, Bengaluru, Karnataka","₹ 16,500"
+Houses & Villas,2,2,Semi-Furnished,1200,0,East,2,"Sir M V Nagar, Bengaluru, Karnataka","₹ 15,000"
+Apartments,3,3,Semi-Furnished,1500,4500,East,10,"Parappana Agrahara, Bengaluru, Karnataka","₹ 22,00,000"
+Apartments,2,2,Semi-Furnished,1100,1,North,4,"Ayyappa Nagar, Bengaluru, Karnataka","₹ 18,000"
+Builder Floors,2,2,Semi-Furnished,600,500,East,2,"Badrappa Layout, Bengaluru, Karnataka","₹ 10,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,2,Unfurnished,1100,0,East,1,"Attavar, Mangaluru, Karnataka","₹ 12,000"
+Apartments,2,2,Furnished,1100,1500,East,8,"Bejai, Mangaluru, Karnataka","₹ 16,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Builder Floors,1,1,Semi-Furnished,550,0,South,2,"Central Jail Road, Bengaluru, Karnataka","₹ 5,800"
+Builder Floors,2,2,Semi-Furnished,1000,500,East,3,"Horamavu Banaswadi, Bengaluru, Karnataka","₹ 19,000"
+Houses & Villas,1,1,Semi-Furnished,600,2,Sai Amaraa Niaya,2,"TC Palya Main Road, Bengaluru, Karnataka","₹ 7,500"
+Houses & Villas,1,1,Unfurnished,900,0,East,0,"Kothanur, Bengaluru, Karnataka","₹ 8,000"
+Houses & Villas,2,2,Semi-Furnished,900,200,South,4,"Bommanahalli, Bengaluru, Karnataka","₹ 15,500"
+Builder Floors,1,1,Semi-Furnished,400,500,North-East,3,"HSR Layout, Bengaluru, Karnataka","₹ 6,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,1,1,Semi-Furnished,300,300,North,2,"BTM Layout Stage 1, Bengaluru, Karnataka","₹ 8,500"
+Houses & Villas,3,3,Furnished,1850,2000,East,5,"Bannerghatta Main road, Bengaluru, Karnataka","₹ 18,00,000"
+Builder Floors,1,1,Semi-Furnished,480,1000,North-East,3,"Chikkabasavanapura, Bengaluru, Karnataka","₹ 5,80,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Builder Floors,1,1,Furnished,320,300,North,5,"Jeevan Bima Nagar, Bengaluru, Karnataka","₹ 10,999"
+Apartments,1,1,Semi-Furnished,1200,0,North-East,3,"HSR Layout, Bengaluru, Karnataka","₹ 14,000"
+Builder Floors,1,1,Furnished,350,200,East,5,"Jeevan Bima Nagar, Bengaluru, Karnataka","₹ 11,500"
+Apartments,2,2,Furnished,1000,1300,East,4,"Sunkadakatte, Bengaluru, Karnataka","₹ 8,000"
+Houses & Villas,2,1,Semi-Furnished,950,400,North-East,1,"Hootagalli, Mysuru, Karnataka","₹ 9,500"
+Builder Floors,1,1,Furnished,350,0,North,5,"Jeevan Bima Nagar, Bengaluru, Karnataka","₹ 11,000"
+Builder Floors,2,1,Semi-Furnished,700,300,North,3,"Bagalakunte, Bengaluru, Karnataka","₹ 10,000"
+Apartments,3,3,Furnished,1900,0,North-East,20,"Balamatta, Mangaluru, Karnataka","₹ 33,000"
+Builder Floors,1,1,Semi-Furnished,550,500,East,4,"Hulimavu, Bengaluru, Karnataka","₹ 9,000"
+Apartments,2,2,Semi-Furnished,1000,2500,East,5,"Marathahalli, Bengaluru, Karnataka","₹ 21,000"
+Houses & Villas,1,1,Semi-Furnished,450,1000,North-East,3,"HSR Layout, Bengaluru, Karnataka","₹ 7,500"
+Builder Floors,3,3,Semi-Furnished,1200,500,South,1,"Hsr Layout Sector 7, Bengaluru, Karnataka","₹ 21,000"
+Builder Floors,1,1,Semi-Furnished,600,500,East,4,"Hsr Layout Sector 7, Bengaluru, Karnataka","₹ 12,000"
+Apartments,2,2,Semi-Furnished,1000,1992,North,4,"Mailasandra, Bengaluru, Karnataka","₹ 12,500"
+Apartments,3,3,Unfurnished,1500,4,Sharanya Enclave,3,"Manipal, Udupi, Karnataka","₹ 12,000"
+Houses & Villas,2,2,Unfurnished,1365,8000,East,1,"Umamaheshwari Layout, Gonikoppal, Karnataka","₹ 8,000"
+Builder Floors,2,2,Semi-Furnished,660,200,North-East,5,"Ejipura, Bengaluru, Karnataka","₹ 21,000"
+Builder Floors,2,2,Semi-Furnished,650,0,North,5,"Ejipura, Bengaluru, Karnataka","₹ 20,000"
+Houses & Villas,3,3,Semi-Furnished,1600,1000,East,2,"Chandra Layout, Bengaluru, Karnataka","₹ 30,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Builder Floors,3,1,Semi-Furnished,600,2,Gururaja nilaya,0,"T Dasarahalli, Bengaluru, Karnataka","₹ 9,000"
+Apartments,2,2,Semi-Furnished,1300,2000,East,4,"Banaswadi, Bengaluru, Karnataka","₹ 20,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,1,Semi-Furnished,650,200,North,3,"Vaderahalli, Bengaluru, Karnataka","₹ 8,00,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Builder Floors,1,1,Semi-Furnished,550,500,East,5,"Arakere, Bengaluru, Karnataka","₹ 10,000"
+Houses & Villas,2,2,Semi-Furnished,800,1000,South,3,"Pukhraj Layout, Bengaluru, Karnataka","₹ 15,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,1,Unfurnished,750,5500,East,1,"Ward No 6 Surathkal, Mangaluru, Karnataka","₹ 5,500"
+Apartments,3,3,Furnished,2100,14,R R Signature Apartment,8,"Thanisandra Main Road, Bengaluru, Karnataka","₹ 40,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,3,3,Semi-Furnished,1500,1000,North-East,5,"HRBR Layout, Bengaluru, Karnataka","₹ 34,000"
+Apartments,2,2,Semi-Furnished,1127,1000,North,5,"HBR Layout, Bengaluru, Karnataka","₹ 27,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Semi-Furnished,1237,800,North,5,"Banaswadi, Bengaluru, Karnataka","₹ 24,000"
+Apartments,2,2,Semi-Furnished,1270,1000,North,4,"Kalyan Nagar, Bengaluru, Karnataka","₹ 21,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,1,1,Semi-Furnished,800,0,North-East,3,"Uundkal, Kalaburagi, Karnataka","₹ 6,500"
+Houses & Villas,2,1,Semi-Furnished,900,0,North,1,"Alape, Mangaluru, Karnataka","₹ 11,000"
+Apartments,1,1,Furnished,450,5,Snowden s Homes,1,"BTM Layout Stage 1, Bengaluru, Karnataka","₹ 15,000"
+Apartments,1,1,Semi-Furnished,500,1000,East,5,"Arakere, Bengaluru, Karnataka","₹ 5,50,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Semi-Furnished,1061,2000,North,4,"Babusapalaya, Bengaluru, Karnataka","₹ 19,000"
+Builder Floors,1,1,Semi-Furnished,200,0,East,4,"BTM Layout Stage 1, Bengaluru, Karnataka","₹ 5,500"
+Houses & Villas,2,2,Unfurnished,700,0,South,2,"Adyar, Chennai, Tamil Nadu","₹ 16,00,000"
+Apartments,2,2,Unfurnished,875,1000,North,2,"Mylapore, Chennai, Tamil Nadu","₹ 12,00,000"
+Houses & Villas,2,2,Unfurnished,500,250,North,3,"Vilankurichi, Coimbatore, Tamil Nadu","₹ 7,750"
+Houses & Villas,2,2,Unfurnished,982,500,North,2,"Virattipattu, Madurai, Tamil Nadu","₹ 8,500"
+Builder Floors,1,1,Furnished,400,300,East,1,"Annanur, Chennai, Tamil Nadu","₹ 4,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Unfurnished,600,500,South,2,"Chitlapakkam Nehru Nagar, Chennai, Tamil Nadu","₹ 15,000"
+Apartments,2,2,Unfurnished,1100,2500,North,4,"Peelamedu, Coimbatore, Tamil Nadu","₹ 10,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Builder Floors,1,1,Furnished,250,200,East,4,"New Fairlands, Salem, Tamil Nadu","₹ 7,000"
+Houses & Villas,2,1,Semi-Furnished,750,500,North-East,03,"Mylapore Santhome, Chennai, Tamil Nadu","₹ 19,500"
+Houses & Villas,3,2,Semi-Furnished,1700,00,North,2,"Medavakkam, Chennai, Tamil Nadu","₹ 15,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Unfurnished,820,500,North-East,3,"Ambattur Secratariat Colony, Chennai, Tamil Nadu","₹ 10,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Semi-Furnished,900,500,North,2,"Chromepet Santhi Nagar, Chennai, Tamil Nadu","₹ 8,25,000"
+Builder Floors,2,1,Semi-Furnished,500,50,North,1,"Sundarapuram, Coimbatore, Tamil Nadu","₹ 6,500"
+Apartments,2,2,Unfurnished,650,0,Sivasakhthi,1,"Madipakkam Kathikeyapuram, Chennai, Tamil Nadu","₹ 11,000"
+Builder Floors,1,1,Unfurnished,550,300,East,3,"Anna Nagar West Extension Thirumangalam, Chennai, Tamil Nadu","₹ 8,500"
+Houses & Villas,2,2,Semi-Furnished,750,500,East,2,"Avarampalayam, Coimbatore, Tamil Nadu","₹ 13,000"
+Builder Floors,2,2,Semi-Furnished,850,0,East,2,"Pallikaranai Narayanapuram, Chennai, Tamil Nadu","₹ 13,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,2,Unfurnished,1200,300,South,1,"VIT, Vellore, Tamil Nadu","₹ 8,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,1,1,Unfurnished,40,200,East,3,"Jagir Ammapalayam, Salem, Tamil Nadu","₹ 5,500"
+Apartments,2,2,Unfurnished,0,0,North,2,"Maduravoyal Pallavan Nagar, Chennai, Tamil Nadu","₹ 12,000"
+Builder Floors,1,1,Unfurnished,350,100,East,2,"Palavanchipalayam, Tiruppur, Tamil Nadu","₹ 6,500"
+Houses & Villas,1,1,Semi-Furnished,300,500,South,2,"Tharamani, Chennai, Tamil Nadu","₹ 10,000"
+Apartments,2,2,Semi-Furnished,850,11,Brindavan tower,1,"KK Nagar, Chennai, Tamil Nadu","₹ 20,000"
+Apartments,1,1,Unfurnished,450,00,West,3,"Veera Keralam, Coimbatore, Tamil Nadu","₹ 2,00,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,2,Unfurnished,1350,1,House,1,"Ondipudur, Coimbatore, Tamil Nadu","₹ 10,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,2,Unfurnished,240,200,North,1,"Singaliyappa Nagar, Coimbatore, Tamil Nadu","₹ 10,000"
+Apartments,1,1,Semi-Furnished,540,500,East,2,"Kattupakkam, Chennai, Tamil Nadu","₹ 10,000"
+Apartments,2,2,Semi-Furnished,835,3000,West,4,"Lakshmi Mills, Coimbatore, Tamil Nadu","₹ 14,000"
+Apartments,2,2,Unfurnished,600,300,North,2,"Ponniammanmedu Selvam Nagar Extension, Chennai, Tamil Nadu","₹ 8,500"
+Builder Floors,3,2,Semi-Furnished,100,100,North,1,"Pidampalli, Coimbatore, Tamil Nadu","₹ 10,000"
+Houses & Villas,1,1,Unfurnished,400,500,South,3,"Triplicane, Chennai, Tamil Nadu","₹ 8,500"
+Apartments,2,2,Semi-Furnished,1150,1800,North,4,"Kilpauk, Chennai, Tamil Nadu","₹ 22,000"
+Apartments,3,2,Unfurnished,1150,1400,North-East,2,"Ayanambakkam Vijay Nagar, Chennai, Tamil Nadu","₹ 10,00,000"
+Houses & Villas,2,1,Unfurnished,200,1000,East,1,"Injambakkam, Chennai, Tamil Nadu","₹ 8,00,000"
+Houses & Villas,1,1,Semi-Furnished,400,500,North,2,"Pallikaranai TP Nagar Kovelli, Chennai, Tamil Nadu","₹ 3,00,000"
+Houses & Villas,2,3,Semi-Furnished,1500,1,2BHK with separate dinning & pooja room. Rent 7000rs only.,1,"Jothipuram, Periyanaickenpalayam, Tamil Nadu","₹ 7,000"
+Houses & Villas,2,3,Semi-Furnished,1230,0,North,1,"Kadachanendhal, Madurai, Tamil Nadu","₹ 8,500"
+Houses & Villas,3,3,Unfurnished,1200,100,North,1,"Kelambakkam, Chennai, Tamil Nadu","₹ 12,500"
+Builder Floors,2,2,Semi-Furnished,1350,1000,North,2,"Perambur, Chennai, Tamil Nadu","₹ 18,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,1,1,Semi-Furnished,7,0,South,0,"Shivanandhapuram, Coimbatore, Tamil Nadu","₹ 5,500"
+Apartments,2,2,Semi-Furnished,820,750,West,3,"Virugambakkam, Chennai, Tamil Nadu","₹ 15,000"
+Builder Floors,2,2,Semi-Furnished,600,750,North,2,"Perambur, Chennai, Tamil Nadu","₹ 12,500"
+Apartments,2,2,Furnished,1000,3000,North,4,"Thoraipakkam, Chennai, Tamil Nadu","₹ 10,00,000"
+Houses & Villas,4,4,Semi-Furnished,1800,3000,East,2,"Ottiyambakkam, Chennai, Tamil Nadu","₹ 22,000"
+Houses & Villas,4+,4+,Furnished,1000,1000,East,3,"Jaihindpuram, Madurai, Tamil Nadu","₹ 25,000"
+Apartments,1,1,Furnished,50,500,East,3,"T Nagar, Chennai, Tamil Nadu","₹ 20,000"
+Apartments,1,1,Semi-Furnished,1000,500,Conpact house for rent,2,"Adambakkam, Chennai, Tamil Nadu","₹ 8,000"
+Houses & Villas,2,2,Semi-Furnished,1000,200,East,1,"Toovey Puram, Tuticorin, Tamil Nadu","₹ 6,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,1,1,Unfurnished,400,0,East,2,"Jaffarkhanpet VOC Block, Chennai, Tamil Nadu","₹ 6,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,1,1,Semi-Furnished,150,80,East,2,"Sithurajapuram, Sivakasi, Tamil Nadu","₹ 1,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Semi-Furnished,2200,200,East,1,"Bryant Nagar, Tuticorin, Tamil Nadu","₹ 8,000"
+Houses & Villas,2,2,Furnished,1000,10000,House for rent,1,"Agasteeswaram, Kanniyakumari, Tamil Nadu","₹ 10,000"
+Houses & Villas,2,2,Semi-Furnished,1000,1,Srinivas,1,"Urapakkam, Chennai, Tamil Nadu","₹ 10,000"
+Houses & Villas,2,2,Unfurnished,1050,0,North,2,"Ramanuja Nagar, Idikarai, Tamil Nadu","₹ 6,00,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,2,Unfurnished,80,200,East,3,"Iyappanthangal Karthik Avenue, Chennai, Tamil Nadu","₹ 7,500"
+Houses & Villas,1,1,Semi-Furnished,550,500,West,1,"Lakshmi Mills, Coimbatore, Tamil Nadu","₹ 6,00,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,1,1,Semi-Furnished,550,500,North,2,"Porur, Chennai, Tamil Nadu","₹ 9,500"
+Apartments,1,1,Unfurnished,700,500,West,2,"Iyyappanthangal, Chennai, Tamil Nadu","₹ 6,500"
+Builder Floors,1,1,Unfurnished,700,750,East,2,"Alwarpet, Chennai, Tamil Nadu","₹ 8,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,3,3,Furnished,3000,1500,West,7,"Kodambakkam, Chennai, Tamil Nadu","₹ 30,000"
+Builder Floors,1,1,Unfurnished,1200,2,Mani,1,"Thiruvanmiyur Marundeeswarar Nagar, Chennai, Tamil Nadu","₹ 4,50,000"
+Houses & Villas,2,3,Furnished,750,500,South-West,1,"Vridhachalan, Erode, Tamil Nadu","₹ 5,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Builder Floors,2,1,Unfurnished,680,500,North,1,"Mugalivakkam, Chennai, Tamil Nadu","₹ 11,000"
+Apartments,3,3,Furnished,1200,1000,North,3,"Porur, Chennai, Tamil Nadu","₹ 26,000"
+Houses & Villas,1,1,Semi-Furnished,1800,1,Meena,1,"C Kothangudi, Chidambaram, Tamil Nadu","₹ 5,000"
+Houses & Villas,1,1,Unfurnished,500,200,Happy homes,2,"Renga nagar, Tiruchirappalli, Tamil Nadu","₹ 5,500"
+Apartments,1,1,Furnished,660,1500,Cenotaph court,3,"Teynampet, Chennai, Tamil Nadu","₹ 45,000"
+Apartments,2,1,Semi-Furnished,875,2500,North,3,"Oragadam, Oragadam Industrial Area, Tamil Nadu","₹ 12,000"
+Houses & Villas,2,2,Semi-Furnished,580,750,West,1,"Choolaimedu Tiruvalluvarpuram, Chennai, Tamil Nadu","₹ 13,000"
+Houses & Villas,2,2,Unfurnished,150,100,East,0,"Flower Market, Coimbatore, Tamil Nadu","₹ 5,00,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,1,Semi-Furnished,750,1000,North,3,"Perks Institution, Coimbatore, Tamil Nadu","₹ 8,00,000"
+Houses & Villas,2,2,Semi-Furnished,1100,0,South,1,"Nedunchalai Nagar, Salem, Tamil Nadu","₹ 11,000"
+Houses & Villas,2,1,Unfurnished,100,500,East,2,"Porur Bharathi Nagar, Chennai, Tamil Nadu","₹ 7,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,3,Semi-Furnished,1450,12000,South,1,"Burma Colony, Melur, Tamil Nadu","₹ 12,000"
+Houses & Villas,1,2,Semi-Furnished,0,4,New painted home,1,"Sholur, Erode, Tamil Nadu","₹ 4,000"
+Houses & Villas,2,2,Semi-Furnished,1500,10000,East,0,"Periakuppam, Thiruvallur, Tamil Nadu","₹ 10,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,1,Semi-Furnished,650,250,South,2,"Guduvanchery, Chennai, Tamil Nadu","₹ 7,000"
+Apartments,3,2,Semi-Furnished,1200,2400,TVH Vista heights,15,"Kallimadi, Coimbatore, Tamil Nadu","₹ 15,000"
+Builder Floors,4+,3,Furnished,5000,0,East,2,"Kalas Palayam, Vellore, Tamil Nadu","₹ 50,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,3,2,Semi-Furnished,1300,0,South,2,"Nasamani Nagar, Nagercoil, Tamil Nadu","₹ 8,600"
+Houses & Villas,2,1,Semi-Furnished,550,0,West,2,"Rathnapuri, Coimbatore, Tamil Nadu","₹ 9,000"
+Apartments,3,2,Semi-Furnished,1200,2500,West,4,"Ayanambakkam, Chennai, Tamil Nadu","₹ 13,000"
+Apartments,2,2,Furnished,950,4000,North,14,"Kelambakkam, Chennai, Tamil Nadu","₹ 25,000"
+Apartments,2,2,Unfurnished,500,200,North,2,"Zamin Pallavaram, Chennai, Tamil Nadu","₹ 8,000"
+Apartments,1,1,Semi-Furnished,415,500,West,1,"Maha Lakshmi Nagar, Nandivaram-Guduvancheri, Tamil Nadu","₹ 4,500"
+Houses & Villas,1,1,Unfurnished,200,3,Sri Hari,1,"Aiacl Lakshmi Mills, Coimbatore, Tamil Nadu","₹ 7,00,000"
+Houses & Villas,1,1,Unfurnished,150,500,West,2,"Tharamani, Chennai, Tamil Nadu","₹ 8,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Builder Floors,1,1,Unfurnished,800,500,East,3,"Maduravoyal Dhanalakshmi Nagar, Chennai, Tamil Nadu","₹ 3,00,000"
+Apartments,2,2,Unfurnished,520,1200,North,2,"Vadapalani, Chennai, Tamil Nadu","₹ 15,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,1,1,Semi-Furnished,0,0,West,3,"Madipakkam, Chennai, Tamil Nadu","₹ 7,000"
+Apartments,2,2,Semi-Furnished,500,2500,North,4,"Chrompet, Chennai, Tamil Nadu","₹ 15,500"
+Houses & Villas,2,1,Unfurnished,2400,100,East,1,"Marappalam, Madukkarai, Tamil Nadu","₹ 6,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,1,Unfurnished,1200,300,West,2,"Mudichur, Chennai, Tamil Nadu","₹ 9,000"
+Houses & Villas,1,1,Semi-Furnished,400,2,House at Pappanaiyakenpalayam,2,"Lakshmi Mills, Coimbatore, Tamil Nadu","₹ 6,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,1,1,Furnished,450,500,East,2,"Mudichur, Chennai, Tamil Nadu","₹ 5,000"
+Houses & Villas,2,2,Furnished,200,0,South,2,"Mangadu Ramakrishnapuram, Chennai, Tamil Nadu","₹ 20,000"
+Apartments,1,1,Unfurnished,420,0,East,2,"Rakiyaplayam, Tiruppur, Tamil Nadu","₹ 6,000"
+Apartments,2,2,Semi-Furnished,650,200,North,3,"GN Mills, Coimbatore, Tamil Nadu","₹ 7,300"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Builder Floors,2,2,Unfurnished,1100,500,East,2,"Pammal Krishna Nagar, Chennai, Tamil Nadu","₹ 12,000"
+Houses & Villas,1,1,Unfurnished,100,100,North,1,"Kavundam Palayam, Coimbatore, Tamil Nadu","₹ 6,000"
+Houses & Villas,2,2,Unfurnished,720,200,West,2,"Pavayarnagar, Coimbatore, Tamil Nadu","₹ 10,500"
+Houses & Villas,1,1,Unfurnished,400,0,North,1,"Mathur Manjampakkam, Chennai, Tamil Nadu","₹ 3,00,000"
+Houses & Villas,2,2,Unfurnished,550,200,North,2,"Kundrathur, Chennai, Tamil Nadu","₹ 6,000"
+Apartments,1,1,Unfurnished,450,400,South,1,"Pallikaranai, Chennai, Tamil Nadu","₹ 3,60,000"
+Builder Floors,2,2,Furnished,900,0,West,3,"Poonamallee, Chennai, Tamil Nadu","₹ 2,500"
+Builder Floors,1,1,Unfurnished,150,0,North,2,"KM Ramasamy Nagar, Coimbatore, Tamil Nadu","₹ 7,000"
+Apartments,2,2,Semi-Furnished,800,500,West,2,"Chromepet Radha Nagar, Chennai, Tamil Nadu","₹ 12,000"
+Apartments,2,2,Semi-Furnished,0,1500,North,4,"Saravanampatti, Coimbatore, Tamil Nadu","₹ 14,000"
+Houses & Villas,2,2,Semi-Furnished,200,6500,East,1,"Dwaraka Nagar Extension, Hosur, Tamil Nadu","₹ 6,500"
+Builder Floors,1,1,Unfurnished,350,200,East,3,"Villur, Hosur, Tamil Nadu","₹ 4,500"
+Apartments,1,1,Unfurnished,500,350,North,1,"Chromepet Santhi Nagar, Chennai, Tamil Nadu","₹ 6,000"
+Houses & Villas,4,4,Semi-Furnished,2750,500,North,1,"T Nagar, Chennai, Tamil Nadu","₹ 50,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Semi-Furnished,750,335,East,2,"Chettipunyam, Singaperumalkoil, Tamil Nadu","₹ 9,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Furnished,1200,1500,South-East,11,"KK Nagar, Madurai, Tamil Nadu","₹ 25,000"
+Houses & Villas,2,1,Unfurnished,2000,0,East,2,"Kannappan Nagar, Zamin Uthukuli, Tamil Nadu","₹ 5,00,000"
+Houses & Villas,1,1,Furnished,300,4500,East,2,"Kurubatti, Hosur, Tamil Nadu","₹ 4,500"
+Houses & Villas,2,2,Semi-Furnished,800,0,East,0,"Vilangudi, Madurai, Tamil Nadu","₹ 5,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,1,1,Furnished,450,300,North,2,"Saidapet Suruiyammapet, Chennai, Tamil Nadu","₹ 9,000"
+Apartments,3,3,Unfurnished,1000,300,North,2,"Pammal, Chennai, Tamil Nadu","₹ 8,000"
+Houses & Villas,2,2,Semi-Furnished,1200,0,North,1,"Kamaraj Nagar, Tirunelveli, Tamil Nadu","₹ 9,000"
+Apartments,2,2,Semi-Furnished,922,2500,East,9,"Thalambur, Chennai, Tamil Nadu","₹ 11,500"
+Houses & Villas,1,1,Unfurnished,000,500,North,2,"Nanganallur KK Nagar, Chennai, Tamil Nadu","₹ 8,500"
+Houses & Villas,1,1,Unfurnished,1,2,Lokesh lease house,2,"Avadi, Chennai, Tamil Nadu","₹ 3,00,000"
+Apartments,2,2,Semi-Furnished,800,1000,North-East,3,"Vadavalli, Coimbatore, Tamil Nadu","₹ 10,000"
+Apartments,2,2,Semi-Furnished,955,1000,North,4,"Woraiyur, Tiruchirappalli, Tamil Nadu","₹ 9,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Builder Floors,3,3,Unfurnished,1800,0,North,1,"Kilpauk Garden Colony, Chennai, Tamil Nadu","₹ 40,000"
+Apartments,2,2,Semi-Furnished,1500,7500,North-West,3,"Sikkandar Savadi, Madurai, Tamil Nadu","₹ 7,500"
+Houses & Villas,2,1,Semi-Furnished,1550,150,North,1,"Iyer Bungalow, Madurai, Tamil Nadu","₹ 6,800"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Semi-Furnished,955,3500,South,4,"Perungudi, Chennai, Tamil Nadu","₹ 17,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Semi-Furnished,1000,500,East,2,"Adambakkam Officers Colony, Chennai, Tamil Nadu","₹ 14,000"
+Houses & Villas,2,3,Furnished,950,35000,North,1,"Pambarpuram, Kodaikanal, Tamil Nadu","₹ 35,000"
+Houses & Villas,1,1,Unfurnished,20,150,South,2,"Ayanavaram, Chennai, Tamil Nadu","₹ 6,000"
+Houses & Villas,2,2,Unfurnished,1000,300,House for Rent,3,"Ayanavaram Podhu Nagar, Chennai, Tamil Nadu","₹ 9,500"
+Houses & Villas,1,1,Semi-Furnished,490,500,North-East,2,"Anna Nagar West Extension, Chennai, Tamil Nadu","₹ 10,000"
+Houses & Villas,3,3,Unfurnished,1500,0,South,2,"MDS Nagar, Salem, Tamil Nadu","₹ 18,000"
+Apartments,1,1,Semi-Furnished,100,1300,South,3,"Trichy City, Tiruchirappalli, Tamil Nadu","₹ 8,000"
+Houses & Villas,1,1,Unfurnished,545,300,North-East,1,"Alapakkam Netasan Nagar, Chennai, Tamil Nadu","₹ 3,00,000"
+Houses & Villas,2,2,Unfurnished,675,500,Independent 2BHK,1,"Kodambakkam, Chennai, Tamil Nadu","₹ 11,000"
+Apartments,3,2,Semi-Furnished,1000,500,South-West,2,"Perungalattur, Tambaram, Tamil Nadu","₹ 6,00,000"
+Houses & Villas,2,2,Semi-Furnished,900,17500,East,3,"Chetpet, Chennai, Tamil Nadu","₹ 17,500"
+Houses & Villas,2,2,Semi-Furnished,750,300,North,1,"Muneeswari Nagar, Hosur, Tamil Nadu","₹ 9,000"
+Houses & Villas,2,2,Semi-Furnished,1000,13000,South,1,"Madanandapuram Muthumariamman Nagar, Chennai, Tamil Nadu","₹ 13,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,2,Furnished,746,1250,East,7,"Thirumudivakkam, Chennai, Tamil Nadu","₹ 12,000"
+Houses & Villas,1,1,Unfurnished,1500,0,South,2,"Marakkanam, Tamil Nadu, India","₹ 6,500"
+Houses & Villas,2,2,Semi-Furnished,600,100,North,2,"Old ASTC Hudco, Hosur, Tamil Nadu","₹ 10,500"
+Houses & Villas,2,2,Unfurnished,750,300,North-East,1,"Vadugapalayam, Palladam, Tamil Nadu","₹ 8,000"
+Houses & Villas,1,1,Semi-Furnished,400,000,East,0,"Ramapuram, Chennai, Tamil Nadu","₹ 12,000"
+Houses & Villas,1,1,Unfurnished,450,500,North,2,"Palavanthagal, Chennai, Tamil Nadu","₹ 3,50,000"
+Houses & Villas,1,2,Semi-Furnished,900,500,South,2,"Medavakkam, Chennai, Tamil Nadu","₹ 8,000"
+Apartments,2,2,Semi-Furnished,900,1000,East,3,"Perungudi, Chennai, Tamil Nadu","₹ 17,000"
+Houses & Villas,3,2,Semi-Furnished,1050,200,East,1,"New Perungalathur, Chennai, Tamil Nadu","₹ 9,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,1,Furnished,100,100,North-East,2,"Manapakkam, Chennai, Tamil Nadu","₹ 9,500"
+Apartments,1,1,Furnished,600,2,Furnished apartment,1,"Othakalmandapam, Coimbatore, Tamil Nadu","₹ 1,000"
+Houses & Villas,2,2,Semi-Furnished,800,1,2bed room attached bathroom,0,"Othakalmandapam, Coimbatore, Tamil Nadu","₹ 6,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,3,Semi-Furnished,1000,1,Ennai pettra thayar nagar,1,"Thirunindravur, Chennai, Tamil Nadu","₹ 9,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,2,3,Semi-Furnished,800,4500,North,18,"Korattur, Chennai, Tamil Nadu","₹ 25,000"
+Apartments,2,2,Furnished,1000,2000,North,3,"T Nagar, Chennai, Tamil Nadu","₹ 24,000"
+Houses & Villas,2,2,Semi-Furnished,2500,0,East,1,"Koundampalayam, Coimbatore, Tamil Nadu","₹ 9,800"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,2,Unfurnished,1300,0,East,1,"Gandhi Nagar, Erode, Tamil Nadu","₹ 15,000"
+Apartments,3,3,Semi-Furnished,2500,3500,North,2,"Vettuvankani, Chennai, Tamil Nadu","₹ 26,000"
+Apartments,1,1,Semi-Furnished,650,2100,North-East,8,"Anna Nagar, Chengalpattu, Tamil Nadu","₹ 12,000"
+Apartments,1,1,Unfurnished,750,300,East,2,"Ambattur Pudur, Chennai, Tamil Nadu","₹ 7,000"
+Houses & Villas,2,2,Furnished,2000,1,KMM GARDEN,0,"Irugur, Coimbatore, Tamil Nadu","₹ 11,000"
+Houses & Villas,2,2,Furnished,1150,00,East,2,"Pettai Sidco Industrial, Tirunelveli, Tamil Nadu","₹ 5,00,000"
+Apartments,2,3,Furnished,500,10000,West,2,"Valasaravakkam, Chennai, Tamil Nadu","₹ 10,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,2,2,Furnished,200,200,East,2,"Hosur - Bagalur Road, Hosur, Tamil Nadu","₹ 8,000"
+Houses & Villas,2,2,Semi-Furnished,850,2,House For Lease,1,"Arumbakkam SBI Staff Colony, Chennai, Tamil Nadu","₹ 12,00,000"
+Apartments,2,2,Unfurnished,1200,0,North,2,"Gerugambakkam BT Nagar, Chennai, Tamil Nadu","₹ 9,000"
+Houses & Villas,2,1,Unfurnished,2000,0,East,2,"Pollachi Anna Bus Stand, Pollachi, Tamil Nadu","₹ 5,00,000"
+Houses & Villas,2,1,Unfurnished,800,1,Manovijji Illam,1,"Mogappair East Mogappair East, Chennai, Tamil Nadu","₹ 12,600"
+Apartments,3,3,Semi-Furnished,1650,5000,East,4,"Sholinganallur, Chennai, Tamil Nadu","₹ 15,00,000"
+Apartments,2,2,Semi-Furnished,1170,2000,North,4,"Podanur, Coimbatore, Tamil Nadu","₹ 12,000"
+Apartments,2,2,Furnished,1200,2300,South,3,"Cheran Maa Nagar, Coimbatore, Tamil Nadu","₹ 16,000"
+Apartments,2,2,Semi-Furnished,950,3000,North,4,"Thoraipakkam, Chennai, Tamil Nadu","₹ 16,000"
+Apartments,3,3,Unfurnished,1200,2740,West,10,"Thiruvanmiyur Valluvar Nagar, Chennai, Tamil Nadu","₹ 20,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,1,1,Semi-Furnished,196,0,North-West,1,"Muneeswari Nagar, Hosur, Tamil Nadu","₹ 3,500"
+Houses & Villas,2,2,Furnished,550,500,East,1,"Ayanavaram Reddy Colony, Chennai, Tamil Nadu","₹ 12,500"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,1,1,Semi-Furnished,200,0,East,2,"Pykara, Madurai, Tamil Nadu","₹ 6,300"
+Apartments,3,2,Semi-Furnished,1250,2500,West,4,"Zamin Pallavaram, Chennai, Tamil Nadu","₹ 20,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Apartments,1,1,Unfurnished,450,200,West,2,"Guindy Maduvankarai Narsinghapuram, Chennai, Tamil Nadu","₹ 9,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,1,1,Unfurnished,500,300,North,2,"Vadapalani, Chennai, Tamil Nadu","₹ 6,000"
+Apartments,3,2,Semi-Furnished,950,1800,East,3,"Pudupakkam, Chennai, Tamil Nadu","₹ 9,000"
+Apartments,2,2,Unfurnished,0,900,South,4,"Villapuram, Madurai, Tamil Nadu","₹ 7,000"
+-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Houses & Villas,1,1,Semi-Furnished,400,500,North,2,"Ashok Nagar, Chennai, Tamil Nadu","₹ 10,000"
+Houses & Villas,4,4,Semi-Furnished,1800,3000,East,2,"Ottiyambakkam, Chennai, Tamil Nadu","₹ 22,000"
+Apartments,2,2,Semi-Furnished,1000,400,North,2,"Chromepet Radha Nagar, Chennai, Tamil Nadu","₹ 10,000"
+Houses & Villas,2,1,Semi-Furnished,650,0,South,2,"Villivakkam North Jagannath Nagar, Chennai, Tamil Nadu","₹ 12,000"
+Houses & Villas,1,1,Unfurnished,00,0,வணக்கம்,00,"Veerapandi, Tiruppur, Tamil Nadu","₹ 4,000"
+Apartments,2,2,Semi-Furnished,1085,2200,North,4,"Arcot Road, Chennai, Tamil Nadu","₹ 22,000"
+Houses & Villas,2,2,Semi-Furnished,780,500,West,1,"Chromepet Kumarapuram, Chennai, Tamil Nadu","₹ 11,000"

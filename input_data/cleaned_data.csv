@@ -1,0 +1,888 @@
+,Type,bedroom,bathroom,furnishing,Carpet Area (ft²),Maintenance (Monthly),facing,Total floor,state,Rent,Carpet Area (ft²)nan,Maintenance (Monthly)nan
+0,Apartments,2,2,Semi-Furnished,700.0,4000.0,North-East,6, Maharashtra,42000,0,0
+1,Apartments,1,2,Furnished,399.0,999.0,East,4, Maharashtra,20000,0,0
+2,Apartments,1,1,Furnished,550.0,5500.0,North-East,3, Maharashtra,5500,0,0
+3,Apartments,2,2,Semi-Furnished,800.0,1000.0,East,4, Maharashtra,15000,0,0
+4,Apartments,3,3,Furnished,1800.0,2000.0,East,5, Maharashtra,31000,0,0
+5,Apartments,3,2,Unfurnished,1300.0,1000.0,East,4, Maharashtra,13000,0,0
+6,Apartments,3,3,Furnished,1300.0,1000.0,East,6, Maharashtra,16000,0,0
+7,Apartments,1,1,Unfurnished,400.0,0.0,East,9, Maharashtra,9000,0,0
+8,Apartments,1,1,Unfurnished,550.0,0.0,East,5, Maharashtra,9500,0,0
+9,Apartments,1,1,Unfurnished,550.0,0.0,East,5, Maharashtra,8000,0,0
+10,Apartments,3,3,Semi-Furnished,1200.0,0.0,East,12, Maharashtra,22000,0,0
+11,Apartments,1,1,Unfurnished,455.0,0.0,East,7, Maharashtra,7000,0,0
+12,Apartments,1,2,Unfurnished,500.0,4500.0,East,14, Maharashtra,30000,0,0
+13,Apartments,1,1,Unfurnished,280.0,0.0,East,24, Maharashtra,16000,0,0
+14,Apartments,2,2,Furnished,900.0,1000.0,East,8, Maharashtra,25000,0,0
+15,Houses & Villas,4,4,Furnished,3000.0,0.0,East,1, Maharashtra,50000,0,0
+16,Apartments,1,1,Unfurnished,670.0,700.0,North-East,4, Maharashtra,8500,0,0
+17,Houses & Villas,2,1,Unfurnished,500.0,0.0,others,2, Maharashtra,7500,0,0
+18,Apartments,1,1,Semi-Furnished,400.0,0.0,East,11, Maharashtra,8000,0,0
+19,Apartments,2,2,Unfurnished,900.0,0.0,North-East,13, Maharashtra,11000,0,0
+20,Apartments,2,2,Unfurnished,870.0,0.0,North-East,13, Maharashtra,12000,0,0
+21,Apartments,2,2,Semi-Furnished,998.0,0.0,others,11, Maharashtra,13000,0,0
+22,Apartments,2,2,Furnished,800.0,0.0,East,11, Maharashtra,25000,0,0
+23,Apartments,2,2,Semi-Furnished,800.0,0.0,North-East,7, Maharashtra,15000,0,0
+24,Apartments,1,1,Unfurnished,250.0,0.0,North,1, Maharashtra,5000,0,0
+25,Builder Floors,2,2,Unfurnished,535.0,0.0,North-East,19, Maharashtra,14000,0,0
+26,Apartments,2,2,Semi-Furnished,790.0,0.0,North-East,3, Maharashtra,22000,0,0
+27,Apartments,2,1,Semi-Furnished,450.0,1000.0,North,4, Maharashtra,11000,0,0
+28,Apartments,1,1,Unfurnished,425.0,300.0,North-West,4, Maharashtra,3499,0,1
+29,Apartments,1,1,Unfurnished,450.0,0.0,East,5, Maharashtra,15000,0,0
+30,Apartments,1,1,Semi-Furnished,667.0,875.0,East,7, Maharashtra,20000,0,0
+31,Apartments,2,2,Unfurnished,850.0,0.0,East,5, Maharashtra,22000,0,0
+32,Apartments,2,2,Semi-Furnished,850.0,300.0,others,2, Maharashtra,16500,0,1
+33,Apartments,1,1,Semi-Furnished,800.0,0.0,East,4, Maharashtra,7200,0,0
+34,Apartments,1,1,Semi-Furnished,480.0,0.0,North-West,4, Maharashtra,5000,0,0
+35,Apartments,1,1,Semi-Furnished,480.0,3000.0,East,7, Maharashtra,15000,0,0
+36,Apartments,2,2,Unfurnished,750.0,300.0,others,7, Maharashtra,22000,0,0
+37,Builder Floors,1,1,Semi-Furnished,600.0,0.0,East,3, Maharashtra,6000,0,0
+38,Apartments,1,1,Unfurnished,540.0,708.0,North-East,4, Maharashtra,7000,0,0
+39,Apartments,1,1,Furnished,215.0,0.0,East,7, Maharashtra,7400,0,0
+40,Houses & Villas,1,1,Semi-Furnished,580.0,100.0,East,1, Maharashtra,4500,0,0
+41,Apartments,1,2,Semi-Furnished,500.0,1600.0,East,4, Maharashtra,15000,0,0
+42,Apartments,3,3,Furnished,1300.0,2000.0,West,10, Maharashtra,22000,0,0
+43,Apartments,1,1,Semi-Furnished,800.0,0.0,East,7, Maharashtra,14000,0,0
+44,Apartments,2,2,Semi-Furnished,1001.0,0.0,East,9, Maharashtra,20000,0,0
+45,Builder Floors,1,1,Unfurnished,800.0,0.0,West,9, Maharashtra,6000,1,0
+46,Houses & Villas,1,1,Unfurnished,300.0,0.0,East,2, Maharashtra,6500,0,0
+47,Apartments,1,2,Unfurnished,425.0,300.0,others,3, Maharashtra,22000,0,0
+48,Apartments,2,2,Semi-Furnished,715.0,0.0,North-East,19, India,17000,0,0
+49,Apartments,2,2,Furnished,750.0,0.0,North,6, Maharashtra,18000,0,0
+50,Apartments,2,2,Unfurnished,600.0,0.0,West,19, Maharashtra,17000,0,0
+51,Apartments,1,1,Furnished,450.0,300.0,others,4, Maharashtra,32000,0,1
+52,Apartments,2,2,Unfurnished,650.0,300.0,others,7, Maharashtra,40000,0,0
+53,Apartments,1,1,Semi-Furnished,450.0,300.0,others,4, Maharashtra,7500,0,1
+54,Apartments,1,1,Semi-Furnished,336.0,300.0,others,4, Maharashtra,18000,0,1
+55,Builder Floors,1,2,Unfurnished,500.0,820.0,North,4, Maharashtra,7000,0,0
+56,Houses & Villas,2,1,Unfurnished,800.0,0.0,South,1, Maharashtra,7000,0,0
+57,Houses & Villas,2,1,Unfurnished,250.0,0.0,South-East,3, Maharashtra,5000,0,0
+58,Apartments,1,1,Unfurnished,435.0,0.0,East,4, Maharashtra,5500,0,0
+59,Apartments,2,2,Semi-Furnished,900.0,1000.0,East,4, Maharashtra,14000,0,0
+60,Apartments,1,1,Unfurnished,420.0,0.0,West,7, Maharashtra,6000,0,0
+61,Apartments,1,1,Unfurnished,800.0,300.0,others,1, Maharashtra,5000,1,1
+62,Apartments,1,1,Semi-Furnished,560.0,500.0,South,3, Maharashtra,6000,0,0
+63,Apartments,1,1,Semi-Furnished,400.0,0.0,others,4, Maharashtra,21000,0,0
+64,Apartments,2,1,Furnished,299.0,300.0,others,10, Maharashtra,32500,0,0
+65,Apartments,2,1,Semi-Furnished,650.0,600.0,West,4, Maharashtra,20000,0,0
+66,Apartments,2,2,Unfurnished,673.0,0.0,North-West,12, Maharashtra,9000,0,0
+67,Builder Floors,1,1,Unfurnished,660.0,400.0,East,3, Maharashtra,11000,0,0
+68,Apartments,1,1,Unfurnished,500.0,300.0,others,0, Maharashtra,500000,0,1
+69,Apartments,2,2,Semi-Furnished,980.0,1500.0,East,13, Maharashtra,15000,0,0
+70,Apartments,3,3,Furnished,2000.0,1000.0,East,2, Maharashtra,28000,0,0
+71,Apartments,1,1,Unfurnished,350.0,300.0,others,2, Maharashtra,7500,0,1
+72,Apartments,2,2,Semi-Furnished,800.0,935.0,others,1, Maharashtra,22000,0,0
+73,Apartments,2,2,Furnished,1250.0,0.0,West,13, Maharashtra,60000,0,0
+74,Houses & Villas,1,1,Unfurnished,800.0,8000.0,East,1, Maharashtra,8000,0,0
+75,Apartments,1,1,Semi-Furnished,640.0,1500.0,others,6, Maharashtra,15000,0,0
+76,Apartments,1,1,Unfurnished,500.0,250.0,East,4, Maharashtra,8000,0,0
+77,Houses & Villas,1,1,Unfurnished,800.0,200.0,East,0, Maharashtra,6000,0,0
+78,Apartments,1,2,Semi-Furnished,450.0,0.0,North,18, Maharashtra,31000,0,0
+79,Apartments,2,2,Semi-Furnished,880.0,0.0,West,19, Maharashtra,41000,0,0
+80,Apartments,3,2,Furnished,1000.0,300.0,others,6, Maharashtra,30000,0,0
+81,Apartments,1,1,Unfurnished,460.0,0.0,North,7, Maharashtra,8500,0,0
+82,Apartments,1,1,Semi-Furnished,510.0,0.0,East,7, Maharashtra,16500,0,0
+83,Apartments,2,2,Semi-Furnished,850.0,0.0,East,7, Maharashtra,20000,0,0
+84,Apartments,2,2,Semi-Furnished,850.0,0.0,East,22, Maharashtra,35000,0,0
+85,Apartments,3,3,Semi-Furnished,1250.0,0.0,North,22, Maharashtra,41000,0,0
+86,Apartments,1,1,Furnished,520.0,500.0,North-East,4, Maharashtra,13500,0,0
+87,Apartments,1,1,Semi-Furnished,575.0,0.0,East,3, Maharashtra,16000,0,0
+88,Apartments,1,1,Unfurnished,465.0,0.0,East,5, Maharashtra,7500,0,0
+89,Apartments,1,2,Semi-Furnished,650.0,0.0,North-East,7, Maharashtra,10000,0,0
+90,Apartments,1,1,Unfurnished,485.0,0.0,East,4, Maharashtra,14000,0,0
+91,Apartments,1,1,Furnished,600.0,500.0,East,3, Maharashtra,13000,0,0
+92,Apartments,1,1,Unfurnished,299.0,300.0,others,1, Maharashtra,30000,0,0
+93,Apartments,1,1,Unfurnished,269.0,300.0,North-East,23, Maharashtra,14000,0,1
+94,Apartments,2,2,Unfurnished,667.0,2000.0,North-West,4, Maharashtra,9500,0,0
+95,Builder Floors,1,1,Semi-Furnished,225.0,0.0,East,8, Maharashtra,15000,0,0
+96,Apartments,1,2,Unfurnished,600.0,0.0,East,12, Maharashtra,2125,0,0
+97,Apartments,2,2,Unfurnished,750.0,300.0,North,4, Maharashtra,4000,0,0
+98,Apartments,2,2,Unfurnished,850.0,0.0,East,7, Maharashtra,11500,0,0
+99,Apartments,3,3,Semi-Furnished,1000.0,0.0,East,10, Maharashtra,21000,0,0
+100,Apartments,2,2,Semi-Furnished,950.0,0.0,West,11, Maharashtra,12000,0,0
+101,Apartments,2,2,Furnished,680.0,0.0,East,4, Maharashtra,29000,0,0
+102,Apartments,2,2,Furnished,1200.0,100.0,West,6, Maharashtra,12000,0,0
+103,Apartments,2,2,Semi-Furnished,800.0,0.0,East,4, Maharashtra,3200,0,0
+104,Apartments,2,2,Furnished,750.0,0.0,South-West,5, Maharashtra,35000,0,0
+105,Houses & Villas,1,2,Semi-Furnished,900.0,0.0,East,2, Maharashtra,5500,0,0
+106,Apartments,2,2,Unfurnished,721.0,0.0,West,13, Maharashtra,11000,0,0
+107,Apartments,1,1,Unfurnished,550.0,14000.0,West,4, Maharashtra,14000,0,0
+108,Builder Floors,1,1,Unfurnished,275.0,350.0,North,4, Maharashtra,5000,0,0
+109,Apartments,2,2,Furnished,2200.0,0.0,East,5, Maharashtra,14000,0,0
+110,Apartments,3,3,Semi-Furnished,1400.0,0.0,South-West,13, Maharashtra,42000,0,0
+111,Apartments,2,2,Unfurnished,700.0,300.0,others,0, Maharashtra,16000,0,1
+112,Apartments,3,3,Semi-Furnished,1200.0,0.0,East,6, Maharashtra,10000,0,0
+113,Apartments,2,2,Semi-Furnished,750.0,0.0,East,5, Maharashtra,35000,0,0
+114,Apartments,1,2,Unfurnished,600.0,0.0,East,12, Maharashtra,2300,0,0
+115,Apartments,2,1,Unfurnished,460.0,0.0,North-East,14, Maharashtra,4250,0,0
+116,Apartments,2,2,Furnished,700.0,1200.0,East,4, Maharashtra,12500,0,0
+117,Houses & Villas,3,3,Unfurnished,1400.0,300.0,North-East,2, Maharashtra,42000,0,1
+118,Apartments,2,2,Furnished,700.0,300.0,West,3, Maharashtra,27000,0,1
+119,Apartments,1,1,Semi-Furnished,512.0,0.0,East,3, Maharashtra,12000,0,0
+120,Apartments,1,1,Unfurnished,450.0,0.0,North-East,4, Maharashtra,8000,0,0
+121,Apartments,1,2,Semi-Furnished,500.0,0.0,North,18, Maharashtra,7000,0,0
+122,Apartments,2,2,Unfurnished,7500.0,0.0,East,13, Maharashtra,13000,0,0
+123,Apartments,2,2,Semi-Furnished,680.0,300.0,North-West,13, Maharashtra,34000,0,1
+124,Apartments,1,2,Unfurnished,375.0,0.0,East,24, Maharashtra,23000,0,0
+125,Houses & Villas,1,1,Unfurnished,350.0,0.0,East,3, Maharashtra,8500,0,0
+126,Apartments,1,1,Semi-Furnished,450.0,0.0,East,7, Maharashtra,20000,0,0
+127,Apartments,1,1,Unfurnished,650.0,0.0,East,11, Maharashtra,10000,0,0
+128,Houses & Villas,2,1,Unfurnished,615.0,600.0,East,4, Maharashtra,10500,0,0
+129,Apartments,2,1,Unfurnished,800.0,0.0,West,6, Maharashtra,1900,0,0
+130,Apartments,2,2,Semi-Furnished,800.0,300.0,others,1, Maharashtra,7500,0,1
+131,Builder Floors,1,1,Furnished,100.0,300.0,others,2, Maharashtra,5000,0,1
+132,Apartments,2,3,Semi-Furnished,900.0,0.0,North-East,6, Maharashtra,16500,0,0
+133,Apartments,2,2,Semi-Furnished,800.0,0.0,East,27, Maharashtra,25000,0,0
+134,Apartments,1,2,Unfurnished,450.0,0.0,North,7, Maharashtra,7500,0,0
+135,Apartments,1,1,Semi-Furnished,475.0,1000.0,North,4, Maharashtra,28000,0,0
+136,Apartments,2,1,Unfurnished,650.0,0.0,West,3, Maharashtra,23000,0,0
+137,Apartments,1,1,Unfurnished,800.0,300.0,others,1, Maharashtra,5000,0,1
+138,Apartments,2,2,Furnished,610.0,2000.0,East,10, Maharashtra,16000,0,0
+139,Apartments,1,1,Unfurnished,450.0,7000.0,West,7, Maharashtra,7000,0,0
+140,Apartments,2,2,Unfurnished,550.0,500.0,East,7, Maharashtra,12000,0,0
+141,Apartments,2,2,Semi-Furnished,1000.0,300.0,others,7, Maharashtra,3000,0,1
+142,Apartments,2,2,Unfurnished,585.0,0.0,West,7, Maharashtra,14000,0,0
+143,Houses & Villas,1,1,Furnished,180.0,200.0,East,2, Maharashtra,6200,0,0
+144,Apartments,2,2,Semi-Furnished,650.0,0.0,East,4, Maharashtra,35000,0,0
+145,Apartments,2,2,Semi-Furnished,800.0,500.0,East,3, Maharashtra,8000,0,0
+146,Builder Floors,1,2,Unfurnished,1100.0,0.0,West,0, Maharashtra,7000,0,0
+147,Apartments,1,1,Unfurnished,560.0,750.0,South,4, Maharashtra,7800,0,0
+148,Apartments,1,1,Furnished,500.0,1000.0,North-East,15, Maharashtra,400000,0,0
+149,Apartments,1,1,Semi-Furnished,380.0,0.0,East,7, Maharashtra,4500,0,0
+150,Apartments,2,1,Unfurnished,811.0,300.0,others,2, Maharashtra,10000,0,1
+151,Apartments,1,1,Unfurnished,480.0,0.0,East,2, Maharashtra,10000,0,0
+152,Houses & Villas,1,1,Unfurnished,200.0,0.0,East,2, Maharashtra,3800,0,0
+153,Apartments,4,3,Semi-Furnished,1500.0,0.0,East,3, Maharashtra,30000,0,0
+154,Apartments,2,2,Semi-Furnished,1100.0,1000.0,North-East,6, Maharashtra,10000,0,0
+155,Houses & Villas,1,1,Unfurnished,150.0,7000.0,North-West,1, Maharashtra,7000,0,0
+156,Builder Floors,3,3,Semi-Furnished,1000.0,450.0,North-East,3, Maharashtra,3000000,0,0
+157,Apartments,1,2,Semi-Furnished,550.0,0.0,East,6, Maharashtra,12000,0,0
+158,Apartments,2,2,Furnished,750.0,0.0,East,7, Maharashtra,6500,0,0
+159,Houses & Villas,3,3,Semi-Furnished,1400.0,0.0,North-East,2, Maharashtra,16500,0,0
+160,Builder Floors,1,1,Furnished,175.0,250.0,South,3, Maharashtra,3500,0,0
+161,Apartments,2,2,Unfurnished,700.0,1000.0,East,4, Maharashtra,9000,0,0
+162,Apartments,1,1,Furnished,635.0,0.0,East,6, Maharashtra,15000,0,0
+163,Apartments,2,2,Unfurnished,500.0,3000.0,East,22, Maharashtra,16000,0,0
+164,Apartments,1,1,Unfurnished,600.0,500.0,North-East,5, Maharashtra,14000,0,0
+165,Apartments,1,1,Semi-Furnished,580.0,100.0,East,3, Maharashtra,8000,0,0
+166,Apartments,2,2,Unfurnished,800.0,0.0,South-East,12, Maharashtra,7000,0,0
+167,Apartments,1,1,Semi-Furnished,350.0,670.0,North-East,3, Maharashtra,6500,0,0
+168,Houses & Villas,2,1,Unfurnished,1000.0,8000.0,North-West,0, Maharashtra,8000,0,0
+169,Houses & Villas,1,1,Unfurnished,600.0,0.0,East,3, Maharashtra,5500,0,0
+170,Houses & Villas,5,5,Furnished,2400.0,0.0,West,1, Maharashtra,120000,0,0
+171,Apartments,1,1,Semi-Furnished,650.0,200.0,South,3, Maharashtra,10500,0,0
+172,Apartments,2,1,Semi-Furnished,825.0,600.0,East,3, Maharashtra,16500,0,0
+173,Apartments,1,1,Furnished,450.0,0.0,North-East,4, Maharashtra,10500,0,0
+174,Apartments,2,2,Unfurnished,650.0,100.0,West,3, Maharashtra,8000,0,0
+175,Apartments,2,2,Furnished,360.0,600.0,East,2, Maharashtra,13500,0,0
+176,Apartments,2,2,Semi-Furnished,750.0,0.0,East,11, Maharashtra,5500,0,0
+177,Builder Floors,1,1,Unfurnished,400.0,0.0,East,3, Maharashtra,9000,0,0
+178,Apartments,1,1,Furnished,240.0,300.0,others,3, Maharashtra,13000,0,1
+179,Apartments,1,1,Semi-Furnished,400.0,300.0,others,1, Maharashtra,18000,0,1
+180,Apartments,3,3,Semi-Furnished,1500.0,2600.0,East,13, Kerala,15000,0,0
+181,Houses & Villas,2,2,Semi-Furnished,800.0,0.0,East,2, Kerala,10000,0,0
+182,Apartments,3,3,Semi-Furnished,100.0,0.0,East,17, Kerala,18000,0,0
+183,Houses & Villas,2,2,Semi-Furnished,900.0,0.0,East,1, Kerala,6000,0,0
+184,Houses & Villas,1,1,Semi-Furnished,500.0,0.0,East,2, Kerala,7250,0,0
+185,Houses & Villas,3,3,Semi-Furnished,800.0,0.0,East,2, Kerala,14000,1,0
+186,Apartments,1,1,Furnished,560.0,0.0,others,3, Kerala,11000,0,0
+187,Houses & Villas,2,2,Furnished,850.0,10000.0,East,2, Kerala,1500000,0,0
+188,Houses & Villas,3,3,Unfurnished,200.0,15000.0,West,2, Kerala,12000,0,0
+189,Houses & Villas,2,3,Semi-Furnished,1500.0,0.0,East,1, Kerala,8500,0,0
+190,Apartments,3,3,Semi-Furnished,800.0,2000.0,East,12, Kerala,11000,1,0
+191,Apartments,3,3,Unfurnished,800.0,300.0,others,1, Kerala,12000,1,1
+192,Houses & Villas,3,3,Unfurnished,2000.0,100.0,West,2, Kerala,30000,0,0
+193,Apartments,2,2,Furnished,120.0,3000.0,others,19, Kerala,15000,0,0
+194,Apartments,2,2,Semi-Furnished,100.0,1500.0,others,11, Kerala,10500,0,0
+195,Houses & Villas,1,1,Semi-Furnished,350.0,0.0,West,3, Kerala,8000,0,0
+196,Houses & Villas,1,1,Semi-Furnished,350.0,100.0,West,3, Kerala,8000,0,0
+197,Apartments,3,3,Furnished,1540.0,2500.0,others,23, Kerala,21000,0,0
+198,Houses & Villas,2,3,Unfurnished,800.0,0.0,East,1, Kerala,10500,1,0
+199,Apartments,1,1,Semi-Furnished,800.0,300.0,others,2, Kerala,7000,1,1
+200,Apartments,3,3,Semi-Furnished,1500.0,0.0,West,15, Kerala,13250,0,0
+201,Apartments,1,1,Semi-Furnished,600.0,0.0,others,3, Kerala,10000,0,0
+202,Apartments,2,2,Furnished,1020.0,300.0,others,16, Kerala,20000,0,0
+203,Apartments,2,2,Unfurnished,1000.0,0.0,East,2, Kerala,8000,0,0
+204,Houses & Villas,3,2,Unfurnished,600.0,300.0,others,1, Kerala,25000,0,1
+205,Houses & Villas,3,3,Semi-Furnished,750.0,0.0,North,1, Kerala,14000,0,0
+206,Apartments,2,2,Furnished,1000.0,300.0,others,2, Kerala,15000,0,1
+207,Apartments,3,3,Furnished,2200.0,2500.0,North,4, Kerala,35000,0,0
+208,Apartments,3,3,Furnished,1250.0,2000.0,others,12, Kerala,20000,0,0
+209,Apartments,2,2,Furnished,950.0,4000.0,South,25, Kerala,13500,0,0
+210,Houses & Villas,4,3,Semi-Furnished,2000.0,0.0,North-East,2, Kerala,8500,0,0
+211,Apartments,2,2,Unfurnished,1110.0,1000.0,South,3, Kerala,13000,0,0
+212,Houses & Villas,2,1,Unfurnished,600.0,0.0,East,3, Kerala,7500,0,0
+213,Apartments,3,3,Furnished,1620.0,2500.0,North-East,21, Kerala,20000,0,0
+214,Apartments,3,3,Unfurnished,1550.0,2500.0,East,15, Kerala,15000,0,0
+215,Apartments,1,1,Semi-Furnished,600.0,1700.0,others,11, Kerala,13000,0,0
+216,Apartments,1,2,Semi-Furnished,800.0,300.0,North,3, Kerala,2500,0,1
+217,Apartments,3,3,Semi-Furnished,915.0,300.0,others,5, Kerala,15000,0,0
+218,Apartments,3,3,Furnished,228.0,40000.0,others,19, Kerala,27000,0,0
+219,Apartments,3,3,Furnished,1412.0,3000.0,others,17, Kerala,21000,0,0
+220,Houses & Villas,2,2,Semi-Furnished,1700.0,1000.0,East,1, Kerala,9000,0,0
+221,Apartments,3,3,Furnished,2000.0,3000.0,East,10, Kerala,30000,0,0
+222,Houses & Villas,2,2,Semi-Furnished,1200.0,300.0,others,1, Kerala,13000,0,1
+223,Apartments,2,2,Furnished,1000.0,3500.0,East,14, Kerala,19500,0,0
+224,Houses & Villas,2,2,Unfurnished,1000.0,0.0,East,2, Kerala,12000,0,0
+225,Houses & Villas,3,2,Semi-Furnished,1100.0,0.0,others,0, Kerala,10000,0,0
+226,Houses & Villas,4,4,Furnished,2700.0,300.0,others,2, Kerala,10000000,0,1
+227,Houses & Villas,2,1,Semi-Furnished,800.0,300.0,others,2, Kerala,300000,1,1
+228,Apartments,2,2,Furnished,1200.0,0.0,North,3, Kerala,13000,0,0
+229,Apartments,2,2,Semi-Furnished,1000.0,11000.0,North,2, Kerala,11000,0,0
+230,Apartments,3,4,Semi-Furnished,1320.0,400.0,East,3, Kerala,14500,0,0
+231,Apartments,2,2,Semi-Furnished,100.0,100.0,East,3, Kerala,9000,0,0
+232,Apartments,1,1,Semi-Furnished,100.0,100.0,East,2, Kerala,7000,0,0
+233,Houses & Villas,2,2,Semi-Furnished,1000.0,100.0,East,2, Kerala,9000,0,0
+234,Apartments,2,2,Semi-Furnished,100.0,100.0,East,2, Kerala,8000,0,0
+235,Apartments,2,2,Semi-Furnished,600.0,500.0,North,2, Kerala,8500,0,0
+236,Apartments,2,2,Semi-Furnished,500.0,500.0,West,3, Kerala,9500,0,0
+237,Houses & Villas,4,3,Furnished,800.0,0.0,East,2, Kerala,18000,1,0
+238,Apartments,1,1,Semi-Furnished,300.0,100.0,East,2, Kerala,6500,0,0
+239,Apartments,1,1,Furnished,175.0,300.0,others,3, Kerala,6000,0,1
+240,Apartments,2,2,Semi-Furnished,100.0,100.0,East,2, Kerala,10000,0,0
+241,Apartments,1,1,Semi-Furnished,100.0,100.0,East,2, Kerala,5000,0,0
+242,Apartments,3,2,Furnished,1100.0,2000.0,East,4, Kerala,160006,0,0
+243,Houses & Villas,2,2,Semi-Furnished,1000.0,0.0,East,2, Kerala,10500,0,0
+244,Houses & Villas,2,2,Semi-Furnished,950.0,0.0,West,2, Kerala,9000,0,0
+245,Houses & Villas,3,2,Unfurnished,850.0,100.0,East,1, Kerala,10000,0,0
+246,Houses & Villas,4,4,Unfurnished,1700.0,500.0,North,2, Kerala,15000,0,0
+247,Houses & Villas,2,1,Semi-Furnished,750.0,300.0,others,2, Kerala,500000,0,1
+248,Apartments,1,1,Furnished,600.0,300.0,others,2, Kerala,17000,0,1
+249,Apartments,2,2,Semi-Furnished,1400.0,300.0,others,1, Kerala,10000,0,1
+250,Apartments,2,2,Semi-Furnished,450.0,300.0,others,1, Kerala,10000,0,1
+251,Apartments,3,3,Semi-Furnished,1750.0,3000.0,East,11, Kerala,20000,0,0
+252,Apartments,2,2,Unfurnished,600.0,0.0,East,1, Kerala,10000,0,0
+253,Houses & Villas,3,3,Semi-Furnished,120.0,300.0,others,1, Kerala,5000,0,1
+254,Apartments,3,3,Furnished,1100.0,4000.0,South-East,19, Kerala,18000,0,0
+255,Houses & Villas,3,2,Unfurnished,1200.0,300.0,East,2, Kerala,15000,0,1
+256,Builder Floors,1,1,Semi-Furnished,350.0,100.0,South-East,3, Kerala,7500,0,0
+257,Apartments,2,2,Furnished,1150.0,2200.0,West,14, Kerala,17500,0,0
+258,Houses & Villas,2,2,Semi-Furnished,100.0,100.0,East,1, Kerala,10000,0,0
+259,Apartments,2,2,Furnished,850.0,0.0,East,3, Kerala,17000,0,0
+260,Houses & Villas,2,2,Semi-Furnished,100.0,100.0,East,2, Kerala,10000,0,0
+261,Houses & Villas,4,4,Furnished,1000.0,300.0,East,2, Kerala,40000,0,1
+262,Houses & Villas,2,1,Unfurnished,600.0,0.0,South,2, Kerala,8000,0,0
+263,Houses & Villas,2,2,Semi-Furnished,100.0,100.0,East,2, Kerala,11000,0,0
+264,Houses & Villas,2,2,Furnished,1000.0,0.0,West,3, Kerala,10000,0,0
+265,Apartments,2,1,Semi-Furnished,1200.0,6500.0,South,1, Kerala,6500,0,0
+266,Apartments,2,2,Furnished,100.0,100.0,East,2, Kerala,12000,0,0
+267,Houses & Villas,2,2,Semi-Furnished,1100.0,0.0,East,2, Kerala,10000,0,0
+268,Apartments,2,2,Semi-Furnished,100.0,100.0,East,2, Kerala,9000,0,0
+269,Houses & Villas,3,2,Unfurnished,1200.0,5000.0,North-West,1, Kerala,5000,0,0
+270,Apartments,2,2,Semi-Furnished,100.0,100.0,East,2, Kerala,10500,0,0
+271,Houses & Villas,1,1,Semi-Furnished,800.0,5000.0,others,2, Kerala,5000,0,0
+272,Apartments,3,3,Unfurnished,1350.0,300.0,others,2, Kerala,17500,0,1
+273,Apartments,3,3,Semi-Furnished,1500.0,3500.0,East,20, Kerala,15000,0,0
+274,Houses & Villas,2,2,Semi-Furnished,800.0,300.0,others,1, Kerala,12000,0,1
+275,Houses & Villas,2,3,Semi-Furnished,1000.0,15000.0,West,2, Kerala,15000,0,0
+276,Houses & Villas,2,2,Unfurnished,900.0,0.0,East,2, Kerala,12000,0,0
+277,Apartments,2,2,Semi-Furnished,900.0,0.0,North,2, Kerala,6500,0,0
+278,Houses & Villas,2,2,Unfurnished,1200.0,0.0,North,2, Kerala,12500,0,0
+279,Houses & Villas,1,1,Unfurnished,600.0,300.0,others,1, Kerala,8500,0,1
+280,Houses & Villas,5,4,Semi-Furnished,2000.0,300.0,others,2, Kerala,20000,0,1
+281,Houses & Villas,2,2,Furnished,1200.0,300.0,others,2, Kerala,9500,0,1
+282,Apartments,2,1,Semi-Furnished,953.0,0.0,East,2, Kerala,9000,0,0
+283,Houses & Villas,2,2,Semi-Furnished,750.0,0.0,others,0, Kerala,6000,0,0
+284,Apartments,2,2,Semi-Furnished,720.0,1000.0,East,3, Kerala,13000,0,0
+285,Apartments,3,2,Semi-Furnished,800.0,9744114886.0,East,3, Kerala,14000,0,0
+286,Houses & Villas,3,2,Semi-Furnished,2500.0,12000.0,North-West,1, Kerala,12000,0,0
+287,Houses & Villas,3,3,Semi-Furnished,2000.0,300.0,others,2, Kerala,13000,0,1
+288,Builder Floors,1,1,Unfurnished,100.0,300.0,East,15, Kerala,6000,0,1
+289,Houses & Villas,2,5,Unfurnished,500.0,500.0,East,2, Kerala,14000,0,0
+290,Apartments,2,2,Semi-Furnished,1145.0,3000.0,East,12, Kerala,22000,0,0
+291,Apartments,2,2,Semi-Furnished,900.0,300.0,others,1, Kerala,14000,0,1
+292,Apartments,3,3,Semi-Furnished,1300.0,2000.0,East,3, Kerala,18000,0,0
+293,Houses & Villas,3,2,Semi-Furnished,1750.0,0.0,East,1, Kerala,20000,0,0
+294,Houses & Villas,3,3,Unfurnished,1100.0,0.0,North,2, Kerala,13000,0,0
+295,Apartments,3,3,Semi-Furnished,1400.0,300.0,others,2, Kerala,20000,0,1
+296,Houses & Villas,2,2,Semi-Furnished,1800.0,0.0,East,2, Kerala,11000,0,0
+297,Houses & Villas,3,2,Unfurnished,1000.0,300.0,East,2, Kerala,8000,0,1
+298,Houses & Villas,4,3,Unfurnished,2000.0,100.0,East,2, Kerala,30000,0,0
+299,Houses & Villas,3,3,Semi-Furnished,1200.0,300.0,others,1, Kerala,15000,0,1
+300,Houses & Villas,2,2,Unfurnished,1000.0,300.0,others,1, Kerala,13000,0,1
+301,Houses & Villas,3,3,Semi-Furnished,1759.0,7000.0,East,2, Kerala,7000,0,0
+302,Apartments,3,2,Unfurnished,1300.0,300.0,others,3, Kerala,10000,0,1
+303,Houses & Villas,2,2,Semi-Furnished,1450.0,12500.0,East,2, Kerala,12500,0,0
+304,Apartments,1,1,Unfurnished,450.0,0.0,East,3, Kerala,8000,0,0
+305,Apartments,2,2,Unfurnished,800.0,0.0,South-East,2, Kerala,10500,0,0
+306,Apartments,1,2,Furnished,450.0,1500.0,East,19, Kerala,11500,0,0
+307,Apartments,3,3,Furnished,120.0,3000.0,others,17, Kerala,20000,0,0
+308,Apartments,3,3,Furnished,1700.0,3000.0,East,17, Kerala,24000,0,0
+309,Houses & Villas,2,2,Furnished,1000.0,100.0,North-East,3, Kerala,400000,0,0
+310,Houses & Villas,5,5,Semi-Furnished,1000.0,2000.0,others,2, Kerala,55000,0,0
+311,Apartments,3,2,Semi-Furnished,1205.0,3000.0,others,19, Kerala,13500,0,0
+312,Apartments,2,2,Furnished,530.0,2000.0,others,11, Kerala,20000,0,0
+313,Builder Floors,1,1,Furnished,310.0,300.0,East,5, Uttar Pradesh,5999,0,0
+314,Apartments,2,2,Semi-Furnished,910.0,500.0,North-East,5, Uttar Pradesh,8500,0,0
+315,Apartments,2,2,Unfurnished,700.0,3700.0,North,2, Uttar Pradesh,3700,0,0
+316,Builder Floors,2,1,Semi-Furnished,800.0,1000.0,East,4, Uttar Pradesh,25000,0,0
+317,Apartments,2,2,Furnished,850.0,1000.0,others,13, Uttar Pradesh,12000,0,0
+318,Builder Floors,1,1,Semi-Furnished,640.0,300.0,North-West,6, Uttar Pradesh,5700,0,0
+319,Houses & Villas,2,2,Unfurnished,1350.0,300.0,others,1, Uttar Pradesh,8000,0,1
+320,Houses & Villas,1,2,Unfurnished,100.0,100.0,East,3, Uttar Pradesh,8000,0,0
+321,Apartments,2,2,Unfurnished,800.0,1500.0,North-East,0, Uttar Pradesh,14000,1,0
+322,Apartments,3,4,Semi-Furnished,1500.0,3500.0,North-East,14, Uttar Pradesh,15000,0,0
+323,Apartments,2,1,Furnished,500.0,300.0,others,2, Uttar Pradesh,10000,0,1
+324,Houses & Villas,2,1,Semi-Furnished,410.0,500.0,North-East,4, Uttar Pradesh,8000,0,0
+325,Houses & Villas,2,1,Unfurnished,800.0,0.0,North-East,0, Uttar Pradesh,10000,1,0
+326,Houses & Villas,1,1,Semi-Furnished,800.0,0.0,South,3, Uttar Pradesh,10000,0,0
+327,Apartments,2,1,Semi-Furnished,650.0,300.0,others,1, Uttar Pradesh,10000,0,1
+328,Houses & Villas,3,1,Unfurnished,800.0,0.0,North,2, Uttar Pradesh,10000,0,0
+329,Houses & Villas,3,3,Semi-Furnished,2000.0,0.0,East,1, Uttar Pradesh,20000,0,0
+330,Houses & Villas,2,1,Furnished,1200.0,0.0,North,2, Uttar Pradesh,5000,0,0
+331,Builder Floors,1,1,Unfurnished,700.0,500.0,North-West,4, Uttar Pradesh,7500,0,0
+332,Houses & Villas,3,1,Furnished,1000.0,0.0,East,1, Uttar Pradesh,9000,0,0
+333,Houses & Villas,2,2,Unfurnished,950.0,0.0,South-East,1, Uttar Pradesh,6500,0,0
+334,Builder Floors,2,1,Furnished,1300.0,0.0,East,2, Uttar Pradesh,6500,0,0
+335,Apartments,2,2,Furnished,630.0,1500.0,North-East,14, Uttar Pradesh,12000,0,0
+336,Apartments,1,1,Semi-Furnished,510.0,500.0,North-East,5, Uttar Pradesh,6500,0,0
+337,Houses & Villas,1,1,Furnished,500.0,0.0,North-East,2, Uttar Pradesh,12000,0,0
+338,Apartments,2,2,Semi-Furnished,700.0,2625.0,North-East,15, Uttar Pradesh,13000,0,0
+339,Houses & Villas,2,1,Unfurnished,600.0,0.0,North-East,3, Uttar Pradesh,8000,0,0
+340,Apartments,3,3,Semi-Furnished,1276.0,4705.0,North-East,15, Uttar Pradesh,18500,0,0
+341,Houses & Villas,3,2,Semi-Furnished,1500.0,9000.0,West,2, Uttar Pradesh,9000,0,0
+342,Apartments,3,2,Semi-Furnished,1204.0,4440.0,North-East,15, Uttar Pradesh,17300,0,0
+343,Apartments,3,2,Semi-Furnished,1204.0,4440.0,North-East,15, Uttar Pradesh,17500,0,0
+344,Houses & Villas,1,1,Furnished,110.0,5200.0,West,1, Uttar Pradesh,5200,0,0
+345,Houses & Villas,2,1,Unfurnished,1280.0,0.0,South,3, Uttar Pradesh,6500,0,0
+346,Apartments,3,2,Semi-Furnished,1036.0,3820.0,North-East,19, Uttar Pradesh,15200,0,0
+347,Apartments,3,2,Semi-Furnished,1036.0,3820.0,North-East,19, Uttar Pradesh,15550,0,0
+348,Houses & Villas,2,1,Furnished,750.0,1000.0,South-East,2, Uttar Pradesh,5500,0,0
+349,Apartments,3,2,Semi-Furnished,1036.0,3820.0,North-East,19, Uttar Pradesh,15500,0,0
+350,Houses & Villas,5,3,Semi-Furnished,1900.0,0.0,North-West,1, Uttar Pradesh,20000,0,0
+351,Apartments,2,2,Semi-Furnished,700.0,2625.0,North-East,15, Uttar Pradesh,12999,0,0
+352,Apartments,2,1,Semi-Furnished,900.0,500.0,West,2, Uttar Pradesh,8000,0,0
+353,Builder Floors,1,1,Furnished,500.0,300.0,North-East,4, Uttar Pradesh,5000,0,0
+354,Houses & Villas,2,2,Furnished,1250.0,250.0,East,3, Uttar Pradesh,14500,0,0
+355,Apartments,1,1,Unfurnished,450.0,0.0,North-West,12, Uttar Pradesh,7500,0,0
+356,Builder Floors,1,1,Unfurnished,120.0,100.0,West,5, Uttar Pradesh,1700,0,0
+357,Houses & Villas,1,1,Furnished,300.0,0.0,North-East,1, Uttar Pradesh,3300,0,0
+358,Houses & Villas,3,2,Semi-Furnished,100.0,6000.0,North,1, Uttar Pradesh,6000,0,0
+359,Apartments,1,1,Furnished,450.0,0.0,South,12, Uttar Pradesh,12000,0,0
+360,Houses & Villas,2,1,Furnished,700.0,5000.0,West,1, Uttar Pradesh,5000,0,0
+361,Builder Floors,2,1,Unfurnished,800.0,0.0,West,1, Uttar Pradesh,5000,0,0
+362,Houses & Villas,2,2,Unfurnished,800.0,0.0,North-East,0, Uttar Pradesh,13000,1,0
+363,Apartments,2,2,Unfurnished,800.0,0.0,North-East,0, Uttar Pradesh,15000,1,0
+364,Builder Floors,1,1,Furnished,250.0,200.0,West,2, Uttar Pradesh,4999,0,0
+365,Apartments,2,2,Semi-Furnished,782.0,3500.0,East,22, Uttar Pradesh,13500,0,0
+366,Houses & Villas,2,1,Semi-Furnished,1200.0,0.0,North,2, Uttar Pradesh,9000,0,0
+367,Houses & Villas,1,1,Furnished,120.0,2500.0,West,2, Uttar Pradesh,2500,0,0
+368,Houses & Villas,1,1,Unfurnished,2000.0,0.0,East,2, Uttar Pradesh,2800,0,0
+369,Apartments,1,1,Unfurnished,800.0,0.0,West,16, Uttar Pradesh,2500,1,0
+370,Houses & Villas,2,1,Semi-Furnished,500.0,4000.0,North-West,3, Uttar Pradesh,4000,0,0
+371,Houses & Villas,2,1,Unfurnished,750.0,300.0,others,1, Uttar Pradesh,6000,0,1
+372,Houses & Villas,2,2,Semi-Furnished,100.0,0.0,East,3, Uttar Pradesh,1750,0,0
+373,Apartments,2,2,Furnished,1600.0,6500.0,West,2, Uttar Pradesh,6500,0,0
+374,Houses & Villas,1,1,Furnished,100.0,3000.0,North-East,1, Uttar Pradesh,1500,0,0
+375,Houses & Villas,1,1,Semi-Furnished,400.0,0.0,East,0, Uttar Pradesh,9000,0,0
+376,Apartments,2,1,Furnished,460.0,200.0,West,3, Uttar Pradesh,7000,0,0
+377,Houses & Villas,2,1,Semi-Furnished,1200.0,8000.0,South,1, Uttar Pradesh,8000,0,0
+378,Apartments,2,2,Unfurnished,1100.0,0.0,East,0, Uttar Pradesh,16000,0,0
+379,Houses & Villas,2,2,Semi-Furnished,780.0,7500.0,East,2, Uttar Pradesh,7500,0,0
+380,Houses & Villas,1,1,Furnished,390.0,200.0,North-East,2, Uttar Pradesh,7500,0,0
+381,Apartments,2,2,Semi-Furnished,1200.0,2000.0,East,14, Uttar Pradesh,17000,0,0
+382,Houses & Villas,4,2,Furnished,1800.0,700.0,others,2, Uttar Pradesh,12000,0,0
+383,Apartments,3,2,Unfurnished,800.0,1500.0,North-East,0, Uttar Pradesh,16500,1,0
+384,Houses & Villas,2,1,Unfurnished,800.0,0.0,North-East,0, Uttar Pradesh,8500,1,0
+385,Apartments,2,2,Semi-Furnished,800.0,300.0,others,2, Uttar Pradesh,16000,1,1
+386,Apartments,3,2,Semi-Furnished,1250.0,0.0,East,4, Uttar Pradesh,22000,0,0
+387,Apartments,3,2,Unfurnished,1350.0,1500.0,East,4, Uttar Pradesh,18000,0,0
+388,Houses & Villas,2,1,Unfurnished,1260.0,0.0,East,2, Uttar Pradesh,12500,0,0
+389,Houses & Villas,3,3,Semi-Furnished,1450.0,5500.0,East,3, Uttar Pradesh,5500,0,0
+390,Houses & Villas,2,2,Unfurnished,800.0,0.0,North-East,2, Uttar Pradesh,14000,1,0
+391,Apartments,2,2,Unfurnished,900.0,3000.0,East,15, Uttar Pradesh,3500,0,0
+392,Apartments,2,2,Unfurnished,1125.0,0.0,East,0, Uttar Pradesh,16000,0,0
+393,Houses & Villas,2,1,Unfurnished,1200.0,0.0,East,2, Uttar Pradesh,11500,0,0
+394,Apartments,1,1,Furnished,700.0,2500.0,East,3, Uttar Pradesh,11000,0,0
+395,Builder Floors,2,1,Semi-Furnished,500.0,0.0,North-West,3, Uttar Pradesh,8000,0,0
+396,Apartments,2,1,Unfurnished,612.0,1662.0,North-East,17, Uttar Pradesh,7500,0,0
+397,Apartments,3,3,Furnished,1700.0,2000.0,North,11, Uttar Pradesh,30000,0,0
+398,Builder Floors,3,2,Unfurnished,990.0,150.0,East,3, Uttar Pradesh,8000,0,0
+399,Apartments,2,2,Unfurnished,800.0,1500.0,North-East,0, Uttar Pradesh,12000,1,0
+400,Apartments,3,2,Semi-Furnished,1100.0,3500.0,North-East,22, Uttar Pradesh,14000,0,0
+401,Houses & Villas,4,2,Semi-Furnished,1200.0,0.0,others,2, Uttar Pradesh,17000,0,0
+402,Builder Floors,3,3,Furnished,1800.0,3500.0,others,11, Uttar Pradesh,30000,0,0
+403,Houses & Villas,1,1,Furnished,200.0,0.0,North,3, Uttar Pradesh,4500,0,0
+404,Apartments,2,2,Unfurnished,980.0,1200.0,South-West,1, Uttar Pradesh,13000,0,0
+405,Apartments,3,2,Semi-Furnished,1276.0,4705.0,North-East,15, Uttar Pradesh,18000,0,0
+406,Houses & Villas,1,1,Unfurnished,800.0,1200.0,East,1, Uttar Pradesh,1200,0,0
+407,Apartments,3,3,Semi-Furnished,1250.0,0.0,East,6, Uttar Pradesh,13000,0,0
+408,Apartments,2,1,Semi-Furnished,400.0,5000.0,others,3, Uttar Pradesh,5000,0,0
+409,Apartments,2,2,Unfurnished,1100.0,1500.0,others,5, Uttar Pradesh,16000,0,0
+410,Apartments,2,1,Unfurnished,1002.0,0.0,North-East,27, Uttar Pradesh,8000,0,0
+411,Apartments,3,2,Furnished,1250.0,300.0,others,2, Uttar Pradesh,10000,0,1
+412,Houses & Villas,2,1,Unfurnished,1000.0,300.0,others,1, Uttar Pradesh,8500,0,1
+413,Apartments,3,2,Semi-Furnished,1036.0,3820.0,North-East,15, Uttar Pradesh,14500,0,0
+414,Apartments,1,1,Unfurnished,1500.0,150.0,North,3, Uttar Pradesh,4600,0,0
+415,Builder Floors,1,1,Semi-Furnished,550.0,0.0,others,5, Uttar Pradesh,5500,0,0
+416,Houses & Villas,2,2,Furnished,800.0,7000.0,East,1, Uttar Pradesh,7500,0,0
+417,Apartments,1,1,Furnished,455.0,1335.0,North-East,28, Uttar Pradesh,12000,0,0
+418,Apartments,2,2,Semi-Furnished,950.0,2500.0,North-East,15, Uttar Pradesh,13000,0,0
+419,Apartments,1,1,Furnished,400.0,1100.0,North-East,20, Uttar Pradesh,10000,0,0
+420,Apartments,2,2,Furnished,700.0,0.0,East,20, Uttar Pradesh,15500,0,0
+421,Apartments,1,1,Furnished,475.0,1500.0,North-East,30, Uttar Pradesh,14000,0,0
+422,Houses & Villas,1,1,Semi-Furnished,800.0,300.0,others,1, Uttar Pradesh,3800,1,1
+423,Apartments,2,1,Unfurnished,1500.0,150.0,North,3, Uttar Pradesh,6000,0,0
+424,Builder Floors,2,2,Furnished,800.0,0.0,East,5, Uttar Pradesh,12500,0,0
+425,Apartments,2,2,Furnished,800.0,1500.0,North-East,0, Uttar Pradesh,21500,1,0
+426,Apartments,4,3,Semi-Furnished,800.0,5000.0,North-East,0, Uttar Pradesh,23000,1,0
+427,Apartments,1,1,Furnished,310.0,250.0,East,3, Uttar Pradesh,5500,0,0
+428,Apartments,3,2,Semi-Furnished,1000.0,3000.0,North-East,16, Uttar Pradesh,5500000,0,0
+429,Apartments,1,1,Furnished,405.0,1500.0,South-West,30, Uttar Pradesh,14000,0,0
+430,Apartments,2,2,Semi-Furnished,900.0,3000.0,North-East,15, Uttar Pradesh,15000,0,0
+431,Houses & Villas,2,2,Furnished,1000.0,0.0,West,2, Uttar Pradesh,18000,0,0
+432,Apartments,3,3,Furnished,1100.0,0.0,North-East,22, Uttar Pradesh,23000,0,0
+433,Houses & Villas,2,1,Unfurnished,550.0,0.0,East,2, Uttar Pradesh,5000,0,0
+434,Apartments,3,2,Semi-Furnished,1150.0,0.0,East,21, Uttar Pradesh,15000,0,0
+435,Apartments,2,2,Semi-Furnished,711.0,2625.0,North-East,15, Uttar Pradesh,13000,0,0
+436,Builder Floors,3,2,Semi-Furnished,900.0,0.0,East,5, Uttar Pradesh,8000,0,0
+437,Houses & Villas,4,2,Semi-Furnished,1350.0,300.0,others,1, Uttar Pradesh,10000,0,1
+438,Houses & Villas,2,1,Semi-Furnished,200.0,0.0,South-East,1, Uttar Pradesh,6500,0,0
+439,Apartments,2,2,Semi-Furnished,850.0,0.0,East,22, Uttar Pradesh,10000,0,0
+440,Builder Floors,2,2,Unfurnished,790.0,0.0,East,5, Uttar Pradesh,6450,0,0
+441,Apartments,3,3,Semi-Furnished,1600.0,3000.0,North-East,12, Uttar Pradesh,16000,0,0
+442,Builder Floors,3,2,Semi-Furnished,1020.0,0.0,North-East,5, Uttar Pradesh,8650,0,0
+443,Apartments,2,2,Unfurnished,3200.0,200.0,South-East,3, Uttar Pradesh,7500,0,0
+444,Apartments,2,2,Unfurnished,1500.0,300.0,others,1, Uttar Pradesh,11000,0,1
+445,Apartments,3,3,Furnished,1300.0,1500.0,North-West,6, Uttar Pradesh,25000,0,0
+446,Houses & Villas,2,1,Unfurnished,800.0,0.0,North-East,0, Uttar Pradesh,12500,1,0
+447,Apartments,2,2,Furnished,1062.0,1500.0,North,0, Uttar Pradesh,21500,0,0
+448,Apartments,3,2,Semi-Furnished,1150.0,0.0,East,25, Uttar Pradesh,15000,0,0
+449,Builder Floors,2,2,Unfurnished,928.0,0.0,East,5, Uttar Pradesh,6350,0,0
+450,Houses & Villas,2,1,Furnished,650.0,10000.0,South-East,3, Uttar Pradesh,10000,0,0
+451,Apartments,1,1,Semi-Furnished,700.0,0.0,North-East,24, Uttar Pradesh,7500,0,0
+452,Builder Floors,2,2,Semi-Furnished,890.0,0.0,East,5, Uttar Pradesh,7680,0,0
+453,Houses & Villas,2,1,Semi-Furnished,500.0,0.0,East,3, Uttar Pradesh,8000,0,0
+454,Builder Floors,1,1,Semi-Furnished,560.0,0.0,East,5, Uttar Pradesh,5890,0,0
+455,Apartments,1,1,Furnished,458.0,0.0,East,24, Uttar Pradesh,11995,0,0
+456,Apartments,1,1,Furnished,524.0,0.0,East,24, Uttar Pradesh,8994,0,0
+457,Apartments,2,2,Semi-Furnished,910.0,0.0,North-East,26, Uttar Pradesh,10210,0,0
+458,Apartments,2,2,Semi-Furnished,650.0,1000.0,West,4, Uttar Pradesh,12000,0,0
+459,Apartments,1,1,Furnished,800.0,100.0,East,2, Uttar Pradesh,2500,0,0
+460,Builder Floors,1,1,Furnished,300.0,300.0,others,1, Uttar Pradesh,5000,0,1
+461,Apartments,1,1,Furnished,400.0,500.0,North-West,7, Uttar Pradesh,12000,0,0
+462,Houses & Villas,1,1,Furnished,250.0,3000.0,North,2, Uttar Pradesh,3000,0,0
+463,Houses & Villas,1,1,Furnished,1500.0,10000.0,East,1, Uttar Pradesh,10000,0,0
+464,Apartments,5,5,Furnished,3500.0,2000.0,East,2, Uttar Pradesh,2000,0,0
+465,Builder Floors,1,1,Semi-Furnished,400.0,0.0,East,1, Uttar Pradesh,4500,0,0
+466,Builder Floors,2,2,Semi-Furnished,800.0,0.0,East,5, Uttar Pradesh,8000,0,0
+467,Houses & Villas,5,5,Furnished,300.0,0.0,East,2, Uttar Pradesh,8000,0,0
+468,Apartments,2,2,Unfurnished,910.0,0.0,East,24, Uttar Pradesh,8480,0,0
+469,Apartments,2,2,Unfurnished,1000.0,1500.0,North-East,4, Uttar Pradesh,14000,0,0
+470,Apartments,2,2,Semi-Furnished,800.0,0.0,North-East,26, Uttar Pradesh,10000,0,0
+471,Apartments,2,2,Unfurnished,850.0,0.0,East,26, Uttar Pradesh,8000,0,0
+472,Houses & Villas,1,1,Semi-Furnished,300.0,0.0,East,1, Uttar Pradesh,2500,0,0
+473,Houses & Villas,3,3,Furnished,1750.0,0.0,East,1, Uttar Pradesh,18000,0,0
+474,Houses & Villas,3,3,Furnished,1250.0,0.0,East,1, Uttar Pradesh,13000,0,0
+475,Builder Floors,2,2,Furnished,800.0,500.0,North-West,7, Uttar Pradesh,18000,0,0
+476,Builder Floors,1,1,Furnished,520.0,400.0,East,8, Uttar Pradesh,1650000,0,0
+477,Apartments,2,2,Furnished,1800.0,2600.0,North-East,22, Uttar Pradesh,6500,0,0
+478,Apartments,2,2,Unfurnished,750.0,0.0,North-East,25, Uttar Pradesh,8000,0,0
+479,Apartments,2,2,Semi-Furnished,1000.0,500.0,West,2, Uttar Pradesh,15000,0,0
+480,Builder Floors,1,1,Semi-Furnished,575.0,500.0,East,3, Uttar Pradesh,7000,0,0
+481,Houses & Villas,1,1,Semi-Furnished,800.0,3000.0,others,1, Uttar Pradesh,3000,1,0
+482,Houses & Villas,1,1,Semi-Furnished,600.0,300.0,others,3, Uttar Pradesh,6000,0,1
+483,Apartments,2,1,Unfurnished,600.0,600.0,South-East,2, Uttar Pradesh,8000,0,0
+484,Houses & Villas,1,2,Furnished,100.0,300.0,others,1, Uttar Pradesh,2500,0,1
+485,Houses & Villas,1,2,Unfurnished,700.0,300.0,others,2, Uttar Pradesh,3500,0,1
+486,Apartments,3,3,Semi-Furnished,928.0,2500.0,North-East,12, Uttar Pradesh,15000,0,0
+487,Apartments,1,1,Furnished,305.0,100.0,North,2, Uttar Pradesh,5000,0,0
+488,Apartments,1,1,Furnished,610.0,600.0,East,9, Uttar Pradesh,10000,0,0
+489,Apartments,2,2,Semi-Furnished,1100.0,2000.0,East,12, Uttar Pradesh,11000,0,0
+490,Apartments,3,2,Unfurnished,800.0,2000.0,East,14, Uttar Pradesh,4700,1,0
+491,Builder Floors,2,2,Semi-Furnished,950.0,1000.0,North-East,4, Uttar Pradesh,12500,0,0
+492,Builder Floors,2,2,Semi-Furnished,700.0,0.0,West,3, Uttar Pradesh,6200,0,0
+493,Houses & Villas,2,2,Semi-Furnished,800.0,6800.0,North-East,2, Uttar Pradesh,6800,0,0
+494,Builder Floors,2,2,Semi-Furnished,800.0,500.0,North-East,4, Uttar Pradesh,5500,0,0
+495,Houses & Villas,3,1,Furnished,2000.0,300.0,others,1, Uttar Pradesh,9000,0,1
+496,Apartments,2,2,Semi-Furnished,800.0,500.0,North-East,0, Uttar Pradesh,16500,1,0
+497,Apartments,3,2,Semi-Furnished,1050.0,2626.0,South-West,19, Uttar Pradesh,5500,0,0
+498,Houses & Villas,1,1,Unfurnished,100.0,3500.0,North-East,1, Uttar Pradesh,3500,0,0
+499,Builder Floors,2,2,Semi-Furnished,850.0,1500.0,North-East,2, Uttar Pradesh,4999,0,0
+500,Apartments,1,1,Semi-Furnished,500.0,1000.0,North-East,6, Uttar Pradesh,7000,0,0
+501,Houses & Villas,3,1,Semi-Furnished,1100.0,0.0,South-East,2, Uttar Pradesh,5000,0,0
+502,Houses & Villas,2,1,Semi-Furnished,525.0,0.0,East,3, Uttar Pradesh,8000,0,0
+503,Apartments,1,1,Furnished,400.0,500.0,North,3, Uttar Pradesh,10000,0,0
+504,Houses & Villas,2,1,Furnished,1600.0,300.0,others,2, Uttar Pradesh,6500,0,1
+505,Houses & Villas,3,1,Semi-Furnished,945.0,0.0,West,1, Uttar Pradesh,8000,0,0
+506,Houses & Villas,2,2,Furnished,1250.0,500.0,North-East,3, Uttar Pradesh,25000,0,0
+507,Apartments,1,1,Furnished,550.0,1100.0,North,13, Karnataka,15500,0,0
+508,Houses & Villas,1,1,Furnished,500.0,3000.0,East,1, Karnataka,3000,0,0
+509,Builder Floors,2,2,Semi-Furnished,795.0,0.0,North,3, Karnataka,9000,0,0
+510,Houses & Villas,2,2,Semi-Furnished,200.0,6500.0,North,2, Karnataka,6500,0,0
+511,Houses & Villas,1,1,Semi-Furnished,750.0,500.0,East,2, Karnataka,11500,0,0
+512,Builder Floors,1,1,Semi-Furnished,100.0,200.0,North-East,3, Karnataka,1500,0,0
+513,Houses & Villas,2,1,Semi-Furnished,800.0,0.0,North-East,1, Karnataka,7000,0,0
+514,Builder Floors,2,1,Unfurnished,605.0,700.0,North-West,3, Karnataka,5000,0,0
+515,Houses & Villas,2,2,Semi-Furnished,1200.0,300.0,others,1, Karnataka,7000,0,1
+516,Houses & Villas,2,1,Semi-Furnished,550.0,0.0,South,4, Karnataka,12500,0,0
+517,Apartments,2,2,Semi-Furnished,150.0,200.0,East,2, Karnataka,9000,0,0
+518,Houses & Villas,1,2,Furnished,800.0,300.0,others,2, Karnataka,8000,0,1
+519,Houses & Villas,1,1,Unfurnished,600.0,500.0,East,4, Karnataka,7000,0,0
+520,Houses & Villas,1,1,Semi-Furnished,699.0,0.0,North,1, Karnataka,6000,0,0
+521,Apartments,3,2,Semi-Furnished,1630.0,4000.0,East,21, Karnataka,2500000,0,0
+522,Apartments,1,1,Furnished,1000.0,10000.0,North-East,4, Karnataka,10000,0,0
+523,Apartments,2,2,Unfurnished,1200.0,3500.0,North,5, Karnataka,750000,0,0
+524,Apartments,1,1,Semi-Furnished,500.0,500.0,North-East,1, Karnataka,10000,0,0
+525,Apartments,2,2,Furnished,1050.0,1500.0,North-West,4, Karnataka,18000,0,0
+526,Builder Floors,2,2,Furnished,975.0,2000.0,East,25, Karnataka,16000,0,0
+527,Houses & Villas,2,1,Semi-Furnished,600.0,2000.0,East,3, Karnataka,400000,0,0
+528,Houses & Villas,1,2,Furnished,800.0,300.0,others,1, Karnataka,8000,0,1
+529,Houses & Villas,2,1,Unfurnished,800.0,7000.0,East,2, Karnataka,7000,0,0
+530,Houses & Villas,1,2,Unfurnished,900.0,0.0,North,2, Karnataka,7500,0,0
+531,Houses & Villas,2,2,Furnished,600.0,150.0,North,2, Karnataka,550000,0,0
+532,Builder Floors,2,2,Semi-Furnished,1000.0,9000.0,North,2, Karnataka,9000,0,0
+533,Houses & Villas,2,2,Semi-Furnished,900.0,500.0,East,3, Karnataka,13000,0,0
+534,Apartments,2,2,Semi-Furnished,900.0,3600.0,North,12, Karnataka,24000,0,0
+535,Apartments,2,2,Semi-Furnished,1100.0,2000.0,North,4, Karnataka,25000,0,0
+536,Houses & Villas,2,2,Unfurnished,1200.0,600.0,East,3, Karnataka,12000,0,0
+537,Houses & Villas,2,2,Unfurnished,750.0,0.0,others,1, Karnataka,9000,0,0
+538,Builder Floors,1,1,Semi-Furnished,400.0,0.0,East,2, Karnataka,10000,0,0
+539,Apartments,2,2,Unfurnished,625.0,200.0,South,3, Karnataka,10000,0,0
+540,Builder Floors,1,1,Unfurnished,450.0,0.0,North,2, Karnataka,7250,0,0
+541,Apartments,2,2,Semi-Furnished,1100.0,2500.0,others,2, Karnataka,18000,0,0
+542,Builder Floors,5,3,Semi-Furnished,2800.0,0.0,North,3, Karnataka,60000,0,0
+543,Apartments,2,2,Semi-Furnished,1100.0,2000.0,North,4, Karnataka,18000,0,0
+544,Houses & Villas,2,1,Unfurnished,100.0,300.0,East,2, Karnataka,5500,0,0
+545,Apartments,2,2,Semi-Furnished,1039.0,2500.0,North,5, Karnataka,17000,0,0
+546,Apartments,2,2,Furnished,1260.0,2600.0,East,4, Karnataka,18000,0,0
+547,Apartments,2,2,Semi-Furnished,1000.0,1500.0,North,4, Karnataka,7500,0,0
+548,Houses & Villas,2,1,Furnished,2400.0,9000.0,East,1, Karnataka,9000,0,0
+549,Houses & Villas,1,1,Unfurnished,1300.0,200.0,South,2, Karnataka,5000,0,0
+550,Apartments,1,1,Semi-Furnished,650.0,300.0,North,3, Karnataka,9999,0,0
+551,Houses & Villas,2,3,Semi-Furnished,1100.0,0.0,East,1, Karnataka,12000,0,0
+552,Houses & Villas,2,2,Semi-Furnished,720.0,300.0,East,4, Karnataka,15000,0,0
+553,Houses & Villas,2,2,Semi-Furnished,1000.0,300.0,others,1, Karnataka,12000,0,1
+554,Houses & Villas,1,1,Furnished,1000.0,500.0,North,4, Karnataka,7500,0,0
+555,Apartments,3,3,Furnished,800.0,2500.0,East,10, Karnataka,28000,0,0
+556,Apartments,3,3,Furnished,1225.0,3000.0,West,12, Karnataka,30000,0,0
+557,Houses & Villas,1,1,Semi-Furnished,500.0,300.0,others,1, Karnataka,6500,0,1
+558,Houses & Villas,2,2,Semi-Furnished,1000.0,0.0,East,2, Karnataka,18000,0,0
+559,Apartments,2,2,Furnished,800.0,2000.0,North,10, Karnataka,20000,0,0
+560,Apartments,3,2,Semi-Furnished,1450.0,1500.0,East,5, Karnataka,25000,0,0
+561,Houses & Villas,3,3,Furnished,1750.0,1000.0,West,2, Karnataka,15000,0,0
+562,Apartments,3,3,Semi-Furnished,800.0,1800.0,East,7, Karnataka,18000,0,0
+563,Houses & Villas,2,1,Furnished,800.0,300.0,others,0, Karnataka,15000,1,1
+564,Houses & Villas,2,2,Semi-Furnished,1050.0,300.0,North-East,3, Karnataka,12500,0,0
+565,Apartments,2,2,Semi-Furnished,800.0,1500.0,East,7, Karnataka,13000,0,0
+566,Houses & Villas,2,1,Semi-Furnished,800.0,300.0,others,1, Karnataka,11000,0,1
+567,Houses & Villas,2,2,Furnished,1100.0,1000.0,North,5, Karnataka,12000,0,0
+568,Apartments,3,2,Semi-Furnished,1175.0,2800.0,East,4, Karnataka,17500,0,0
+569,Apartments,1,1,Semi-Furnished,600.0,1500.0,East,4, Karnataka,13000,0,0
+570,Apartments,1,1,Semi-Furnished,750.0,500.0,East,4, Karnataka,6500,0,0
+571,Apartments,3,2,Semi-Furnished,1540.0,4900.0,South,8, Karnataka,20000,0,0
+572,Apartments,1,1,Semi-Furnished,1150.0,1500.0,North,12, Karnataka,15000,0,0
+573,Builder Floors,2,2,Furnished,800.0,0.0,West,0, Karnataka,500000,1,0
+574,Houses & Villas,2,1,Unfurnished,600.0,4500.0,South,1, Karnataka,4500,0,0
+575,Houses & Villas,1,1,Furnished,150.0,100.0,North,1, Karnataka,3500,0,0
+576,Houses & Villas,1,1,Semi-Furnished,800.0,300.0,others,1, Karnataka,7000,1,1
+577,Apartments,2,2,Semi-Furnished,850.0,1500.0,West,4, Karnataka,12000,0,0
+578,Apartments,2,2,Semi-Furnished,1100.0,1350.0,East,5, Karnataka,13000,0,0
+579,Apartments,3,4,Semi-Furnished,1438.0,0.0,North-East,32, Karnataka,40000,0,0
+580,Builder Floors,1,1,Furnished,300.0,0.0,North,3, Karnataka,6500,0,0
+581,Houses & Villas,2,2,Semi-Furnished,1000.0,300.0,others,1, Karnataka,12000,0,1
+582,Builder Floors,1,1,Semi-Furnished,400.0,0.0,East,4, Karnataka,7200,0,0
+583,Builder Floors,1,1,Unfurnished,200.0,4000.0,South,3, Karnataka,4000,0,0
+584,Builder Floors,1,1,Semi-Furnished,550.0,0.0,North,3, Karnataka,8200,0,0
+585,Houses & Villas,1,1,Semi-Furnished,950.0,0.0,East,3, Karnataka,5000,0,0
+586,Apartments,1,1,Semi-Furnished,200.0,300.0,East,4, Karnataka,5500,0,0
+587,Builder Floors,2,1,Semi-Furnished,600.0,0.0,South,3, Karnataka,11000,0,0
+588,Apartments,3,2,Semi-Furnished,1200.0,4500.0,North,26, Karnataka,1700000,0,0
+589,Houses & Villas,1,1,Unfurnished,520.0,0.0,North-East,1, Karnataka,8000,0,0
+590,Builder Floors,1,1,Semi-Furnished,600.0,8500.0,East,3, Karnataka,8500,0,0
+591,Builder Floors,2,2,Semi-Furnished,900.0,0.0,East,3, Karnataka,18000,0,0
+592,Apartments,2,2,Semi-Furnished,1300.0,2500.0,East,5, Karnataka,1300000,0,0
+593,Houses & Villas,1,1,Unfurnished,400.0,500.0,East,4, Karnataka,10000,0,0
+594,Apartments,3,2,Furnished,1300.0,750.0,North,12, Karnataka,5250,0,0
+595,Apartments,1,2,Semi-Furnished,650.0,500.0,North,2, Karnataka,7500,0,0
+596,Houses & Villas,2,2,Semi-Furnished,900.0,500.0,East,2, Karnataka,20000,0,0
+597,Apartments,3,2,Furnished,1075.0,3500.0,North-East,5, Karnataka,21500,0,0
+598,Apartments,2,2,Semi-Furnished,1285.0,2000.0,East,3, Karnataka,15000,0,0
+599,Apartments,2,2,Semi-Furnished,800.0,1000.0,East,3, Karnataka,6000,0,0
+600,Houses & Villas,2,2,Semi-Furnished,900.0,1000.0,North,1, Karnataka,12000,0,0
+601,Houses & Villas,2,1,Semi-Furnished,1000.0,10000.0,North,2, Karnataka,10000,0,0
+602,Houses & Villas,3,2,Semi-Furnished,1600.0,2000.0,South,2, Karnataka,18000,0,0
+603,Houses & Villas,2,2,Semi-Furnished,1350.0,0.0,North-East,3, Karnataka,16000,0,0
+604,Builder Floors,1,1,Semi-Furnished,350.0,500.0,East,4, Karnataka,7000,0,0
+605,Apartments,1,1,Furnished,200.0,300.0,East,3, Karnataka,10000,0,0
+606,Apartments,3,2,Semi-Furnished,1100.0,3000.0,East,3, Karnataka,27000,0,0
+607,Apartments,1,1,Semi-Furnished,1200.0,1500.0,North-East,12, Karnataka,10000,0,0
+608,Houses & Villas,2,1,Unfurnished,1200.0,0.0,East,1, Karnataka,12500,0,0
+609,Apartments,2,2,Semi-Furnished,1000.0,2000.0,West,4, Karnataka,19000,0,0
+610,Apartments,3,2,Semi-Furnished,900.0,1200.0,West,4, Karnataka,20000,0,0
+611,Apartments,3,3,Semi-Furnished,1500.0,5000.0,East,32, Karnataka,35000,0,0
+612,Houses & Villas,2,2,Furnished,800.0,1000.0,North,2, Karnataka,11000,0,0
+613,Apartments,1,1,Semi-Furnished,1600.0,100.0,others,4, Karnataka,380000,0,0
+614,Houses & Villas,2,2,Furnished,750.0,500.0,West,2, Karnataka,16000,0,0
+615,Builder Floors,1,1,Semi-Furnished,500.0,250.0,East,3, Karnataka,9000,0,0
+616,Builder Floors,2,2,Semi-Furnished,300.0,300.0,North,2, Karnataka,13000,0,0
+617,Builder Floors,1,1,Semi-Furnished,150.0,0.0,East,1, Karnataka,9000,0,0
+618,Builder Floors,2,1,Semi-Furnished,300.0,8000.0,East,3, Karnataka,8000,0,0
+619,Apartments,3,3,Semi-Furnished,901.0,300.0,others,8, Karnataka,15000,0,0
+620,Apartments,2,2,Semi-Furnished,1275.0,1500.0,North-East,8, Karnataka,15000,0,0
+621,Apartments,3,3,Semi-Furnished,1600.0,2000.0,West,12, Karnataka,16500,0,0
+622,Apartments,1,1,Semi-Furnished,900.0,2300.0,North,3, Karnataka,10000,0,0
+623,Apartments,2,2,Furnished,1000.0,1350.0,East,5, Karnataka,16500,0,0
+624,Houses & Villas,3,2,Semi-Furnished,300.0,0.0,North-East,1, Karnataka,8000,0,0
+625,Apartments,3,3,Unfurnished,1010.0,1000.0,East,14, Karnataka,13000,0,0
+626,Houses & Villas,2,2,Unfurnished,800.0,0.0,North,2, Karnataka,10000,1,0
+627,Apartments,2,1,Unfurnished,850.0,8000.0,North-West,2, Karnataka,8000,0,0
+628,Builder Floors,1,1,Semi-Furnished,400.0,500.0,North,2, Karnataka,6000,0,0
+629,Houses & Villas,1,1,Semi-Furnished,600.0,300.0,others,1, Karnataka,10000,0,1
+630,Apartments,2,2,Semi-Furnished,874.0,1000.0,East,14, Karnataka,15000,0,0
+631,Houses & Villas,1,1,Semi-Furnished,800.0,3000.0,West,1, Karnataka,15000,0,0
+632,Houses & Villas,1,1,Unfurnished,800.0,300.0,North-East,1, Karnataka,250000,0,0
+633,Houses & Villas,1,1,Semi-Furnished,900.0,500.0,East,3, Karnataka,5500,0,0
+634,Builder Floors,1,1,Unfurnished,500.0,4700.0,North,2, Karnataka,4700,0,0
+635,Builder Floors,2,1,Furnished,800.0,15000.0,East,2, Karnataka,15000,0,0
+636,Builder Floors,2,2,Semi-Furnished,880.0,300.0,others,3, Karnataka,1000000,0,1
+637,Apartments,2,2,Semi-Furnished,1000.0,2000.0,North,4, Karnataka,23000,0,0
+638,Apartments,2,2,Semi-Furnished,1300.0,300.0,others,1, Karnataka,25850,0,0
+639,Apartments,3,3,Semi-Furnished,1300.0,4500.0,East,10, Karnataka,34650,0,0
+640,Apartments,2,2,Semi-Furnished,1300.0,2500.0,East,5, Karnataka,16450000,0,0
+641,Houses & Villas,2,2,Semi-Furnished,1100.0,1000.0,North-East,3, Karnataka,15000,0,0
+642,Apartments,2,2,Semi-Furnished,480.0,300.0,others,4, Karnataka,11000,0,1
+643,Apartments,2,2,Furnished,1650.0,3000.0,North,4, Karnataka,25000,0,0
+644,Houses & Villas,1,1,Semi-Furnished,450.0,0.0,North,1, Karnataka,9500,0,0
+645,Houses & Villas,1,1,Unfurnished,300.0,0.0,East,3, Karnataka,400000,0,0
+646,Apartments,3,3,Furnished,1400.0,2000.0,others,4, Karnataka,16500,0,0
+647,Houses & Villas,2,2,Semi-Furnished,1200.0,0.0,East,2, Karnataka,15000,0,0
+648,Apartments,3,3,Semi-Furnished,1500.0,4500.0,East,10, Karnataka,2200000,0,0
+649,Apartments,2,2,Semi-Furnished,1100.0,300.0,North,4, Karnataka,18000,0,1
+650,Builder Floors,2,2,Semi-Furnished,600.0,500.0,East,2, Karnataka,10000,0,0
+651,Houses & Villas,2,2,Unfurnished,1100.0,0.0,East,1, Karnataka,12000,0,0
+652,Apartments,2,2,Furnished,1100.0,1500.0,East,8, Karnataka,16000,0,0
+653,Builder Floors,1,1,Semi-Furnished,550.0,0.0,South,2, Karnataka,5800,0,0
+654,Builder Floors,2,2,Semi-Furnished,1000.0,500.0,East,3, Karnataka,19000,0,0
+655,Houses & Villas,1,1,Semi-Furnished,600.0,300.0,others,2, Karnataka,7500,0,1
+656,Houses & Villas,1,1,Unfurnished,900.0,0.0,East,0, Karnataka,8000,0,0
+657,Houses & Villas,2,2,Semi-Furnished,900.0,200.0,South,4, Karnataka,15500,0,0
+658,Builder Floors,1,1,Semi-Furnished,400.0,500.0,North-East,3, Karnataka,6000,0,0
+659,Houses & Villas,1,1,Semi-Furnished,300.0,300.0,North,2, Karnataka,8500,0,0
+660,Houses & Villas,3,3,Furnished,1850.0,2000.0,East,5, Karnataka,1800000,0,0
+661,Builder Floors,1,1,Semi-Furnished,480.0,1000.0,North-East,3, Karnataka,580000,0,0
+662,Builder Floors,1,1,Furnished,320.0,300.0,North,5, Karnataka,10999,0,0
+663,Apartments,1,1,Semi-Furnished,1200.0,0.0,North-East,3, Karnataka,14000,0,0
+664,Builder Floors,1,1,Furnished,350.0,200.0,East,5, Karnataka,11500,0,0
+665,Apartments,2,2,Furnished,1000.0,1300.0,East,4, Karnataka,8000,0,0
+666,Houses & Villas,2,1,Semi-Furnished,950.0,400.0,North-East,1, Karnataka,9500,0,0
+667,Builder Floors,1,1,Furnished,350.0,0.0,North,5, Karnataka,11000,0,0
+668,Builder Floors,2,1,Semi-Furnished,700.0,300.0,North,3, Karnataka,10000,0,0
+669,Apartments,3,3,Furnished,1900.0,0.0,North-East,20, Karnataka,33000,0,0
+670,Builder Floors,1,1,Semi-Furnished,550.0,500.0,East,4, Karnataka,9000,0,0
+671,Apartments,2,2,Semi-Furnished,1000.0,2500.0,East,5, Karnataka,21000,0,0
+672,Houses & Villas,1,1,Semi-Furnished,450.0,1000.0,North-East,3, Karnataka,7500,0,0
+673,Builder Floors,3,3,Semi-Furnished,1200.0,500.0,South,1, Karnataka,21000,0,0
+674,Builder Floors,1,1,Semi-Furnished,600.0,500.0,East,4, Karnataka,12000,0,0
+675,Apartments,2,2,Semi-Furnished,1000.0,1992.0,North,4, Karnataka,12500,0,0
+676,Apartments,3,3,Unfurnished,1500.0,300.0,others,3, Karnataka,12000,0,1
+677,Houses & Villas,2,2,Unfurnished,1365.0,8000.0,East,1, Karnataka,8000,0,0
+678,Builder Floors,2,2,Semi-Furnished,660.0,200.0,North-East,5, Karnataka,21000,0,0
+679,Builder Floors,2,2,Semi-Furnished,650.0,0.0,North,5, Karnataka,20000,0,0
+680,Houses & Villas,3,3,Semi-Furnished,1600.0,1000.0,East,2, Karnataka,30000,0,0
+681,Builder Floors,3,1,Semi-Furnished,600.0,300.0,others,0, Karnataka,9000,0,1
+682,Apartments,2,2,Semi-Furnished,1300.0,2000.0,East,4, Karnataka,20500,0,0
+683,Houses & Villas,2,1,Semi-Furnished,650.0,200.0,North,3, Karnataka,800000,0,0
+684,Builder Floors,1,1,Semi-Furnished,550.0,500.0,East,5, Karnataka,10000,0,0
+685,Houses & Villas,2,2,Semi-Furnished,800.0,1000.0,South,3, Karnataka,15000,0,0
+686,Houses & Villas,2,1,Unfurnished,750.0,5500.0,East,1, Karnataka,5500,0,0
+687,Apartments,3,3,Furnished,2100.0,300.0,others,8, Karnataka,40000,0,0
+688,Apartments,3,3,Semi-Furnished,1500.0,1000.0,North-East,5, Karnataka,34000,0,0
+689,Apartments,2,2,Semi-Furnished,1127.0,1000.0,North,5, Karnataka,27000,0,0
+690,Apartments,2,2,Semi-Furnished,1237.0,800.0,North,5, Karnataka,24000,0,0
+691,Apartments,2,2,Semi-Furnished,1270.0,1000.0,North,4, Karnataka,21500,0,0
+692,Apartments,1,1,Semi-Furnished,800.0,0.0,North-East,3, Karnataka,6500,0,0
+693,Houses & Villas,2,1,Semi-Furnished,900.0,0.0,North,1, Karnataka,11000,0,0
+694,Apartments,1,1,Furnished,450.0,300.0,others,1, Karnataka,15000,0,1
+695,Apartments,1,1,Semi-Furnished,500.0,1000.0,East,5, Karnataka,550000,0,0
+696,Apartments,2,2,Semi-Furnished,1061.0,2000.0,North,4, Karnataka,19000,0,0
+697,Builder Floors,1,1,Semi-Furnished,200.0,0.0,East,4, Karnataka,5500,0,0
+698,Houses & Villas,2,2,Unfurnished,700.0,0.0,South,2, Tamil Nadu,1600000,0,0
+699,Apartments,2,2,Unfurnished,875.0,1000.0,North,2, Tamil Nadu,1200000,0,0
+700,Houses & Villas,2,2,Unfurnished,500.0,250.0,North,3, Tamil Nadu,7750,0,0
+701,Houses & Villas,2,2,Unfurnished,982.0,500.0,North,2, Tamil Nadu,8500,0,0
+702,Builder Floors,1,1,Furnished,400.0,300.0,East,1, Tamil Nadu,4500,0,0
+703,Apartments,2,2,Unfurnished,600.0,500.0,South,2, Tamil Nadu,15000,0,0
+704,Apartments,2,2,Unfurnished,1100.0,2500.0,North,4, Tamil Nadu,10000,0,0
+705,Builder Floors,1,1,Furnished,250.0,200.0,East,4, Tamil Nadu,7000,0,0
+706,Houses & Villas,2,1,Semi-Furnished,750.0,500.0,North-East,3, Tamil Nadu,19500,0,0
+707,Houses & Villas,3,2,Semi-Furnished,1700.0,0.0,North,2, Tamil Nadu,15000,0,0
+708,Apartments,2,2,Unfurnished,820.0,500.0,North-East,3, Tamil Nadu,10000,0,0
+709,Apartments,2,2,Semi-Furnished,900.0,500.0,North,2, Tamil Nadu,825000,0,0
+710,Builder Floors,2,1,Semi-Furnished,500.0,300.0,North,1, Tamil Nadu,6500,0,0
+711,Apartments,2,2,Unfurnished,650.0,0.0,others,1, Tamil Nadu,11000,0,0
+712,Builder Floors,1,1,Unfurnished,550.0,300.0,East,3, Tamil Nadu,8500,0,0
+713,Houses & Villas,2,2,Semi-Furnished,750.0,500.0,East,2, Tamil Nadu,13000,0,0
+714,Builder Floors,2,2,Semi-Furnished,850.0,0.0,East,2, Tamil Nadu,13000,0,0
+715,Houses & Villas,2,2,Unfurnished,1200.0,300.0,South,1, Tamil Nadu,8000,0,0
+716,Houses & Villas,1,1,Unfurnished,800.0,200.0,East,3, Tamil Nadu,5500,0,0
+717,Apartments,2,2,Unfurnished,800.0,0.0,North,2, Tamil Nadu,12000,1,0
+718,Builder Floors,1,1,Unfurnished,350.0,100.0,East,2, Tamil Nadu,6500,0,0
+719,Houses & Villas,1,1,Semi-Furnished,300.0,500.0,South,2, Tamil Nadu,10000,0,0
+720,Apartments,2,2,Semi-Furnished,850.0,300.0,others,1, Tamil Nadu,20000,0,0
+721,Apartments,1,1,Unfurnished,450.0,0.0,West,3, Tamil Nadu,200000,0,0
+722,Houses & Villas,2,2,Unfurnished,1350.0,300.0,others,1, Tamil Nadu,10000,0,1
+723,Houses & Villas,2,2,Unfurnished,240.0,200.0,North,1, Tamil Nadu,10000,0,0
+724,Apartments,1,1,Semi-Furnished,540.0,500.0,East,2, Tamil Nadu,10000,0,0
+725,Apartments,2,2,Semi-Furnished,835.0,3000.0,West,4, Tamil Nadu,14000,0,0
+726,Apartments,2,2,Unfurnished,600.0,300.0,North,2, Tamil Nadu,8500,0,0
+727,Builder Floors,3,2,Semi-Furnished,100.0,100.0,North,1, Tamil Nadu,10000,0,0
+728,Houses & Villas,1,1,Unfurnished,400.0,500.0,South,3, Tamil Nadu,8500,0,0
+729,Apartments,2,2,Semi-Furnished,1150.0,1800.0,North,4, Tamil Nadu,22000,0,0
+730,Apartments,3,2,Unfurnished,1150.0,1400.0,North-East,2, Tamil Nadu,1000000,0,0
+731,Houses & Villas,2,1,Unfurnished,200.0,1000.0,East,1, Tamil Nadu,800000,0,0
+732,Houses & Villas,1,1,Semi-Furnished,400.0,500.0,North,2, Tamil Nadu,300000,0,0
+733,Houses & Villas,2,3,Semi-Furnished,1500.0,300.0,others,1, Tamil Nadu,7000,0,1
+734,Houses & Villas,2,3,Semi-Furnished,1230.0,0.0,North,1, Tamil Nadu,8500,0,0
+735,Houses & Villas,3,3,Unfurnished,1200.0,100.0,North,1, Tamil Nadu,12500,0,0
+736,Builder Floors,2,2,Semi-Furnished,1350.0,1000.0,North,2, Tamil Nadu,18000,0,0
+737,Houses & Villas,1,1,Semi-Furnished,800.0,0.0,South,0, Tamil Nadu,5500,1,0
+738,Apartments,2,2,Semi-Furnished,820.0,750.0,West,3, Tamil Nadu,15000,0,0
+739,Builder Floors,2,2,Semi-Furnished,600.0,750.0,North,2, Tamil Nadu,12500,0,0
+740,Apartments,2,2,Furnished,1000.0,3000.0,North,4, Tamil Nadu,1000000,0,0
+741,Houses & Villas,4,4,Semi-Furnished,1800.0,3000.0,East,2, Tamil Nadu,22000,0,0
+742,Houses & Villas,5,5,Furnished,1000.0,1000.0,East,3, Tamil Nadu,25000,0,0
+743,Apartments,1,1,Furnished,800.0,500.0,East,3, Tamil Nadu,20000,0,0
+744,Apartments,1,1,Semi-Furnished,1000.0,500.0,others,2, Tamil Nadu,8000,0,0
+745,Houses & Villas,2,2,Semi-Furnished,1000.0,200.0,East,1, Tamil Nadu,6500,0,0
+746,Houses & Villas,1,1,Unfurnished,400.0,0.0,East,2, Tamil Nadu,6500,0,0
+747,Houses & Villas,1,1,Semi-Furnished,150.0,300.0,East,2, Tamil Nadu,1500,0,0
+748,Apartments,2,2,Semi-Furnished,2200.0,200.0,East,1, Tamil Nadu,8000,0,0
+749,Houses & Villas,2,2,Furnished,1000.0,10000.0,others,1, Tamil Nadu,10000,0,0
+750,Houses & Villas,2,2,Semi-Furnished,1000.0,300.0,others,1, Tamil Nadu,10000,0,1
+751,Houses & Villas,2,2,Unfurnished,1050.0,0.0,North,2, Tamil Nadu,600000,0,0
+752,Houses & Villas,2,2,Unfurnished,800.0,200.0,East,3, Tamil Nadu,7500,0,0
+753,Houses & Villas,1,1,Semi-Furnished,550.0,500.0,West,1, Tamil Nadu,600000,0,0
+754,Apartments,1,1,Semi-Furnished,550.0,500.0,North,2, Tamil Nadu,9500,0,0
+755,Apartments,1,1,Unfurnished,700.0,500.0,West,2, Tamil Nadu,6500,0,0
+756,Builder Floors,1,1,Unfurnished,700.0,750.0,East,2, Tamil Nadu,8500,0,0
+757,Apartments,3,3,Furnished,3000.0,1500.0,West,7, Tamil Nadu,30000,0,0
+758,Builder Floors,1,1,Unfurnished,1200.0,300.0,others,1, Tamil Nadu,450000,0,1
+759,Houses & Villas,2,3,Furnished,750.0,500.0,South-West,1, Tamil Nadu,5000,0,0
+760,Builder Floors,2,1,Unfurnished,680.0,500.0,North,1, Tamil Nadu,11000,0,0
+761,Apartments,3,3,Furnished,1200.0,1000.0,North,3, Tamil Nadu,26000,0,0
+762,Houses & Villas,1,1,Semi-Furnished,1800.0,300.0,others,1, Tamil Nadu,5000,0,1
+763,Houses & Villas,1,1,Unfurnished,500.0,200.0,others,2, Tamil Nadu,5500,0,0
+764,Apartments,1,1,Furnished,660.0,1500.0,others,3, Tamil Nadu,45000,0,0
+765,Apartments,2,1,Semi-Furnished,875.0,2500.0,North,3, Tamil Nadu,12000,0,0
+766,Houses & Villas,2,2,Semi-Furnished,580.0,750.0,West,1, Tamil Nadu,13000,0,0
+767,Houses & Villas,2,2,Unfurnished,150.0,100.0,East,0, Tamil Nadu,500000,0,0
+768,Apartments,2,1,Semi-Furnished,750.0,1000.0,North,3, Tamil Nadu,800000,0,0
+769,Houses & Villas,2,2,Semi-Furnished,1100.0,0.0,South,1, Tamil Nadu,11000,0,0
+770,Houses & Villas,2,1,Unfurnished,100.0,500.0,East,2, Tamil Nadu,7000,0,0
+771,Houses & Villas,2,3,Semi-Furnished,1450.0,12000.0,South,1, Tamil Nadu,12000,0,0
+772,Houses & Villas,1,2,Semi-Furnished,800.0,300.0,others,1, Tamil Nadu,4000,1,1
+773,Houses & Villas,2,2,Semi-Furnished,1500.0,10000.0,East,0, Tamil Nadu,10000,0,0
+774,Apartments,2,1,Semi-Furnished,650.0,250.0,South,2, Tamil Nadu,7000,0,0
+775,Apartments,3,2,Semi-Furnished,1200.0,2400.0,others,15, Tamil Nadu,15000,0,0
+776,Builder Floors,5,3,Furnished,5000.0,0.0,East,2, Tamil Nadu,50000,0,0
+777,Houses & Villas,3,2,Semi-Furnished,1300.0,0.0,South,2, Tamil Nadu,8600,0,0
+778,Houses & Villas,2,1,Semi-Furnished,550.0,0.0,West,2, Tamil Nadu,9000,0,0
+779,Apartments,3,2,Semi-Furnished,1200.0,2500.0,West,4, Tamil Nadu,13000,0,0
+780,Apartments,2,2,Furnished,950.0,4000.0,North,14, Tamil Nadu,25000,0,0
+781,Apartments,2,2,Unfurnished,500.0,200.0,North,2, Tamil Nadu,8000,0,0
+782,Apartments,1,1,Semi-Furnished,415.0,500.0,West,1, Tamil Nadu,4500,0,0
+783,Houses & Villas,1,1,Unfurnished,200.0,300.0,others,1, Tamil Nadu,700000,0,1
+784,Houses & Villas,1,1,Unfurnished,150.0,500.0,West,2, Tamil Nadu,8000,0,0
+785,Builder Floors,1,1,Unfurnished,800.0,500.0,East,3, Tamil Nadu,300000,0,0
+786,Apartments,2,2,Unfurnished,520.0,1200.0,North,2, Tamil Nadu,15000,0,0
+787,Houses & Villas,1,1,Semi-Furnished,800.0,0.0,West,3, Tamil Nadu,7000,1,0
+788,Apartments,2,2,Semi-Furnished,500.0,2500.0,North,4, Tamil Nadu,15500,0,0
+789,Houses & Villas,2,1,Unfurnished,2400.0,100.0,East,1, Tamil Nadu,6000,0,0
+790,Houses & Villas,2,1,Unfurnished,1200.0,300.0,West,2, Tamil Nadu,9000,0,0
+791,Houses & Villas,1,1,Semi-Furnished,400.0,300.0,others,2, Tamil Nadu,6000,0,1
+792,Apartments,1,1,Furnished,450.0,500.0,East,2, Tamil Nadu,5000,0,0
+793,Houses & Villas,2,2,Furnished,200.0,0.0,South,2, Tamil Nadu,20000,0,0
+794,Apartments,1,1,Unfurnished,420.0,0.0,East,2, Tamil Nadu,6000,0,0
+795,Apartments,2,2,Semi-Furnished,650.0,200.0,North,3, Tamil Nadu,7300,0,0
+796,Builder Floors,2,2,Unfurnished,1100.0,500.0,East,2, Tamil Nadu,12000,0,0
+797,Houses & Villas,1,1,Unfurnished,100.0,100.0,North,1, Tamil Nadu,6000,0,0
+798,Houses & Villas,2,2,Unfurnished,720.0,200.0,West,2, Tamil Nadu,10500,0,0
+799,Houses & Villas,1,1,Unfurnished,400.0,0.0,North,1, Tamil Nadu,300000,0,0
+800,Houses & Villas,2,2,Unfurnished,550.0,200.0,North,2, Tamil Nadu,6000,0,0
+801,Apartments,1,1,Unfurnished,450.0,400.0,South,1, Tamil Nadu,360000,0,0
+802,Builder Floors,2,2,Furnished,900.0,0.0,West,3, Tamil Nadu,2500,0,0
+803,Builder Floors,1,1,Unfurnished,150.0,0.0,North,2, Tamil Nadu,7000,0,0
+804,Apartments,2,2,Semi-Furnished,800.0,500.0,West,2, Tamil Nadu,12000,0,0
+805,Apartments,2,2,Semi-Furnished,800.0,1500.0,North,4, Tamil Nadu,14000,1,0
+806,Houses & Villas,2,2,Semi-Furnished,200.0,6500.0,East,1, Tamil Nadu,6500,0,0
+807,Builder Floors,1,1,Unfurnished,350.0,200.0,East,3, Tamil Nadu,4500,0,0
+808,Apartments,1,1,Unfurnished,500.0,350.0,North,1, Tamil Nadu,6000,0,0
+809,Houses & Villas,4,4,Semi-Furnished,2750.0,500.0,North,1, Tamil Nadu,50000,0,0
+810,Apartments,2,2,Semi-Furnished,750.0,335.0,East,2, Tamil Nadu,9500,0,0
+811,Apartments,2,2,Furnished,1200.0,1500.0,South-East,11, Tamil Nadu,25000,0,0
+812,Houses & Villas,2,1,Unfurnished,2000.0,0.0,East,2, Tamil Nadu,500000,0,0
+813,Houses & Villas,1,1,Furnished,300.0,4500.0,East,2, Tamil Nadu,4500,0,0
+814,Houses & Villas,2,2,Semi-Furnished,800.0,0.0,East,0, Tamil Nadu,5000,0,0
+815,Apartments,1,1,Furnished,450.0,300.0,North,2, Tamil Nadu,9000,0,0
+816,Apartments,3,3,Unfurnished,1000.0,300.0,North,2, Tamil Nadu,8000,0,0
+817,Houses & Villas,2,2,Semi-Furnished,1200.0,0.0,North,1, Tamil Nadu,9000,0,0
+818,Apartments,2,2,Semi-Furnished,922.0,2500.0,East,9, Tamil Nadu,11500,0,0
+819,Houses & Villas,1,1,Unfurnished,800.0,500.0,North,2, Tamil Nadu,8500,1,0
+820,Houses & Villas,1,1,Unfurnished,800.0,300.0,others,2, Tamil Nadu,300000,1,1
+821,Apartments,2,2,Semi-Furnished,800.0,1000.0,North-East,3, Tamil Nadu,10000,0,0
+822,Apartments,2,2,Semi-Furnished,955.0,1000.0,North,4, Tamil Nadu,9000,0,0
+823,Builder Floors,3,3,Unfurnished,1800.0,0.0,North,1, Tamil Nadu,40000,0,0
+824,Apartments,2,2,Semi-Furnished,1500.0,7500.0,North-West,3, Tamil Nadu,7500,0,0
+825,Houses & Villas,2,1,Semi-Furnished,1550.0,150.0,North,1, Tamil Nadu,6800,0,0
+826,Apartments,2,2,Semi-Furnished,955.0,3500.0,South,4, Tamil Nadu,17000,0,0
+827,Apartments,2,2,Semi-Furnished,1000.0,500.0,East,2, Tamil Nadu,14000,0,0
+828,Houses & Villas,2,3,Furnished,950.0,35000.0,North,1, Tamil Nadu,35000,0,0
+829,Houses & Villas,1,1,Unfurnished,800.0,150.0,South,2, Tamil Nadu,6000,0,0
+830,Houses & Villas,2,2,Unfurnished,1000.0,300.0,others,3, Tamil Nadu,9500,0,0
+831,Houses & Villas,1,1,Semi-Furnished,490.0,500.0,North-East,2, Tamil Nadu,10000,0,0
+832,Houses & Villas,3,3,Unfurnished,1500.0,0.0,South,2, Tamil Nadu,18000,0,0
+833,Apartments,1,1,Semi-Furnished,100.0,1300.0,South,3, Tamil Nadu,8000,0,0
+834,Houses & Villas,1,1,Unfurnished,545.0,300.0,North-East,1, Tamil Nadu,300000,0,0
+835,Houses & Villas,2,2,Unfurnished,675.0,500.0,others,1, Tamil Nadu,11000,0,0
+836,Apartments,3,2,Semi-Furnished,1000.0,500.0,South-West,2, Tamil Nadu,600000,0,0
+837,Houses & Villas,2,2,Semi-Furnished,900.0,17500.0,East,3, Tamil Nadu,17500,0,0
+838,Houses & Villas,2,2,Semi-Furnished,750.0,300.0,North,1, Tamil Nadu,9000,0,0
+839,Houses & Villas,2,2,Semi-Furnished,1000.0,13000.0,South,1, Tamil Nadu,13000,0,0
+840,Apartments,2,2,Furnished,746.0,1250.0,East,7, Tamil Nadu,12000,0,0
+841,Houses & Villas,1,1,Unfurnished,1500.0,0.0,South,2, India,6500,0,0
+842,Houses & Villas,2,2,Semi-Furnished,600.0,100.0,North,2, Tamil Nadu,10500,0,0
+843,Houses & Villas,2,2,Unfurnished,750.0,300.0,North-East,1, Tamil Nadu,8000,0,0
+844,Houses & Villas,1,1,Semi-Furnished,400.0,0.0,East,0, Tamil Nadu,12000,0,0
+845,Houses & Villas,1,1,Unfurnished,450.0,500.0,North,2, Tamil Nadu,350000,0,0
+846,Houses & Villas,1,2,Semi-Furnished,900.0,500.0,South,2, Tamil Nadu,8000,0,0
+847,Apartments,2,2,Semi-Furnished,900.0,1000.0,East,3, Tamil Nadu,17000,0,0
+848,Houses & Villas,3,2,Semi-Furnished,1050.0,200.0,East,1, Tamil Nadu,9500,0,0
+849,Apartments,2,1,Furnished,100.0,100.0,North-East,2, Tamil Nadu,9500,0,0
+850,Apartments,1,1,Furnished,600.0,300.0,others,1, Tamil Nadu,1000,0,1
+851,Houses & Villas,2,2,Semi-Furnished,800.0,300.0,others,0, Tamil Nadu,6000,0,1
+852,Houses & Villas,2,3,Semi-Furnished,1000.0,300.0,others,1, Tamil Nadu,9500,0,1
+853,Apartments,2,3,Semi-Furnished,800.0,4500.0,North,18, Tamil Nadu,25000,0,0
+854,Apartments,2,2,Furnished,1000.0,2000.0,North,3, Tamil Nadu,24000,0,0
+855,Houses & Villas,2,2,Semi-Furnished,2500.0,0.0,East,1, Tamil Nadu,9800,0,0
+856,Houses & Villas,2,2,Unfurnished,1300.0,0.0,East,1, Tamil Nadu,15000,0,0
+857,Apartments,3,3,Semi-Furnished,2500.0,3500.0,North,2, Tamil Nadu,26000,0,0
+858,Apartments,1,1,Semi-Furnished,650.0,2100.0,North-East,8, Tamil Nadu,12000,0,0
+859,Apartments,1,1,Unfurnished,750.0,300.0,East,2, Tamil Nadu,7000,0,0
+860,Houses & Villas,2,2,Furnished,2000.0,300.0,others,0, Tamil Nadu,11000,0,1
+861,Houses & Villas,2,2,Furnished,1150.0,0.0,East,2, Tamil Nadu,500000,0,0
+862,Apartments,2,3,Furnished,500.0,10000.0,West,2, Tamil Nadu,10000,0,0
+863,Houses & Villas,2,2,Furnished,200.0,200.0,East,2, Tamil Nadu,8000,0,0
+864,Houses & Villas,2,2,Semi-Furnished,850.0,300.0,others,1, Tamil Nadu,1200000,0,1
+865,Apartments,2,2,Unfurnished,1200.0,0.0,North,2, Tamil Nadu,9000,0,0
+866,Houses & Villas,2,1,Unfurnished,2000.0,0.0,East,2, Tamil Nadu,500000,0,0
+867,Houses & Villas,2,1,Unfurnished,800.0,300.0,others,1, Tamil Nadu,12600,0,1
+868,Apartments,3,3,Semi-Furnished,1650.0,5000.0,East,4, Tamil Nadu,1500000,0,0
+869,Apartments,2,2,Semi-Furnished,1170.0,2000.0,North,4, Tamil Nadu,12000,0,0
+870,Apartments,2,2,Furnished,1200.0,2300.0,South,3, Tamil Nadu,16000,0,0
+871,Apartments,2,2,Semi-Furnished,950.0,3000.0,North,4, Tamil Nadu,16000,0,0
+872,Apartments,3,3,Unfurnished,1200.0,2740.0,West,10, Tamil Nadu,20000,0,0
+873,Houses & Villas,1,1,Semi-Furnished,196.0,0.0,North-West,1, Tamil Nadu,3500,0,0
+874,Houses & Villas,2,2,Furnished,550.0,500.0,East,1, Tamil Nadu,12500,0,0
+875,Houses & Villas,1,1,Semi-Furnished,200.0,0.0,East,2, Tamil Nadu,6300,0,0
+876,Apartments,3,2,Semi-Furnished,1250.0,2500.0,West,4, Tamil Nadu,20000,0,0
+877,Apartments,1,1,Unfurnished,450.0,200.0,West,2, Tamil Nadu,9000,0,0
+878,Houses & Villas,1,1,Unfurnished,500.0,300.0,North,2, Tamil Nadu,6000,0,0
+879,Apartments,3,2,Semi-Furnished,950.0,1800.0,East,3, Tamil Nadu,9000,0,0
+880,Apartments,2,2,Unfurnished,800.0,900.0,South,4, Tamil Nadu,7000,1,0
+881,Houses & Villas,1,1,Semi-Furnished,400.0,500.0,North,2, Tamil Nadu,10000,0,0
+882,Apartments,2,2,Semi-Furnished,1000.0,400.0,North,2, Tamil Nadu,10000,0,0
+883,Houses & Villas,2,1,Semi-Furnished,650.0,0.0,South,2, Tamil Nadu,12000,0,0
+884,Houses & Villas,1,1,Unfurnished,800.0,0.0,others,0, Tamil Nadu,4000,1,0
+885,Apartments,2,2,Semi-Furnished,1085.0,2200.0,North,4, Tamil Nadu,22000,0,0
+886,Houses & Villas,2,2,Semi-Furnished,780.0,500.0,West,1, Tamil Nadu,11000,0,0
